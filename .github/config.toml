@@ -1,0 +1,9 @@
+[__config__]
+oldver="old_ver.json"
+newver="new_ver.json"
+
+[flypy]
+source="regex"
+regex="安卓_(.*)版"
+encoding="gb2312"
+url="https://flypy.com/index.html"

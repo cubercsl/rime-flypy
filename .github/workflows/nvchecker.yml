@@ -1,0 +1,42 @@
+name: nvchecker
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/config.toml'
+  schedule:
+    - cron: 0 */3 * * *
+  workflow_dispatch:
+
+jobs:
+  check-new-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install libssl-dev libcurl4-openssl-dev
+          python -m pip install --upgrade pip
+          python -m pip install nvchecker
+
+      - name: Run nvchecker
+        run: |
+          cd .github/
+          nvchecker -c config.toml
+          nvcmp -c config.toml
+          nvtake -c config.toml --all
+
+      - name: Commit change
+        uses: EndBug/add-and-commit@v7.0.0 
+        with:
+          add: "*.json"
+          author_name: github-actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
