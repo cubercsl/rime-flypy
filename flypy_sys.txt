@@ -99,6 +99,7 @@ http://flypy.ys168.com	xhwp
 不解之谜	bjvm
 不绝于耳	bjye
 不拘一格	bjyg
+不经意间	bjyj
 并肩作战	bjzv
 闭口不言	bkby
 不可避免	bkbm
@@ -120,6 +121,7 @@ http://flypy.ys168.com	xhwp
 贬低	bmdi
 本末倒置	bmdv
 八面玲珑	bmll
+不明所以	bmsy
 贬值	bmvi
 拔苗助长	bmvv
 兵马未动	bmwd
@@ -127,6 +129,7 @@ http://flypy.ys168.com	xhwp
 闭门造车	bmzi
 百年大计	bndj
 博彩	bocd
+拨付	bofu
 搏击	boji
 剥离	boli
 波兰	bolj
@@ -142,6 +145,7 @@ http://flypy.ys168.com	xhwp
 补位	buww
 补习	buxi
 不是冤家不聚头	buyt
+捕鱼	buyu
 不畏艰难	bwjn
 百无聊赖	bwll
 不问青红皂白	bwqb
@@ -150,10 +154,12 @@ http://flypy.ys168.com	xhwp
 百无一用	bwyy
 百味杂陈	bwzi
 巴西利亚	bxly
+百依百顺	bybu
 比翼齐飞	byqf
 从前	cq
 璀璨夺目	ccdm
 惨淡经营	cdjy
+刺客	cike
 词频	cipb
 赐予	ciyu
 错失	coui
@@ -167,8 +173,10 @@ http://flypy.ys168.com	xhwp
 都江堰	djy
 电视剧	duj
 单引号	dyh
+大错	daco
 大涨	davh
 大侠	daxx
+打赢	dayk
 打草惊蛇	dcju
 多此一举	dcyj
 单打独斗	dddd
@@ -184,12 +192,14 @@ http://flypy.ys168.com	xhwp
 多多益善	ddyu
 颠倒阴阳	ddyy
 达官贵人	dggr
+蹬踏	dgta
 电光石火	dguh
 大汗淋漓	dhll
 调虎离山	dhlu
 地步	dibu
 滴答	dida
 大吃大喝	didh
+大吵大闹	didn
 低端	didr
 嫡亲	diqb
 洞察秋毫	diqh
@@ -208,6 +218,7 @@ http://flypy.ys168.com	xhwp
 独门独户	dmdh
 独门独院	dmdy
 垫付	dmfu
+调令	dnlk
 冬暖夏凉	dnxl
 夺命	domk
 洞房	dsfh
@@ -221,6 +232,7 @@ http://flypy.ys168.com	xhwp
 大书特书	dutu
 滴水之恩	duve
 东施效颦	duxp
+洞烛其奸	dvqj
 地主之谊	dvvy
 斗转星移	dvxy
 俄语	eeyu
@@ -231,6 +243,8 @@ http://flypy.ys168.com	xhwp
 否则	fz
 放射性	fux
 服务器	fwq
+发愣	falg
+发令	falk
 法语	fayu
 愤愤不平	ffbp
 反反复复	ffff
@@ -256,6 +270,7 @@ http://flypy.ys168.com	xhwp
 浮标	fubn
 肥水不流外人田	fubt
 分身乏术	fufu
+俯首称臣	fuii
 妇女	funv
 付钱	fuqm
 粉饰太平	futp
@@ -281,6 +296,7 @@ http://flypy.ys168.com	xhwp
 公共场合	ggih
 规规矩矩	ggjj
 高歌猛进	ggmj
+功高震主	ggvv
 呱呱坠地	ggvd
 鬼话连篇	ghlp
 高居榜首	gjbu
@@ -337,6 +353,7 @@ http://flypy.ys168.com	xhwp
 湖北省	hbug
 恨不相逢未嫁时	hbxu
 耗电	hcdm
+皇帝不急太监急	hdbj
 患得患失	hdhu
 华灯初上	hdiu
 寒冬腊月	hdly
@@ -369,6 +386,7 @@ http://flypy.ys168.com	xhwp
 恍如隔世	hrgu
 浑然不觉	hrbj
 缓解	hrjp
+恍若未闻	hrww
 浩如烟海	hryh
 好事不出门	hubm
 好事多磨	hudm
@@ -383,6 +401,7 @@ http://flypy.ys168.com	xhwp
 护士	huui
 含沙射影	huuy
 会者不难	hvbn
+回改	hvgd
 货真价实	hvju
 哗众取宠	hvqi
 晦涩	hvse
@@ -390,6 +409,7 @@ http://flypy.ys168.com	xhwp
 回信	hvxb
 话中有话	hvyh
 回忆	hvyi
+花无百日红	hwbh
 毫无用处	hwyi
 毫无怨言	hwyy
 横行霸道	hxbd
@@ -399,6 +419,8 @@ http://flypy.ys168.com	xhwp
 混淆是非	hxuf
 滑翔	hxxl
 忽隐忽现	hyhx
+慧眼如炬	hyrj
+婚俗	hysu
 慧眼识珠	hyuv
 红颜知己	hyvj
 好逸恶劳	hywl
@@ -417,6 +439,7 @@ http://flypy.ys168.com	xhwp
 超凡脱俗	ifts
 冲锋陷阵	ifxv
 春寒料峭	ihlq
+超乎寻常	ihxi
 承建	igjm
 出乖露丑	igli
 承销	igxn
@@ -442,8 +465,10 @@ http://flypy.ys168.com	xhwp
 长盛不衰	iubu
 出动	iuds
 成双成对	iuid
+处罚	iufa
 出糗	iuqq
 畜生	iuug
+除夕	iuxi
 重拾信心	iuxx
 乘胜追击	iuvj
 察言观色	iygs
@@ -521,11 +546,13 @@ http://flypy.ys168.com	xhwp
 假模假样	jmjy
 间距	jmju
 贱人	jmrf
+肩上	jmuh
 监视	jmui
 艰辛	jmxb
 奸细	jmxi
 监狱	jmyu
 教诲	jnhv
+较劲	jnjb
 焦急	jnji
 矫健	jnjm
 交界	jnjp
@@ -534,9 +561,11 @@ http://flypy.ys168.com	xhwp
 倦鸟知还	jnvh
 叫嚣	jnxn
 几内亚	jnya
+解毒	jpdu
 解除	jpiu
 解禁	jpjb
 洁净	jpjk
+节俭	jpjm
 阶梯	jpti
 结实	jpui
 戒指	jpvi
@@ -609,6 +638,7 @@ http://flypy.ys168.com	xhwp
 老花	lchx
 郎才女貌	lcnm
 落地生根	ldug
+来世	ldui
 利国利民	lglm
 锣鼓喧天	lgxt
 论功行赏	lgxu
@@ -622,6 +652,7 @@ http://flypy.ys168.com	xhwp
 例行	lixk
 离家出走	ljiz
 浪迹江湖	ljjh
+领衔	lkxm
 来历不明	llbm
 恋恋不舍	llbu
 唠唠叨叨	lldd
@@ -632,6 +663,7 @@ http://flypy.ys168.com	xhwp
 来龙去脉	llqm
 冷冷清清	llqq
 啰啰嗦嗦	llss
+沦落至此	llvc
 利令智昏	llvh
 寥寥无几	llwj
 碌碌无为	llww
@@ -642,11 +674,13 @@ http://flypy.ys168.com	xhwp
 螺蛳	losi
 两全其美	lqqm
 留宿	lqsu
+流逝	lqui
 流血	lqxt
 利人不利己	lrbj
 令人齿冷	lril
 理所当然	lsdr
 牢骚满腹	lsmf
+掠过	ltgo
 路途遥远	ltyy
 乐善好施	luhu
 绿水青山	luqu
@@ -704,8 +738,8 @@ http://flypy.ys168.com	xhwp
 鸟尽弓藏	njgc
 南海	njhd
 难堪	njkj
-哪能不湿鞋	nnbx
 扭扭捏捏	nnnn
+能省则省	nuzu
 能征惯战	nvgv
 能者为师	nvwu
 屁大点事	pddu
@@ -800,6 +834,7 @@ http://flypy.ys168.com	xhwp
 七手八脚	qubj
 秋收冬藏	qudc
 亲上加亲	qujq
+强身健体	qujt
 前世今生	quju
 青山绿水	qulu
 巧舌如簧	qurh
@@ -832,6 +867,7 @@ http://flypy.ys168.com	xhwp
 索然无味	srww
 松紧	ssjb
 松树	ssuu
+素菜	sucd
 丧失殆尽	sudj
 似水流年	suln
 四书五经	suwj
@@ -846,6 +882,7 @@ http://flypy.ys168.com	xhwp
 天寒地冻	thdd
 条件反射	tjfu
 囤积居奇	tjjq
+弹琴	tjqb
 偷奸耍滑	tjuh
 恬淡	tmdj
 填空	tmks
@@ -879,11 +916,13 @@ http://flypy.ys168.com	xhwp
 舍不得孩子套不住狼	ubdl
 事必躬亲	ubgq
 胜败乃兵家常事	ubnu
+鼠肚鸡肠	udji
 射程	ueig
 设想	uexl
 尚方宝剑	ufbj
 神采	ufcd
 是非功过	ufgg
+伸出	ufiu
 杀富济贫	ufjp
 神情	ufqk
 神色	ufse
@@ -895,6 +934,7 @@ http://flypy.ys168.com	xhwp
 省长	ugvh
 尸骨未寒	ugwh
 生性	ugxk
+圣贤	ugxm
 声誉	ugyu
 神魂颠倒	uhdd
 伤痕累累	uhll
@@ -906,6 +946,7 @@ http://flypy.ys168.com	xhwp
 伤亡	uhwh
 商务	uhwu
 上限	uhxm
+伤员	uhyr
 说长道短	uidd
 石沉大海	uidh
 师范	uifj
@@ -945,6 +986,8 @@ http://flypy.ys168.com	xhwp
 身手不凡	uubf
 世世代代	uudd
 世事洞明	uudm
+审时度势	uudu
+输过	uugo
 水深火热	uuhr
 书籍	uuji
 姗姗来迟	uuli
@@ -961,6 +1004,7 @@ http://flypy.ys168.com	xhwp
 熟视无睹	uuwd
 上上下下	uuxx
 稍胜一筹	uuyi
+时势造英雄	uuzx
 胜之不武	uvbw
 身正不怕影子斜	uvbx
 失之东隅	uvdy
@@ -1018,8 +1062,8 @@ http://flypy.ys168.com	xhwp
 至高无上	vgwu
 这个月	vgy
 正义	vgyi
+追悔莫及	vhmj
 致辞	vici
-铸成大错	vidc
 指挥	vihv
 滞后	vihz
 职称	viig
@@ -1057,6 +1101,8 @@ http://flypy.ys168.com	xhwp
 终身大事	vudu
 嘱咐	vufu
 主观	vugr
+著称	vuig
+主见	vujm
 著书立说	vulu
 著名	vumk
 仗势欺人	vuqr
@@ -1089,6 +1135,7 @@ http://flypy.ys168.com	xhwp
 外星	wdxk
 闻道有先后	wdyh
 威风扫地	wfsd
+无法忘怀	wfwh
 网管	whgr
 为虎作伥	whzi
 无坚不摧	wjbc
@@ -1122,6 +1169,7 @@ http://flypy.ys168.com	xhwp
 无疑	wuyi
 巫山云雨	wuyy
 瓮中之鳖	wvvb
+物我两忘	wwlw
 卫冕	wwmm
 歪歪扭扭	wwnn
 围棋	wwqi
@@ -1132,7 +1180,6 @@ http://flypy.ys168.com	xhwp
 五味杂陈	wwzi
 妄下断语	wxdy
 惟有饮者留其名	wyym
-笑道	xd
 修改	xg
 下面	xm
 小时	xu
@@ -1161,6 +1208,8 @@ http://flypy.ys168.com	xhwp
 邪不胜正	xbuv
 虾兵蟹将	xbxj
 新兴	xbxk
+心仪	xbyi
+想东想西	xdxx
 相得益彰	xdyv
 星光灿烂	xgcl
 新陈代谢	xidx
@@ -1185,6 +1234,7 @@ http://flypy.ys168.com	xhwp
 血流成河	xlih
 橡胶	xljn
 星罗棋布	xlqb
+镶嵌	xlqm
 血流如注	xlrv
 泄露天机	xltj
 心领神会	xluh
@@ -1236,7 +1286,6 @@ http://flypy.ys168.com	xhwp
 先下一城	xxyi
 心心相印	xxxy
 香消玉殒	xxyy
-寻衅滋事	xxzu
 咸鱼翻身	xyfu
 匈牙利	xyli
 悬崖勒马	xylm
@@ -1291,6 +1340,7 @@ http://flypy.ys168.com	xhwp
 扬长避短	yibd
 一尘不染	yibr
 阳春白雪	yibx
+一代	yidd
 已成定局	yidj
 一锤定音	yidy
 依附	yifu
@@ -1298,7 +1348,6 @@ http://flypy.ys168.com	xhwp
 寅吃卯粮	yiml
 一匹	yipi
 仪器	yiqi
-衣裳	yiuh
 遗忘	yiwh
 运筹帷幄	yiww
 羊肠小道	yixd
@@ -1314,6 +1363,7 @@ http://flypy.ys168.com	xhwp
 义结金兰	yjjl
 严苛	yjke
 冤家路窄	yjlv
+俨然	yjrj
 延伸	yjuf
 掩饰	yjui
 炎症	yjvg
@@ -1325,6 +1375,7 @@ http://flypy.ys168.com	xhwp
 以儆效尤	yjxy
 言尽于此	yjyc
 咬紧牙关	yjyg
+赢过	ykgo
 影射	ykue
 哑口无言	ykwy
 有利无害	ylwh
@@ -1427,6 +1478,7 @@ http://flypy.ys168.com	xhwp
 犹犹豫豫	yyyy
 邮编	yzbm
 优点	yzdm
+以资鼓励	yzgl
 忧愁	yziz
 右键	yzjm
 有理	yzli
@@ -1439,6 +1491,7 @@ http://flypy.ys168.com	xhwp
 犹豫	yzyu
 总算	zs
 座右铭	zym
+匝道	zadc
 自驾	zijx
 锃亮	zgll
 姿色	zise
@@ -1446,6 +1499,7 @@ http://flypy.ys168.com	xhwp
 自助	zivu
 自愿	ziyr
 自成一体	ziyt
+坐实	zoui
 座位	zoww
 纵观	zsgr
 坐失良机	zulj
@@ -1587,7 +1641,7 @@ http://flypy.ys168.com	xhwp
 廾	obc	99
 冫	obd	100
 氵	obd	99
-	obd	98
+⺈	obd	98
 刂	obd	97
 阝	obe	100
 卩	obe	99
@@ -1596,7 +1650,7 @@ http://flypy.ys168.com	xhwp
 见下部	obe	96
 扌	obf	100
 寿带上部	obf	99
-	obf	98
+龶	obf	98
 缶	obf	97
 既左部	obg	100
 艮	obg	99
@@ -1612,7 +1666,7 @@ http://flypy.ys168.com	xhwp
 虫	obi	98
 钅	obj	100
 金	obj	99
-	obj	98
+龹	obj	98
 匚	obk	100
 冂	obk	99
 凵	obk	98
@@ -1622,7 +1676,7 @@ http://flypy.ys168.com	xhwp
 立	obl	99
 龙	obl	98
 朩	obm
-	obn	100
+⺧	obn	100
 牜	obn	99
 日	obo	100
 月	obo	99
@@ -1635,15 +1689,15 @@ http://flypy.ys168.com	xhwp
 亻	obr
 纟	obs	100
 厶	obs	99
-	obs	98
+龴	obs	98
 罒	obs	97
 田	obt
 饣	obu	100
-	obu	99
-	obu	98
+龵	obu	99
+𠂇	obu	98
 氺	obu	97
 石	obu	96
-	obv	100
+⺮	obv	100
 豸	obv	99
 亠	obw	100
 夂	obw	99
@@ -1652,14 +1706,14 @@ http://flypy.ys168.com	xhwp
 忄	obx	100
 乂	obx	99
 ⺍	obx	98
-	obx	97
-	obx	96
+⺌	obx	97
+⺗	obx	96
 讠	oby	100
-	oby	99
-	oby	98
+⺷	oby	99
+⺶	oby	98
 𧘇	oby	97
 羊	oby	96
-	obz	100
+⻊	obz	100
 廴	obz	99
 辶	obz	98
 ”	oc
@@ -2970,7 +3024,6 @@ m³	otl	100
 钐	ujj/
 鄯	ujy/
 数	uom/
-澍	uud/
 秫	uuh/
 𬬸	uuj/
 殳	uuj/
@@ -2981,7 +3034,7 @@ m³	otl	100
 霅	vay/
 浈	vfd/
 昣	vfo/
-禛	vfp/
+否	pib/
 瑧	vfw/
 鄣	vhl/
 茋	vic/
@@ -3029,7 +3082,6 @@ m³	otl	100
 琟	www/
 亹	www/
 镡	xbj/
-䜣	xby/
 穸	xib/
 菥	xic/
 葸	xic/
@@ -3162,488 +3214,6 @@ m³	otl	100
 虸	zii/
 赀	ziv/
 
-#三码二四字词
-编织	bmv
-标的	bnd
-杯子	bwz
-彩蛋	cdd
-大于	day
-过渡	god
-诡计	gvj
-好吗	hcm
-何时	heu
-宏碁	hsq
-华为	hxw
-精英	jky
-检察	jmi
-捷径	jpj
-喟叹	kvt
-两边	llb
-哪边	nab
-哪次	nac
-哪点	nad
-哪儿	nae
-哪个	nag
-哪里	nal
-哪天	nat
-哪种	nav
-哪位	naw
-哪些	nax
-哪样	nay
-权势	qru
-时间	uij
-水平	uvp
-席位	xiw
-下级	xxj
-巡抚	xyf
-把守	bau
-把戏	bax
-报仇	bci
-宝剑	bcj
-报幕	bcm
-保鲜	bcx
-拜年	bdn
-摆脱	bdt
-编程	bmi
-辩解	bmj
-便签	bmq
-表哥	bng
-博学	box
-波音	boy
-憋屈	bpq
-补全	buq
-背部	bwb
-采风	cdf
-猜忌	cdj
-彩礼	cdl
-伺候	cih
-餐馆	cjg
-残局	cjj
-惨死	cjs
-撺掇	crd
-存管	cyg
-搭车	dai
-打架	daj
-打理	dal
-达摩	dam
-倒逼	dcb
-导出	dci
-倒是	dcu
-呆板	ddb
-代购	ddg
-带回	ddh
-代驾	ddj
-得志	dev
-得以	dey
-登记	dgj
-登陆	dgl
-当期	dhq
-当众	dhv
-地痞	dip
-低效	dix
-淡季	djj
-胆子	djz
-顶住	dkv
-屌丝	dns
-多于	doy
-跌价	dpj
-断点	drd
-短线	drx
-动机	dsj
-独唱	dui
-独自	duz
-对账	dvv
-儿媳	erx
-发火	fah
-发力	fal
-发型	fax
-发炎	fay
-分割	ffg
-分红	ffh
-分界	ffj
-奋力	ffl
-分神	ffu
-风力	fgl
-奉献	fgx
-访客	fhk
-放手	fhu
-防伪	fhw
-反腐	fjf
-反查	fji
-凡人	fjr
-反之	fjv
-抚慰	fuw
-废了	fwl
-费时	fwu
-飞舞	fww
-搞鬼	gcg
-高超	gci
-搞清	gcq
-高速	gcs
-高效	gcx
-鸽子	gez
-钢笔	ghb
-纲要	ghy
-光纤	glx
-国徽	goh
-国民	gom
-国情	goq
-果实	gou
-裹挟	gox
-聒噪	goz
-惯例	grl
-关头	grt
-官网	grw
-公会	gsh
-共计	gsj
-功名	gsm
-攻破	gsp
-公益	gsy
-公子	gsz
-古文	guw
-桂花	gvh
-龟速	gvs
-浩瀚	hch
-豪绅	hcu
-何妨	hef
-何尝	hei
-汉奸	hjj
-皇权	hlq
-火势	hou
-活着	hov
-火灾	hoz
-换了	hrl
-换手	hru
-宏图	hst
-回报	hvb
-徽章	hvv
-话费	hxf
-滑雪	hxx
-后腿	hzt
-后市	hzu
-插画	iah
-查出	iai
-超卖	icm
-撤诉	ies
-车展	iev
-城堡	igb
-诚实	igu
-诚信	igx
-尝到	ihd
-常理	ihl
-长篇	ihp
-常委	ihw
-场子	ihz
-迟了	iil
-创伤	ilu
-传导	ird
-串通	irt
-冲高	isg
-重组	isz
-橱柜	iug
-初衷	iuv
-出于	iuy
-春节	iyj
-踌躇	izi
-浆糊	jlh
-奖金	jlj
-剑鞘	jmq
-监听	jmt
-浇灌	jng
-叫唤	jnh
-接口	jpk
-解围	jpw
-纠葛	jqg
-久远	jqy
-军师	jyu
-客服	kef
-堪称	kji
-快了	kkl
-空当	ksd
-空缺	ksq
-亏钱	kvq
-跨过	kxg
-扣缴	kzj
-扣税	kzu
-老实	lcu
-理发	lif
-理工	lig
-零星	lkx
-连同	lmt
-列支	lpv
-榴莲	lql
-乱象	lrx
-聋子	lsz
-履行	lvx
-论剑	lyj
-毛线	mcx
-卖点	mdd
-迈过	mdg
-迈出	mdi
-卖家	mdj
-卖票	mdp
-迈入	mdr
-卖主	mdv
-懵逼	mgb
-蜜蜂	mif
-秘籍	mij
-满族	mjz
-明明	mkm
-明知	mkv
-明晰	mkx
-免礼	mml
-免谈	mmt
-末位	mow
-木板	mub
-每期	mwq
-没人	mwr
-美食	mwu
-年级	nmj
-年岁	nms
-农妇	nsf
-农畜	nsi
-浓妆	nsv
-奴隶	nul
-内侧	nwc
-内里	nwl
-牌照	pdv
-派息	pdx
-盘升	pju
-瓶颈	pkj
-漂移	pny
-颇费	pof
-破例	pol
-岂不	qib
-清静	qkj
-青涩	qks
-情谊	qky
-枪毙	qlb
-腔调	qld
-墙纸	qlv
-潜力	qml
-嵌套	qmt
-瞧瞧	qnq
-权力	qrl
-全套	qrt
-躯壳	quq
-取笑	qux
-忍了	rfl
-任职	rfv
-人性	rfx
-若是	rou
-乳汁	ruv
-入眼	ruy
-扫货	sch
-私信	six
-司仪	siy
-散布	sjb
-三维	sjw
-缩编	sob
-索贿	soh
-所幸	sox
-算出	sri
-算术	sru
-俗世	suu
-随即	svj
-叨扰	tcr
-抬高	tdg
-太晚	tdw
-特制	tev
-剔除	tii
-体制	tiv
-体温	tiw
-毯子	tjz
-停播	tkb
-跳高	tng
-跳空	tnk
-条例	tnl
-条约	tny
-拖鞋	tox
-童话	tsh
-同城	tsi
-通气	tsq
-同事	tsu
-腿部	tvb
-推导	tvd
-退费	tvf
-偷窥	tzk
-投降	tzx
-傻了	ual
-涉及	uej
-赊账	uev
-深化	ufh
-神坛	uft
-身姿	ufz
-剩菜	ugc
-升幅	ugf
-生化	ugh
-生姜	ugj
-生理	ugl
-声明	ugm
-生文	ugw
-赏赐	uhc
-上场	uhi
-上载	uhz
-使馆	uig
-使坏	uih
-闪亮	ujl
-说到	uod
-书摊	uut
-书信	uux
-水利	uvl
-谁知	uvv
-水文	uvw
-受到	uzd
-收工	uzg
-受贿	uzh
-收集	uzj
-受理	uzl
-手拿	uzn
-手上	uzu
-手下	uzx
-照办	vcb
-着凉	vcl
-朝霞	vcx
-债券	vdq
-宅子	vdz
-正途	vgt
-丈夫	vhf
-只管	vig
-值钱	viq
-质问	viw
-战线	vjx
-转头	vrt
-专项	vrx
-专研	vry
-仲裁	vsc
-终点	vsd
-重力	vsl
-忠实	vsu
-中心	vsx
-主体	vut
-注释	vuu
-坠毁	vvh
-皱起	vzq
-外接	wdj
-外壳	wdk
-外貌	wdm
-外甥	wdu
-稳健	wfj
-文殊	wfu
-蚊子	wfz
-王八	whb
-王后	whh
-旺季	whj
-往上	whu
-王者	whv
-网友	why
-晚了	wjl
-玩转	wjv
-玩意	wjy
-微风	wwf
-心算	xbs
-幸好	xkh
-行程	xki
-性急	xkj
-醒了	xkl
-兴致	xkv
-想必	xlb
-享福	xlf
-相连	xll
-象棋	xlq
-相思	xls
-相通	xlt
-巷子	xlz
-消化	xnh
-歇着	xpv
-雄起	xsq
-兄长	xsv
-雄伟	xsw
-续保	xub
-虚实	xuu
-瑕疵	xxc
-下蛋	xxd
-药店	ycd
-钥匙	ycu
-阉割	yjg
-严厉	yjl
-宴请	yjq
-原话	yrh
-远离	yrl
-拥护	ysh
-油锅	yzg
-砸了	zal
-杂质	zav
-造反	zcf
-造就	zcj
-糟了	zcl
-早起	zcq
-宰客	zdk
-字符	zif
-自贡	zig
-资深	ziu
-资讯	zix
-作假	zoj
-做了	zol
-总攻	zsg
-踪迹	zsj
-宗师	zsu
-宗旨	zsv
-纵向	zsx
-纵有	zsy
-阻止	zuv
-醉人	zvr
-走近	zzj
-博而不精	beb
-白日飞升	brf
-不着边际	bvb
-嘟嘟囔囔	ddn
-分门别类	fmb
-飞扬跋扈	fyb
-隔岸观火	gag
-高屋建瓴	gwj
-花繁叶茂	hfy
-金发碧眼	jfb
-甲方乙方	jfy
-将功补过	jgb
-将计就计	jjj
-济济一堂	jjy
-领衔主演	lxv
-迷迷糊糊	mmh
-美若天仙	mrt
-卖主求荣	mvq
-破破烂烂	ppl
-千娇百媚	qjb
-千挑万选	qtw
-人欢马叫	rhm
-扰人清梦	rrq
-条条框框	ttk
-甜甜蜜蜜	ttm
-头痛欲裂	tty
-首当其冲	udq
-深情厚谊	uqh
-食色性也	usx
-生死攸关	usy
-我必犯人	wbf
-为期不远	wqb
-万丈深渊	wvu
-毋庸讳言	wyh
-霞光万道	xgw
-有法必依	yfb
-一飞冲天	yfi
-一清二白	yqe
-余情未了	yqw
-自毁长城	zhi
-自取其辱	zqq
-在情在理	zqz
-不求甚解	bqu
-恶言相向	eyx
-风言风语	fyf
-恭恭敬敬	ggj
-敬而远之	jey
-事半功倍	ubg
-时日无多	urw
-邀功请赏	ygq
 # 随心所欲   自定编码规则
 距离	jlw
 食物	uwn
