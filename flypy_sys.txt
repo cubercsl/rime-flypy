@@ -191,6 +191,7 @@ http://flypy.ys168.com	xhwp
 大跌眼镜	ddyj
 多多益善	ddyu
 颠倒阴阳	ddyy
+第二现场	dexi
 达官贵人	dggr
 蹬踏	dgta
 电光石火	dguh
@@ -317,6 +318,7 @@ http://flypy.ys168.com	xhwp
 工夫	gsfu
 攻克	gske
 功力	gsli
+鼓瑟齐鸣	gsqm
 公投	gstz
 甘肃省	gsug
 共识	gsui
