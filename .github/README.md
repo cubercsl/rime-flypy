@@ -1,6 +1,6 @@
 # 小鹤音形 Rime 挂接 For Linux
 
-![](https://img.shields.io/badge/dynamic/json?label=version&query=flypy&url=https%3A%2F%2Fgithub.com%2F2014CAIS01%2Frime-flypy%2Fraw%2Fmaster%2F.github%2Fnew_ver.json) ![](https://img.shields.io/aur/version/rime-flypy)
+![](https://img.shields.io/badge/dynamic/json?label=version&query=flypy&url=https%3A%2F%2Fgithub.com%2F2014CAIS01%2Frime-flypy%2Fraw%2Fmaster%2F.github%2Fold_ver.json) ![](https://img.shields.io/aur/version/rime-flypy)
 
 小鹤音形官方提供的 MacOS 版本的挂接文件的搬运，加上一些补丁，可以直接在 Linux 系统上挂接使用。
 

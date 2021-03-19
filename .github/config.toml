@@ -5,5 +5,4 @@ newver="new_ver.json"
 [flypy]
 source="regex"
 regex="小鹤音形_([0-9\\.]*)"
-encoding="gb2312"
 url="https://flypy.com/index.html"
