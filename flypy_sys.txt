@@ -1555,6 +1555,8 @@ http://flypy.ys168.com	xhwp
 位	w
 性	x
 子	z
+时	u
+室	ui
 宝	bc
 笨	bf
 甭	bg
