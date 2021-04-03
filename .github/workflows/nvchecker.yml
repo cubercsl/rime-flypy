@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get install libssl-dev libcurl4-openssl-dev
+          sudo apt update && sudo apt-get install libssl-dev libcurl4-openssl-dev
           python -m pip install --upgrade pip
           python -m pip install nvchecker
 
