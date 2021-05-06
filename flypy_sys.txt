@@ -15,6 +15,7 @@
 https://flypy.com	xhgw
 https://bbs.flypy.com	xhlt
 http://flypy.ys168.com	xhwp
+http://xhrm.flypy.com	xhrm
 😊	oi
 
 # 快捷符号，使用外接键盘时调换下面两行的数字
@@ -43,6 +44,7 @@ http://flypy.ys168.com	xhwp
 》	;b
 〔	;n
 〕	;m
+
 #次选词
 爱恨情仇	ahqi
 暗器	anqi
@@ -67,6 +69,7 @@ http://flypy.ys168.com	xhwp
 报到	bcdc
 包袱	bcfu
 包抄	bcic
+暴涨	bcvh
 悲从中来	bcvl
 保卫	bcww
 不辞辛劳	bcxl
@@ -83,6 +86,7 @@ http://flypy.ys168.com	xhwp
 拜堂	bdth
 不得要领	bdyl
 不得已而为之	bdyv
+膀大腰圆	bdyy
 百废俱兴	bfjx
 捕风捉影	bfvy
 毕恭毕敬	bgbj
@@ -190,7 +194,6 @@ http://flypy.ys168.com	xhwp
 胆大妄为	ddww
 大跌眼镜	ddyj
 多多益善	ddyu
-颠倒阴阳	ddyy
 第二现场	dexi
 达官贵人	dggr
 蹬踏	dgta
@@ -322,6 +325,7 @@ http://flypy.ys168.com	xhwp
 公投	gstz
 甘肃省	gsug
 共识	gsui
+公证	gsvg
 古董	guds
 骨骼	guge
 顾忌	guji
@@ -348,7 +352,6 @@ http://flypy.ys168.com	xhwp
 回复	hf
 回归线	hgx
 花架子	hjz
-呼之欲出	hvy
 何必当初	hbdi
 毫不留情	hblq
 胡编乱造	hblz
@@ -399,9 +402,11 @@ http://flypy.ys168.com	xhwp
 护理	huli
 华山论剑	hulj
 呼噜	hulu
+洪水猛兽	humu
 混世魔王	humw
 护士	huui
 含沙射影	huuy
+后事之师	huvu
 会者不难	hvbn
 回改	hvgd
 货真价实	hvju
@@ -410,7 +415,7 @@ http://flypy.ys168.com	xhwp
 会晤	hvwu
 回信	hvxb
 话中有话	hvyh
-回忆	hvyi
+呼之欲出	hvyi
 花无百日红	hwbh
 毫无用处	hwyi
 毫无怨言	hwyy
@@ -528,9 +533,10 @@ http://flypy.ys168.com	xhwp
 加减乘除	jjii
 惊艳	jkyj
 警官	jkgr
-竞技	jkji
+荆棘	jkji
 经理	jkli
 几可乱真	jklv
+静谧	jkmi
 景气	jkqi
 静止	jkvi
 艰苦卓绝	jkvj
@@ -602,6 +608,7 @@ http://flypy.ys168.com	xhwp
 假惺惺	jxxk
 假象	jxxl
 甲乙	jxyi
+节衣缩食	jysu
 郡主	jyvu
 军衔	jyxm
 锦衣夜行	jyyx
@@ -650,7 +657,7 @@ http://flypy.ys168.com	xhwp
 理睬	licd
 立秋	liqq
 冷嘲热讽	lirf
-励志	livi
+荔枝	livi
 例行	lixk
 离家出走	ljiz
 浪迹江湖	ljjh
@@ -709,6 +716,7 @@ http://flypy.ys168.com	xhwp
 默不作声	mbzu
 茅草	mccc
 满腹经纶	mfjl
+每分每秒	mfmm
 马革裹尸	mggu
 卖国求荣	mgqr
 目光如炬	mgrj
@@ -800,6 +808,7 @@ http://flypy.ys168.com	xhwp
 情商	qkuh
 轻视	qkui
 轻信	qkxb
+清洗	qkxi
 情形	qkxk
 清香	qkxl
 黔驴技穷	qljq
@@ -813,6 +822,7 @@ http://flypy.ys168.com	xhwp
 牵手	qmuz
 千兆	qmvc
 牵着	qmve
+欠账	qmvh
 潜质	qmvi
 亲密无间	qmwj
 牵线	qmxm
@@ -879,7 +889,6 @@ http://flypy.ys168.com	xhwp
 推荐	tj
 淘汰	tt
 投资	tz
-铁案如山	taru
 太原	tdyr
 天寒地冻	thdd
 条件反射	tjfu
@@ -920,6 +929,7 @@ http://flypy.ys168.com	xhwp
 胜败乃兵家常事	ubnu
 鼠肚鸡肠	udji
 射程	ueig
+射箭	uejm
 设想	uexl
 尚方宝剑	ufbj
 神采	ufcd
@@ -1029,7 +1039,7 @@ http://flypy.ys168.com	xhwp
 守候	uzhz
 稍纵即逝	uzju
 十字路口	uzlk
-手势	uzui
+首饰	uzui
 手掌	uzvh
 收支	uzvi
 收养	uzyh
@@ -1077,6 +1087,7 @@ http://flypy.ys168.com	xhwp
 智力	vili
 知名	vimk
 智商	viuh
+纸张	vivh
 制止	vivi
 支柱	vivu
 职务	viwu
@@ -1129,8 +1140,8 @@ http://flypy.ys168.com	xhwp
 睁一只眼，闭一只眼	vyvy
 味道	wd
 完美	wm
+未知	wv
 微信	wx
-万劫不复	wjb
 卫生间	wuj
 无外乎	wwh
 文本文件	wbwj
@@ -1138,10 +1149,11 @@ http://flypy.ys168.com	xhwp
 闻道有先后	wdyh
 威风扫地	wfsd
 无法忘怀	wfwh
+瘟疫	wfyi
 网管	whgr
 为虎作伥	whzi
 无坚不摧	wjbc
-物极必反	wjbf
+万劫不复	wjbf
 无精打采	wjdc
 晚年	wjnm
 无拘无束	wjwu
@@ -1306,7 +1318,7 @@ http://flypy.ys168.com	xhwp
 郁金香	yjx
 艺术性	yux
 以至于	yvy
-莺莺燕燕	yyy
+犹犹豫豫	yyyy
 雅致	yavi
 以不变应万变	ybbb
 以备不测	ybbc
@@ -1315,10 +1327,13 @@ http://flypy.ys168.com	xhwp
 一般见识	ybju
 愚不可及	ybkj
 一笔抹杀	ybmu
+隐匿	ybni
 一表人才	ybrc
 用兵如神	ybru
+一步之遥	ybvy
 言必有据	ybyj
 隐约	ybyt
+阴郁	ybyu
 有板有眼	ybyy
 一兵一卒	ybyz
 用词不当	ycbd
@@ -1342,7 +1357,6 @@ http://flypy.ys168.com	xhwp
 扬长避短	yibd
 一尘不染	yibr
 阳春白雪	yibx
-一代	yidd
 已成定局	yidj
 一锤定音	yidy
 依附	yifu
@@ -1477,7 +1491,6 @@ http://flypy.ys168.com	xhwp
 跃跃欲试	yyyu
 摇摇欲坠	yyyv
 一言一行	yyyx
-犹犹豫豫	yyyy
 邮编	yzbm
 优点	yzdm
 以资鼓励	yzgl
@@ -1729,7 +1742,7 @@ http://flypy.ys168.com	xhwp
 〔	on
 〕	om
 ；	of
-成组标点d	ofb
+标点d	ofb
 “”	ofbd	100
 （）	ofbd	99
 《》	ofbd	98
@@ -1764,7 +1777,7 @@ http://flypy.ys168.com	xhwp
 	ofbd	69
 ｀	ofbd	68
 ｜	ofbd	67
-成组点数u	ofd	100
+点数u	ofd	100
 ⒈	ofdu	100
 ⒉	ofdu	99
 ⒊	ofdu	98
@@ -1785,7 +1798,7 @@ http://flypy.ys168.com	xhwp
 ⒙	ofdu	83
 ⒚	ofdu	82
 ⒛	ofdu	81
-成组单位w	ofd	99
+单位w	ofd	99
 ㎎	ofdw	100
 ㎏	ofdw	99
 ㎜	ofdw	98
@@ -1800,7 +1813,7 @@ nm	ofdw	94
 ㏑	ofdw	89
 ㏒	ofdw	88
 ㏕	ofdw	87
-成组俄大d	ofe	100
+俄大d	ofe	100
 А	ofed	100
 Б	ofed	99
 В	ofed	98
@@ -1834,7 +1847,7 @@ nm	ofdw	94
 Ю	ofed	70
 Я	ofed	69
 Ё	ofed	68
-成组俄小x	ofe	99
+俄小x	ofe	99
 а	ofex	100
 б	ofex	99
 в	ofex	98
@@ -1868,7 +1881,7 @@ nm	ofdw	94
 ю	ofex	70
 я	ofex	69
 ё	ofex	68
-成组括数	ofk
+括数	ofk
 ⑴	ofku	100
 ⑵	ofku	99
 ⑶	ofku	98
@@ -1889,7 +1902,7 @@ nm	ofdw	94
 ⒅	ofku	83
 ⒆	ofku	82
 ⒇	ofku	81
-成组货币b	ofh
+货币b	ofh
 €	ofhb	100
 $	ofhb	99
 ￠	ofhb	98
@@ -1910,7 +1923,7 @@ $	ofhb	99
 ╒	ofht	91
 ╛	ofht	90
 ╘	ofht	89
-成组日大d	ofr	100
+日大d	ofr	100
 ァ	ofrd	100
 ア	ofrd	99
 ィ	ofrd	98
@@ -2000,7 +2013,7 @@ $	ofhb	99
 ー	ofrd	14
 ヽ	ofrd	13
 ヾ	ofrd	12
-成组箭头t	ofj
+箭头t	ofj
 ←	ofjt	100
 →	ofjt	99
 ↑	ofjt	98
@@ -2011,7 +2024,7 @@ $	ofhb	99
 ↖	ofjt	93
 ↔	ofjt	92
 ↕	ofjt	91
-成组日小x	ofr	99
+日小x	ofr	99
 ぁ	ofrx	100
 あ	ofrx	99
 ぃ	ofrx	98
@@ -2099,7 +2112,7 @@ $	ofhb	99
 ゜	ofrx	16
 ゝ	ofrx	15
 ゞ	ofrx	14
-成组偏旁p	ofp	100
+偏旁p	ofp	100
 勹	ofpp	100
 灬	ofpp	99
 冫	ofpp	98
@@ -2141,7 +2154,7 @@ $	ofhb	99
 夂	ofpp	62
 丶	ofpp	61
 丬	ofpp	60
-成组拼音y	ofp	99
+拼音y	ofp	99
 ā	ofpy	100
 á	ofpy	99
 ǎ	ofpy	98
@@ -2168,7 +2181,7 @@ $	ofhb	99
 ú	ofpy	77
 ǔ	ofpy	76
 ù	ofpy	75
-成组罗大d	ofl	100
+罗大d	ofl	100
 Ⅰ	ofld	100
 Ⅱ	ofld	99
 Ⅲ	ofld	98
@@ -2181,7 +2194,7 @@ $	ofhb	99
 Ⅹ	ofld	91
 Ⅺ	ofld	90
 Ⅻ	ofld	89
-成组罗小x	ofl	99
+罗小x	ofl	99
 ⅰ	oflx	100
 ⅱ	oflx	99
 ⅲ	oflx	98
@@ -2192,7 +2205,7 @@ $	ofhb	99
 ⅷ	oflx	93
 ⅸ	oflx	92
 ⅹ	oflx	91
-成组特殊u	oft
+特殊u	oft
 ℃	oftu	100
 °	oftu	99
 ‰	oftu	98
@@ -2220,7 +2233,7 @@ $	ofhb	99
 ＾	oftu	76
 ＿	oftu	75
 ￣	oftu	74
-成组数学x	ofu
+数学x	ofu
 ＋	ofux	100
 －	ofux	99
 ＜	ofux	98
@@ -2266,7 +2279,7 @@ $	ofhb	99
 ⊙	ofux	58
 ⊥	ofux	57
 ⊿	ofux	56
-成组中数u	ofv	100
+中数u	ofv	100
 ㈠	ofvu	100
 ㈡	ofvu	99
 ㈢	ofvu	98
@@ -2277,7 +2290,7 @@ $	ofhb	99
 ㈧	ofvu	93
 ㈨	ofvu	92
 ㈩	ofvu	91
-成组注音y	ofv	99
+注音y	ofv	99
 ㄅ	ofvy	100
 ㄆ	ofvy	99
 ㄇ	ofvy	98
@@ -2315,7 +2328,7 @@ $	ofhb	99
 ㄤ	ofvy	66
 ㄥ	ofvy	65
 ㄦ	ofvy	64
-成组西大d	ofx	100
+西大d	ofx	100
 Α	ofxd	100
 Β	ofxd	99
 Γ	ofxd	98
@@ -2340,7 +2353,7 @@ $	ofhb	99
 Χ	ofxd	79
 Ψ	ofxd	78
 Ω	ofxd	77
-成组西小x	ofx	99
+西小x	ofx	99
 α	ofxx	100
 β	ofxx	99
 γ	ofxx	98
@@ -2365,7 +2378,7 @@ $	ofhb	99
 χ	ofxx	79
 ψ	ofxx	78
 ω	ofxx	77
-成组圆数u	ofy
+圆数u	ofy
 ①	ofyu	100
 ②	ofyu	99
 ③	ofyu	98
@@ -2376,7 +2389,7 @@ $	ofhb	99
 ⑧	ofyu	93
 ⑨	ofyu	92
 ⑩	ofyu	91
-成组制表b	ofv	99
+制表b	ofv	99
 ┌	ofvb	100
 └	ofvb	99
 ┐	ofvb	98
@@ -2388,7 +2401,7 @@ $	ofhb	99
 ┬	ofvb	92
 ┴	ofvb	91
 ┼	ofvb	90
-成组上标b	ofu	99
+上标b	ofu	99
 ¹	ofub	100
 ²	ofub	99
 ³	ofub	98
@@ -2406,7 +2419,7 @@ $	ofhb	99
 ⁾	ofub	86
 ⁿ	ofub	85
 ˣ	ofub	84
-成组下标b	ofx	99
+下标b	ofx	99
 ₁	ofxb	100
 ₂	ofxb	99
 ₃	ofxb	98
@@ -2949,7 +2962,6 @@ m³	otl	100
 溇	lzd/
 鄚	mcc/
 蟊	mcs/
-蝥	mcs/
 鹲	mgc/
 醾	miy/
 瘼	mob/
@@ -2960,6 +2972,7 @@ m³	otl	100
 糵	npc/
 舥	pav/
 簰	pdv/
+否	pib/
 嚭	piu/
 鼙	piu/
 冯	pkd/
@@ -3028,6 +3041,7 @@ m³	otl	100
 钐	ujj/
 鄯	ujy/
 数	uom/
+澍	uud/
 秫	uuh/
 𬬸	uuj/
 殳	uuj/
@@ -3038,7 +3052,6 @@ m³	otl	100
 霅	vay/
 浈	vfd/
 昣	vfo/
-否	pib/
 瑧	vfw/
 鄣	vhl/
 茋	vic/
@@ -3219,6 +3232,7 @@ m³	otl	100
 赀	ziv/
 
 # 随心所欲   自定编码规则
+回忆	hyx
 距离	jlw
 食物	uwn
 及时	juo

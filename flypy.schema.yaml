@@ -127,26 +127,13 @@ key_binder:
     - {accept: comma, send: comma, when: paging} #注销逗号翻页
     - {accept: period, send: period, when: has_menu} #注销句号翻页
     - {accept: semicolon, send: 2, when: has_menu} #分号次选
-  #  - {accept: Release+semicolon, send: semicolon, when: has_menu} #如要使用分号引导符号功能，并双击上屏分号，需注销此行
-    #- {accept: period, send: 2, when: has_menu} #句号次选，已用下面内容替代
-    - {accept:  dollar, send: 2, when: composing}
-    - {accept: Release+dollar, send: period, when: composing}
-    - {accept: Release+period, send: period, when: composing}
-    #- {accept: comma, send: 2, when: has_menu} #逗号次选
-    - {accept: bar, send: 2, when: composing}
-    - {accept: Release+bar, send: comma, when: composing}
-    - {accept: Release+comma, send: comma, when: composing}
-
+  #  - {accept: Release+semicolon, send: semicolon, when: has_menu} #如启用此行，则分号引导符号功能无效
     - {accept: "Tab", send: Escape, when: composing}
-    - {accept: "Caps_Lock", send: Escape, when: composing} 
     - {accept: "Shift_R", send: Escape, when: composing}
     - {accept: "Shift+space", toggle: full_shape, when: always} #切换全半角
-  #  - {accept: "Control+j", toggle: simplification, when: always} #切换简繁
     - {accept: "Control+period", toggle: ascii_punct, when: always} #切换中英标点
-   # - {accept: "Control+m", select: .next, when: always} #切换方案
+    - {accept: "Control+j", toggle: simplification, when: always} #切换简繁
 
-
-   
 recognizer:
   import_preset: default
   patterns:
