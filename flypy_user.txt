@@ -138,7 +138,6 @@
 花繁叶茂	hfym
 插画	iahx
 查出	iaiu
-超卖	icmd
 撤诉	iesu
 车展	ievj
 城堡	igbc
@@ -196,13 +195,9 @@
 履行	lvxk
 论剑	lyjm
 毛线	mcxm
-卖点	mddm
 迈过	mdgo
 迈出	mdii
-卖家	mdjx
-卖票	mdpn
 迈入	mdru
-卖主	mdvu
 懵逼	mgbi
 蜜蜂	mifg
 秘籍	miji
@@ -238,7 +233,6 @@
 青涩	qkse
 情谊	qkyi
 枪毙	qlbi
-腔调	qldn
 墙纸	qlvi
 潜力	qmli
 嵌套	qmtc
@@ -251,7 +245,7 @@
 千挑万选	qtwx
 忍了	rfle
 任职	rfvi
-人性	rfxk
+韧性	rfxk
 若是	roui
 乳汁	ruvi
 入眼	ruyj

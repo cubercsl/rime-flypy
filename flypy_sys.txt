@@ -98,6 +98,7 @@ http://xhrm.flypy.com	xhrm
 不紧不慢	bjbm
 八九不离十	bjbu
 半岛	bjdc
+不见经传	bjjv
 别具匠心	bjjx
 病急乱投医	bjly
 不解之谜	bjvm
@@ -128,7 +129,6 @@ http://xhrm.flypy.com	xhrm
 不明所以	bmsy
 贬值	bmvi
 拔苗助长	bmvv
-兵马未动	bmwd
 编译	bmyi
 闭门造车	bmzi
 百年大计	bndj
@@ -385,6 +385,7 @@ http://xhrm.flypy.com	xhrm
 花里胡哨	hlhu
 活灵活现	hlhx
 汗流浃背	hljb
+汗流满面	hlmm
 花落谁家	hluj
 晃眼	hlyj
 湖南省	hnug
@@ -939,7 +940,6 @@ http://xhrm.flypy.com	xhrm
 神情	ufqk
 神色	ufse
 顺风顺水	ufuu
-师范学院	ufxy
 深远	ufyr
 上个月	ugy
 盛会	ughv
@@ -1150,7 +1150,6 @@ http://xhrm.flypy.com	xhrm
 威风扫地	wfsd
 无法忘怀	wfwh
 瘟疫	wfyi
-网管	whgr
 为虎作伥	whzi
 无坚不摧	wjbc
 万劫不复	wjbf
@@ -1271,6 +1270,7 @@ http://xhrm.flypy.com	xhrm
 写字	xpzi
 贤妻良母	xqlm
 小桥流水	xqlu
+休整	xqvg
 心如刀绞	xrdj
 旭日东升	xrdu
 血型	xtxk
@@ -1547,6 +1547,8 @@ http://xhrm.flypy.com	xhrm
 🤔	sk
 
 # 二重简码
+又	y
+遮	ve
 按	a
 吧	b
 此	c
@@ -3232,6 +3234,7 @@ m³	otl	100
 赀	ziv/
 
 # 随心所欲   自定编码规则
+神祇	uqp
 回忆	hyx
 距离	jlw
 食物	uwn
@@ -3251,4 +3254,3 @@ m³	otl	100
 想想	xxm
 智	viud
 计	jiyd
-床前明月光，疑是地上霜。举头望明月，低头思故乡。	jysi

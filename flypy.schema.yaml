@@ -4,7 +4,7 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "10.7.6"
+  version: "10.8.0"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
@@ -52,6 +52,7 @@ engine:
     - table_translator@custom_phraseYH
     - reverse_lookup_translator
     - history_translator@history
+    - lua_translator@calculator_translator
   filters:
     - simplifier
     - simplifier@simplification
@@ -128,6 +129,8 @@ key_binder:
     - {accept: period, send: period, when: has_menu} #注销句号翻页
     - {accept: semicolon, send: 2, when: has_menu} #分号次选
   #  - {accept: Release+semicolon, send: semicolon, when: has_menu} #如启用此行，则分号引导符号功能无效
+    - {accept: Release+period, send: period, when: composing} #句号顶屏
+    - {accept: Release+comma, send: comma, when: composing} #逗号顶屏
     - {accept: "Tab", send: Escape, when: composing}
     - {accept: "Shift_R", send: Escape, when: composing}
     - {accept: "Shift+space", toggle: full_shape, when: always} #切换全半角
@@ -141,6 +144,7 @@ recognizer:
     uppercase: "" #中文状态大写锁定直接上屏
     reverse_lookup: "[a-z`]*`+[a-z`]*"
     punct: ""
+    expression: "^=.*$"
 
 menu:
   page_size: 5 #候选项数
