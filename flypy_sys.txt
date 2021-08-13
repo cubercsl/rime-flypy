@@ -2,14 +2,12 @@
 # 小鹤音形符号、二重简码等词库
 # 该文件以UTF-8编码保存
 # 编码格式：字词+Tab符+编码（词库本身有重码则还需后面+Tab符+权重，权重大者居前，权重数字随意）
-# 
 #    === 强调一下 === 
 # 
 #   词条和编码之间的不是空格，而是Tab符，如果你不知道，就复制下面编码中的空白处
 #   或者按住键盘 G 键，切换到功能键盘，使用上面的Tab键
 # 
 #    ================
-# 
 # 本词库默认包含了生僻字、次选词、三码二字词、二重简码、增补字、符号及部分emoji表情
 
 https://flypy.com	xhgw
@@ -82,6 +80,7 @@ http://xhrm.flypy.com	xhrm
 拜见	bdjm
 博大精深	bdju
 白鹭	bdlu
+宝刀未老	bdwl
 百色	bdse
 拜堂	bdth
 不得要领	bdyl
@@ -408,6 +407,7 @@ http://xhrm.flypy.com	xhrm
 护士	huui
 含沙射影	huuy
 后事之师	huvu
+浑身解数	huxu
 会者不难	hvbn
 回改	hvgd
 货真价实	hvju
@@ -1035,7 +1035,7 @@ http://xhrm.flypy.com	xhrm
 生于忧患	uyyh
 顺延	uyyj
 身在曹营心在汉	uzch
-收货	uzho
+收获	uzho
 守候	uzhz
 稍纵即逝	uzju
 十字路口	uzlk
@@ -1154,6 +1154,7 @@ http://xhrm.flypy.com	xhrm
 无坚不摧	wjbc
 万劫不复	wjbf
 无精打采	wjdc
+无计可施	wjku
 晚年	wjnm
 无拘无束	wjwu
 蜿蜒	wjyj
