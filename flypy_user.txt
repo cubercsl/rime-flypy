@@ -16,6 +16,20 @@
 # 用户词库，18行开始添加，编码格式见上，部署后生效
 # no comment
 
+整句	vgju
+政权	vgqr
+神祇	ufqi
+距离	jili
+及时	jiui
+指示	viui
+直到	vidc
+距离	juli
+音形	ybxk
+简洁	jmjp
+事实	uiui
+置顶	vidk
+想想	xlxl
+导出	dciu
 把守	bauz
 把戏	baxi
 报仇	bciz
@@ -64,6 +78,7 @@
 多于	doyu
 跌价	dpjx
 断点	drdm
+短篇	drpm
 短线	drxm
 动机	dsji
 独唱	duih
@@ -310,7 +325,6 @@
 书摊	uutj
 书信	uuxb
 水利	uvli
-谁知	uvvi
 水文	uvwf
 受到	uzdc
 收工	uzgs

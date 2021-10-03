@@ -4,11 +4,11 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "10.8.1"
+  version: "10.8.2"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
-    小鹤音形主码表
+    小鹤音形输入法
 
 punctuator:
   import_preset: default
