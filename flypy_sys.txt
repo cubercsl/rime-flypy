@@ -23,25 +23,25 @@ https://help.flypy.com	xhrm
 ）	;r
 @	;t
 ·	;y
-＝	;u
-〈	;i
-〉	;o
-～	;p
++	;u
+-	;i
+*	;o
+\	;p
 ！	;a
 ……	;s
 、	;d
 《	;g
-＋	;h
-－	;j
-×	;k
-÷	;l
+[	;h
+]	;j
+(	;k
+)	;l
 “	;z
 →	;x
 ”	;c
 ——	;v
 》	;b
-〔	;n
-〕	;m
+<	;n
+>	;m
 #次选词
 爱恨情仇	ahqi
 暗器	anqi
@@ -230,6 +230,7 @@ https://help.flypy.com	xhrm
 董事	dsui
 动手动脚	dudj
 度假	dujx
+独具	duju
 独善其身	duqu
 打蛇随棍上	dusu
 大书特书	dutu
@@ -241,6 +242,7 @@ https://help.flypy.com	xhrm
 俄语	eeyu
 恩恩怨怨	eeyy
 分别	fb
+反悔	fh
 附件	fj
 发送	fs
 否则	fz
@@ -732,6 +734,7 @@ https://help.flypy.com	xhrm
 懵懵懂懂	mmdd
 满面春风	mmif
 朦朦胧胧	mmll
+莫名其妙	mmqm
 勉勉强强	mmqq
 茫茫人海	mmrh
 名门世家	mmuj
@@ -781,6 +784,7 @@ https://help.flypy.com	xhrm
 取长补短	qibd
 千疮百孔	qibk
 七点	qidm
+奇耻大辱	qidr
 气愤	qiff
 起伏	qifu
 牵肠挂肚	qigd
@@ -930,6 +934,7 @@ https://help.flypy.com	xhrm
 舍不得孩子套不住狼	ubdl
 事必躬亲	ubgq
 胜败乃兵家常事	ubnu
+说曹操曹操到	uccd
 鼠肚鸡肠	udji
 射程	ueig
 射箭	uejm

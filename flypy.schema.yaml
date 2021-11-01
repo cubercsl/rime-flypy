@@ -4,7 +4,7 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "10.8.2"
+  version: "10.8.3"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
@@ -59,9 +59,9 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: '/;zyxwvutsrqponmlkjihgfedcba'
-  initials: 'abcdefghijklmnopqrstuvwxyz;'
-  finals: '/'
+  alphabet: "abcdefghijklmnopqrstuvwxyz;'"
+  initials: ';abcdefghijklmnopqrstuvwxyz'
+  finals: "'"
   #delimiter: " '"
   max_code_length: 4
   auto_select: true   #顶字上屏
