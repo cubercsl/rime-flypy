@@ -179,7 +179,6 @@ https://help.flypy.com	xhrm
 大错	daco
 大涨	davh
 大侠	daxx
-打赢	dayk
 打草惊蛇	dcju
 多此一举	dcyj
 单打独斗	dddd
@@ -224,6 +223,7 @@ https://help.flypy.com	xhrm
 调令	dnlk
 冬暖夏凉	dnxl
 夺命	domk
+颠三倒四	dsds
 洞房	dsfh
 东京	dsjk
 第三季度	dsjd
@@ -412,7 +412,6 @@ https://help.flypy.com	xhrm
 后事之师	huvu
 浑身解数	huxu
 会者不难	hvbn
-回改	hvgd
 货真价实	hvju
 哗众取宠	hvqi
 晦涩	hvse
@@ -444,6 +443,7 @@ https://help.flypy.com	xhrm
 船到江心补漏迟	idji
 差遣	idqm
 撤单	iedj
+超乎想象	ihxx
 春风化雨	ifhy
 春风满面	ifmm
 超凡入圣	ifru
@@ -535,6 +535,7 @@ https://help.flypy.com	xhrm
 积压	jiya
 觊觎	jiyu
 加减乘除	jjii
+句句属实	jjuu
 惊艳	jkyj
 警官	jkgr
 荆棘	jkji
@@ -555,11 +556,13 @@ https://help.flypy.com	xhrm
 间断	jmdr
 坚固	jmgu
 监察	jmia
+见解	jmjp
 假模假样	jmjy
 间距	jmju
 贱人	jmrf
 肩上	jmuh
 监视	jmui
+近墨者黑	jmvh
 艰辛	jmxb
 奸细	jmxi
 监狱	jmyu
@@ -635,6 +638,7 @@ https://help.flypy.com	xhrm
 可以燎原	kyly
 枯燥乏味	kzfw
 链接	lj
+类似	ls
 轮不到	lbd
 里程碑	lib
 龙卷风	ljf
@@ -652,6 +656,7 @@ https://help.flypy.com	xhrm
 郎才女貌	lcnm
 落地生根	ldug
 来世	ldui
+立竿见影	lgjy
 利国利民	lglm
 锣鼓喧天	lgxt
 论功行赏	lgxu
@@ -870,6 +875,7 @@ https://help.flypy.com	xhrm
 如诗如画	rurh
 软硬不吃	rybi
 速度	sd
+送给	sg
 虽然	sr
 搜索	ss
 随着	sv
@@ -898,6 +904,7 @@ https://help.flypy.com	xhrm
 投资	tz
 太原	tdyr
 天寒地冻	thdd
+谈虎色变	thsb
 条件反射	tjfu
 囤积居奇	tjjq
 弹琴	tjqb
@@ -1051,6 +1058,7 @@ https://help.flypy.com	xhrm
 收支	uzvi
 收养	uzyh
 手艺	uzyi
+这次	vc
 指定	vd
 征服	vf
 只会	vh
@@ -1110,6 +1118,7 @@ https://help.flypy.com	xhrm
 竹篮打水一场空	vldk
 直来直去	vlvq
 珍禽异兽	vqyu
+众人拾柴火焰高	vrug
 终端	vsdr
 终极	vsji
 终结	vsjp
@@ -1128,7 +1137,6 @@ https://help.flypy.com	xhrm
 众矢之的	vuvd
 重赏之下，必有勇夫	vuvf
 助威	vuww
-主义	vuyi
 祝愿	vuyr
 照章办事	vvbu
 战战兢兢	vvjj
@@ -1344,6 +1352,7 @@ https://help.flypy.com	xhrm
 有板有眼	ybyy
 一兵一卒	ybyz
 用词不当	ycbd
+一寸光阴一寸金	ycgj
 以次充好	ycih
 由此及彼	ycjb
 由此可见	yckj
@@ -1467,6 +1476,7 @@ https://help.flypy.com	xhrm
 洋为中用	ywvy
 余味无穷	ywwq
 言为心声	ywxu
+一星半点	yxbd
 英雄不问出处	yxbi
 一心不能二用	yxby
 以小人之心，度君子之腹	yxrf
@@ -1564,6 +1574,7 @@ https://help.flypy.com	xhrm
 发	f
 管	g
 化	h
+初	i
 见	j
 块	k
 立	l
@@ -1625,7 +1636,6 @@ https://help.flypy.com	xhrm
 退	tv
 省	ug
 守	uz
-招	vc
 症	vg
 战	vj
 终	vs
@@ -2770,6 +2780,7 @@ m³	otl	100
 
 
 # 随心所欲   自定编码规则
+类似	lsr
 整句	vjb
 政权	vqm
 神祇	uqp
