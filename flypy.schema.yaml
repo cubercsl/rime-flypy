@@ -4,7 +4,7 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "10.8.4"
+  version: "10.8.6"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
@@ -50,6 +50,7 @@ engine:
     - table_translator@custom_phraseVD
     - table_translator@custom_phraseXT
     - table_translator@custom_phraseYH
+    - table_translator@custom_phraseBQ
     - reverse_lookup_translator
     - history_translator@history
     - lua_translator@calculator_translator
@@ -111,6 +112,14 @@ custom_phraseYH:
   enable_sentence: false
   enable_completion: false
   initial_quality: -1 #用户词和系统词重码居后
+  
+custom_phraseBQ:
+  dictionary: ""
+  user_dict: flypy_plus
+  db_class: stabledb
+  enable_sentence: false
+  enable_completion: false
+  initial_quality: -1 #和系统词重码时居后
 
 reverse_lookup:
   dictionary: flypydz
