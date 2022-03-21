@@ -16,6 +16,10 @@
 # 如无候选2则表示没有生效
 # no comment
 
+
+
+厨	iuic
+蝉	ijil
 畖	watg
 嶅	aofe
 𩽾	anan
@@ -435,6 +439,7 @@
 𨱑	hljb
 翯	hexk
 耗	hclm
+貉	hcvk
 豪	hcwu
 镐	hcjk
 害	hdbk

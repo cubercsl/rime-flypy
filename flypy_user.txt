@@ -7,27 +7,55 @@
 #    -------- 强调一下 --------
 # 
 #   词条和编码之间的不是空格，而是Tab符
+#   按住键盘 G 键，切换到功能键盘，使用上面的Tab键
 # 
 #    -------------------------------
 # 
 # 系统次选词放在flypy_sys.txt文件内，可修改删除
 # 三码二四字词补全放本文件内，不需要可删除
-# 用户词库，18行开始添加，编码格式见上，部署后生效
-# no comment
+# 用户词库，下行开始添加，编码格式见上，部署后生效
 
+
+# 简词补全
+打架	dajx
+搅和	jnho
+尝尝	ihih
+背景	bwjk
+伤害	uhhd
+程度	igdu
+附件	fujm
+世纪	uiji
+假如	jxru
+统一	tsyi
+不再	buzd
+猥琐	wwso
+险恶	xmee
+恶毒	eedu
+达到	dadc
+回复	hvfu
+指定	vidk
+链接	lmjp
+束缚	uufu
+主意	vuyi
+征服	vgfu
+歧视	qiui
+为止	wwvi
+瑕疵	xxci
+微信	wwxb
+世纪	uiji
+毛衣	mcyi
+一唱一和	yiyh
+妥妥当当	ttdd
+转圜	vrhr
+反悔	fjhv
+主义	vuyi
 补全	buqr
 整句	vgju
 政权	vgqr
 神祇	ufqi
-距离	jili
 及时	jiui
-指示	viui
-直到	vidc
 距离	juli
 音形	ybxk
-简洁	jmjp
-事实	uiui
-置顶	vidk
 想想	xlxl
 导出	dciu
 把守	bauz
@@ -38,6 +66,7 @@
 保鲜	bcxm
 拜年	bdnm
 摆脱	bdto
+鼻塞	bise
 编程	bmig
 辩解	bmjp
 便签	bmqm
@@ -51,7 +80,6 @@
 不着边际	bvbj
 采风	cdfg
 猜忌	cdji
-彩礼	cdli
 此后	cihz
 餐馆	cjgr
 残局	cjju
@@ -118,7 +146,6 @@
 光纤	glxm
 国徽	gohv
 国民	gomb
-果实	goui
 裹挟	goxp
 聒噪	gozc
 惯例	grli
@@ -160,7 +187,6 @@
 诚信	igxb
 尝到	ihdc
 长篇	ihpm
-常委	ihww
 场子	ihzi
 迟了	iile
 创伤	iluh
@@ -177,7 +203,6 @@
 剑鞘	jmqn
 监听	jmtk
 浇灌	jngr
-叫唤	jnhr
 接口	jpkz
 解围	jpww
 纠葛	jqge
@@ -315,9 +340,7 @@
 生姜	ugjl
 生理	ugli
 声明	ugmk
-生文	ugwf
 上场	uhih
-上载	uhzd
 使馆	uigr
 使坏	uihk
 闪亮	ujll
@@ -326,13 +349,13 @@
 书信	uuxb
 水利	uvli
 水文	uvwf
-受到	uzdc
+收到	uzdc
 收工	uzgs
 受贿	uzhv
 收集	uzji
 受理	uzli
 手拿	uzna
-手上	uzuh
+受伤	uzuh
 手下	uzxx
 首当其冲	udqi
 深情厚谊	uqhy
@@ -344,8 +367,8 @@
 朝霞	vcxx
 债券	vdqr
 宅子	vdzi
+哲理	veli
 正途	vgtu
-丈夫	vhfu
 只管	vigr
 值钱	viqm
 质问	viwf
@@ -440,3 +463,43 @@
 自毁长城	zhii
 自取其辱	zqqr
 在情在理	zqzl
+标的	bndi
+彩蛋	cddj
+过渡	godu
+好吗	hcma
+何时	heui
+哪边	nabm
+哪次	naci
+哪点	nadm
+哪儿	naer
+哪个	nage
+哪里	nali
+哪天	natm
+哪种	navs
+哪位	naww
+哪些	naxp
+哪样	nayh
+倒是	dcui
+登陆	dglu
+低效	dixn
+胆子	djzi
+反查	fjia
+高速	gcsu
+高效	gcxn
+国情	goqk
+官网	grwh
+活着	hove
+话费	hxfw
+超卖	icmd
+卖点	mddm
+卖家	mdjx
+卖票	mdpn
+卖主	mdvu
+明明	mkmk
+每期	mwqi
+没人	mwrf
+赏赐	uhci
+谁知	uvvi
+稳健	wfjm
+拥护	yshu
+宗师	zsui
