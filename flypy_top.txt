@@ -18,7 +18,7 @@
 # 置顶用户词库，下一行开始添加，部署后生效
 
 
-# 简词补全
+# 全码词
 知道	vidc
 只能	ving
 简单	jmdj
@@ -37,7 +37,6 @@
 任务	rfwu
 时间	uijm
 水平	uvpk
-类似	lwsi
 试试	uiui
 神似	ufsi
 传统	irts
@@ -53,3 +52,4 @@
 一片	yipm
 美丽	mwli
 几位	jiww
+及时	jiui

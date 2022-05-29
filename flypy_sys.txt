@@ -11,9 +11,9 @@
 # 本词库默认包含了生僻字、次选词、三码二字词、二重简码、增补字、符号及部分emoji表情
 
 https://flypy.com	xhgw
-https://bbs.flypy.com	xhlt
 http://flypy.ys168.com	xhwp
 https://help.flypy.com	xhrm
+https://help.flypy.com/#/gn	orm
 😊	oi
 
 # 快捷符号，使用外接键盘时调换下面两行的数字
@@ -116,6 +116,7 @@ https://help.flypy.com	xhrm
 不可替代	bktd
 不可调和	bkth
 不可收拾	bkuu
+不堪重负	bkvf
 不可战胜	bkvu
 不可挽回	bkwh
 不可限量	bkxl
@@ -164,7 +165,6 @@ https://help.flypy.com	xhrm
 参加	cj
 从前	cq
 璀璨夺目	ccdm
-惨淡经营	cdjy
 刺客	cike
 词频	cipb
 赐予	ciyu
@@ -184,6 +184,7 @@ https://help.flypy.com	xhrm
 大错	daco
 大涨	davh
 大侠	daxx
+捣蛋	dcdj
 打草惊蛇	dcju
 多此一举	dcyj
 单打独斗	dddd
@@ -209,6 +210,7 @@ https://help.flypy.com	xhrm
 大吵大闹	didn
 低端	didr
 嫡亲	diqb
+提溜	dilq
 底气	diqi
 多愁善感	diug
 独出心裁	dixc
@@ -225,6 +227,7 @@ https://help.flypy.com	xhrm
 独门独户	dmdh
 独门独院	dmdy
 垫付	dmfu
+垫子	dmzi
 调令	dnlk
 冬暖夏凉	dnxl
 夺命	domk
@@ -244,6 +247,7 @@ https://help.flypy.com	xhrm
 洞烛其奸	dvqj
 地主之谊	dvvy
 斗转星移	dvxy
+斗笠	dzli
 俄语	eeyu
 恩恩怨怨	eeyy
 分别	fb
@@ -260,6 +264,7 @@ https://help.flypy.com	xhrm
 愤愤不平	ffbp
 反反复复	ffff
 分分合合	ffhh
+浮浮沉沉	ffii
 方方面面	ffmm
 泛泛之交	ffvj
 氛围	ffww
@@ -283,6 +288,7 @@ https://help.flypy.com	xhrm
 俯首称臣	fuii
 妇女	funv
 付钱	fuqm
+富饶	furc
 粉饰太平	futp
 放手一搏	fuyb
 赋予	fuyu
@@ -315,7 +321,6 @@ https://help.flypy.com	xhrm
 国际惯例	gjgl
 孤家寡人	gjgr
 故技重施	gjiu
-故伎重演	gjiy
 过街老鼠	gjlu
 敢于	gjyu
 高楼大厦	gldu
@@ -425,7 +430,7 @@ https://help.flypy.com	xhrm
 会晤	hvwu
 回信	hvxb
 话中有话	hvyh
-呼之欲出	hvyi
+回忆	hvyi
 花无百日红	hwbh
 毫无用处	hwyi
 毫无怨言	hwyy
@@ -455,9 +460,11 @@ https://help.flypy.com	xhrm
 超凡入圣	ifru
 超凡脱俗	ifts
 冲锋陷阵	ifxv
+城墙	igql
 春寒料峭	ihlq
 承建	igjm
 出乖露丑	igli
+橙汁	igvi
 承销	igxn
 冲冠一怒为红颜	igyy
 晨昏颠倒	ihdd
@@ -491,6 +498,7 @@ https://help.flypy.com	xhrm
 重拾信心	iuxx
 乘胜追击	iuvj
 察言观色	iygs
+丑化	izhx
 姹紫嫣红	izyh
 绝对	jd
 尽管	jg
@@ -523,6 +531,7 @@ https://help.flypy.com	xhrm
 技不压身	jbyu
 兼而有之	jeyv
 家常便饭	jibf
+家丑不可外扬	jiby
 季度	jidu
 绝处逢生	jifu
 籍贯	jigr
@@ -558,6 +567,7 @@ https://help.flypy.com	xhrm
 景象	jkxl
 竞选	jkxr
 晶莹	jkyk
+剪彩	jmcd
 剪刀	jmdc
 坚定	jmdk
 间断	jmdr
@@ -575,7 +585,7 @@ https://help.flypy.com	xhrm
 监狱	jmyu
 教诲	jnhv
 较劲	jnjb
-叫唤	jnhr
+搅和	jnho
 焦急	jnji
 矫健	jnjm
 交界	jnjp
@@ -598,6 +608,7 @@ https://help.flypy.com	xhrm
 九点	jqdm
 救救	jqjq
 驾轻就熟	jqju
+久远	jqyr
 迥然不同	jrbt
 尽人皆知	jrjv
 尽人事听天命	jrum
@@ -635,8 +646,8 @@ https://help.flypy.com	xhrm
 开战	kdvj
 开演	kdyj
 刻意	keyi
-勘查	kjia
 砍价	kjjx
+磕磕巴巴	kkbb
 坑坑洼洼	kkww
 颗粒无收	klwu
 口诛笔伐	kvbf
@@ -646,7 +657,6 @@ https://help.flypy.com	xhrm
 枯燥乏味	kzfw
 两边	lb
 链接	lj
-类似	ls
 轮不到	lbd
 里程碑	lib
 龙卷风	ljf
@@ -656,7 +666,6 @@ https://help.flypy.com	xhrm
 老顽童	lwt
 六月份	lyf
 懒洋洋	lyy
-两边	lb
 聊表寸心	lbcx
 连本带利	lbdl
 拉帮结派	lbjp
@@ -718,7 +727,6 @@ https://help.flypy.com	xhrm
 力争上游	lvuy
 略知一二	lvye
 累积	lwji
-累死	lwsi
 立于不败之地	lybd
 络绎不绝	lybj
 龙吟虎啸	lyhx
@@ -937,6 +945,7 @@ https://help.flypy.com	xhrm
 徒弟	tudi
 投鼠忌器	tujq
 太少了	tul
+涂脂抹粉	tvmf
 他山之石	tuvu
 铁石心肠	tuxi
 退换	tvhr
@@ -1089,6 +1098,7 @@ https://help.flypy.com	xhrm
 正方形	vfx
 主持人	vir
 直性子	vxz
+招摇	vcyc
 照单全收	vdqu
 掷地有声	vdyu
 周而复始	vefu
@@ -1155,6 +1165,7 @@ https://help.flypy.com	xhrm
 众矢之的	vuvd
 重赏之下，必有勇夫	vuvf
 助威	vuww
+主义	vuyi
 祝愿	vuyr
 照章办事	vvbu
 战战兢兢	vvjj
@@ -1170,7 +1181,6 @@ https://help.flypy.com	xhrm
 只要功夫深	vygu
 睁一只眼，闭一只眼	vyvy
 味道	wd
-无关	wg
 完美	wm
 未知	wv
 微信	wx
@@ -1298,6 +1308,7 @@ https://help.flypy.com	xhrm
 献身	xmuf
 蓄谋已久	xmyj
 心满意足	xmyz
+笑声	xnug
 嚣张	xnvh
 小鸟依人	xnyr
 血浓于水	xnyu
@@ -1358,9 +1369,11 @@ https://help.flypy.com	xhrm
 以致于	yvy
 犹犹豫豫	yyyy
 雅致	yavi
+押运	yayy
 以不变应万变	ybbb
 以备不测	ybbc
 欲罢不能	ybbn
+摇摆不定	ybbd
 引渡	ybdu
 一般见识	ybju
 愚不可及	ybkj
@@ -1393,7 +1406,7 @@ https://help.flypy.com	xhrm
 有话直说	yhvu
 养虎为患	yhwh
 养颜	yhyj
-有话要说	yhyu
+养育	yhyu
 一成不变	yibb
 扬长避短	yibd
 一尘不染	yibr
@@ -1441,7 +1454,7 @@ https://help.flypy.com	xhrm
 由来已久	ylyj
 榆木疙瘩	ymgd
 有模有样	ymyy
-以其人之道，还治其人之身	yqru
+有情人终成眷属	yqru
 于情于理	yqyl
 阴晴圆缺	yqyq
 有权有势	yqyu
@@ -1568,6 +1581,8 @@ https://help.flypy.com	xhrm
 嘴上一套	zuyt
 载誉归来	zygl
 自怨自艾	zyzy
+一唱一和	yiy
+呼之欲出	hvy
 # emoji表情
 😓	hj
 😭	ku
@@ -2807,6 +2822,7 @@ m³	otl	100
 “	oz
 
 # 随心所欲   自定编码规则
+下载	xzu
 记忆	jyx
 指挥	vhf
 回忆	hyx
@@ -2833,3 +2849,4 @@ m³	otl	100
 辫	bmls
 东	dsh
 一唱一和	yiyd
+呼之欲出	hvyd

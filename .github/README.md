@@ -30,10 +30,10 @@ patch:
 如果想要为当前用户修改用户词库 `flypy_{sys,top,user}.txt`，只需要复制一份到用户目录下编辑即可。获取更新时不会更新用户资料夹下的文件，更新后请注意检查。
 
 ### 简字补全
-相当于 windows 版 oqm，码表位于 `/usr/share/rime-data/flypy_plus`，如需使用可以将其链接到用户目录下：
+相当于 windows 版 oqm，码表位于 `/usr/share/rime-data/flypy_full`，如需使用可以将其链接到用户目录下：
 
 ```
-ln -s /usr/share/rime-data/flypy_plus/flypy_plus.txt ~/.local/share/fcitx5/rime/
+ln -s /usr/share/rime-data/flypy_full/flypy_full.txt ~/.local/share/fcitx5/rime/
 ```
 
 ## Issue
