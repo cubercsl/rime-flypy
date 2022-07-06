@@ -16,8 +16,20 @@
 # 如无候选2则表示没有生效
 # no comment
 
-
-
+什	uiru
+帕	pajb
+氯	lvqu
+滦	lrdm
+礓	jlua
+忏	ijxq
+孵	fulz
+佴	erre
+援	yrfy
+担	djfa
+沉	ifdj
+纸	visu
+克	keue
+搋	ikfj
 厨	iuic
 蝉	ijil
 畖	watg
@@ -119,6 +131,7 @@
 趵	bczu
 稗	bdhu
 佰	bdrb
+磅	bhuf
 必	bidd
 秕	bihb
 俾	biru
@@ -1454,7 +1467,6 @@
 汁	vidu
 秩	vihu
 帜	vijb
-帙	viju
 制	vipd
 知	viuk
 智	viuo
@@ -2014,3 +2026,4 @@
 赀	zivr
 阼	zoev
 邹	zzde
+樘	igmt

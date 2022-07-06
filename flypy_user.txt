@@ -17,6 +17,8 @@
 
 
 # 全码词
+单元	djyr
+反思	fjsi
 打架	dajx
 叫唤	jnhr
 尝尝	ihih
@@ -277,7 +279,6 @@
 躯壳	quqn
 取笑	quxn
 千娇百媚	qjbm
-千挑万选	qtwx
 忍了	rfle
 任职	rfvi
 韧性	rfxk
