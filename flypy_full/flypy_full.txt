@@ -16,6 +16,16 @@
 # 如无候选2则表示没有生效
 # no comment
 
+缈	mnsu
+珢	ybwg
+没	mwdy
+媸	iini
+擎	qkcu
+仙	xmre
+以	yivr
+太	tddd
+烬	jbhd
+轰	hsiy
 什	uiru
 帕	pajb
 氯	lvqu
@@ -579,7 +589,6 @@
 赤	iitd
 镲	iajx
 碴	iaua
-馇	iaua
 耖	iclu
 钗	idji
 砗	ieui
