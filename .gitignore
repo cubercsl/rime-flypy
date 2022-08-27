@@ -1,0 +1,7 @@
+# rime-prelude
+default.yaml
+key_bindings.yaml
+punctuation.yaml
+symbols.yaml
+
+build/
