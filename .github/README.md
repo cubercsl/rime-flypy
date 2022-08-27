@@ -35,7 +35,7 @@ make PREFIX=/usr install-bin
 ```bash
 apt install librime-bin librime-data
 debian-rime-processor default
-make PREFIX=/usr install
+make install
 ```
 
 ##### Arch
@@ -44,8 +44,7 @@ make PREFIX=/usr install
 pacman -S librime
 # Link essentials
 for _f in $(pacman -Qql rime-prelude | grep -v "/$"); do ln -sf $_f; done
-make
-make PREFIX=/usr install
+make && make install
 ```
 
 最后生成 `rime.lua` 脚本
