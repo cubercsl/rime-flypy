@@ -8,7 +8,7 @@
 
 ### 从 AUR 获取
 
-对于 ArchLinux 用户，可以直接在 AUR 获取：
+对于 Arch Linux 用户，可以直接在 AUR 获取：
 
 假设你使用的 AUR Helper 是 `yay`
 
@@ -20,16 +20,32 @@ yay -S rime-flypy
 
 其他 Linux 发行版可以下载仓库中的内容放置在 Rime 的系统资料夹 `/usr/share/rime-data` 或用户资料夹下。不同的发行版和输入法可能不一样。
 
-- 安装官方预编译的 bin 文件
+以下给出可能的安装方式：
+
+#### 安装官方预编译的 bin 文件
 
 ```bash
 make PREFIX=/usr install-bin
 ```
 
-- 或者从词典文件编译后安装
+#### 从提取的词典文件编译后安装
+
+##### Debian / Ubuntu
 
 ```bash
-make && make PREFIX=/usr install
+apt install librime-bin librime-data
+debian-rime-processor default
+make PREFIX=/usr install
+```
+
+##### Arch
+
+```bash
+pacman -S librime
+# Link essentials
+for _f in $(pacman -Qql rime-prelude | grep -v "/$"); do ln -sf $_f; done
+make
+make PREFIX=/usr install
 ```
 
 最后生成 `rime.lua` 脚本
