@@ -25,7 +25,7 @@ yay -S rime-flypy
 #### 安装官方预编译的 bin 文件
 
 ```bash
-make PREFIX=/usr install-bin
+make install-bin
 ```
 
 #### 从提取的词典文件编译后安装
@@ -53,9 +53,13 @@ make && make install
 cat /usr/share/rime-data/lua-recipe/*.lua > /usr/share/rime-data/rime.lua
 ```
 
+> librime-lua 无法同时载入多个 lua 脚本，见 [librime-lua#151](https://github.com/hchunhui/librime-lua/issues/151)。
+>
+> 在 AUR 包中使用了 alpm 钩子 ([rime-lua-hook](https://github.com/ayalhw/rime-lua-hook)) 的方式自动生成了 `rime.lua` 脚本。
+
 ## 使用方式
 
-在 Rime 的用户资料夹中开启输入方案即可使用。
+在 Rime 的用户资料夹中开启输入方案并重新部署即可使用。
 
 例如 `fcitx5-rime` 用户，在 `~/.local/share/fcitx5/rime` 中编辑 `default.custom.yaml`
 
@@ -63,6 +67,13 @@ cat /usr/share/rime-data/lua-recipe/*.lua > /usr/share/rime-data/rime.lua
 patch:
   schema_list:
     - schema: flypy
+```
+
+或者在用户资料夹下使用以下命令：
+
+```bash
+rime_deployer --add-schema flypy
+rime_deployer --build $(pwd) /usr/share/rime-data
 ```
 
 如果想要为当前用户修改用户词库 `flypy_{sys,top,user}.txt`，只需要复制一份到用户目录下编辑即可。获取更新时不会更新用户资料夹下的文件，更新后请注意检查。
