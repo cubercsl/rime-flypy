@@ -16,6 +16,7 @@
 # 如无候选2则表示没有生效
 # no comment
 
+玤	bhwf
 缈	mnsu
 珢	ybwg
 没	mwdy
@@ -178,6 +179,7 @@
 祠	cipk
 辞	ciqu
 残	cjdj
+蚕	cjti
 卒	cuwu
 翠	cvxu
 漕	ccdo
@@ -366,7 +368,6 @@
 铬	gejk
 贯	grgr
 馃	goug
-蛄	guik
 牿	gunk
 嘏	guuy
 䢼	gsce
@@ -1024,6 +1025,7 @@
 丏	mmav
 免	mmdv
 愐	mmxm
+杪	mnmu
 寞	mobd
 蘑	mocu
 漠	modd

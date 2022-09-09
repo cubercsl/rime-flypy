@@ -1,6 +1,6 @@
 ---
 name: flypydz
-version: "10.9.0"
+version: "10.9.1"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -836,7 +836,6 @@ use_preset_vocabulary: false
 鞮	digr
 䗖	diij
 镝	dijk
-鍉	dijr
 嘀	dikk
 啲	diku
 哋	diky
@@ -1745,7 +1744,6 @@ use_preset_vocabulary: false
 巭	gugf
 鹘	gugn
 雇	guhf
-蛄	gui'
 轱	guik
 蛄	guik
 蛊	guim
@@ -3456,6 +3454,7 @@ use_preset_vocabulary: false
 咖	kakk
 咯	kakk
 胩	kaob
+佧	karb
 卡	kaub
 洘	kcdv
 拷	kcfv
@@ -5563,7 +5562,6 @@ use_preset_vocabulary: false
 蚯	qqiq
 虬	qqiv
 蝤	qqiy
-𨱇	qqj'
 訄	qqjk
 𨱇	qqjq
 赇	qqkq

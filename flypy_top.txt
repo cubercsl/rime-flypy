@@ -19,6 +19,7 @@
 
 
 # 全码词
+即可	jike
 知道	vidc
 只能	ving
 简单	jmdj
@@ -52,4 +53,3 @@
 一片	yipm
 美丽	mwli
 几位	jiww
-及时	jiui
