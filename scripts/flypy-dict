@@ -1,0 +1,90 @@
+#!/bin/bash -e
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#                    Version 2, December 2004
+#
+# Copyright (C) 2022 cubercsl <2014cais01 at gmail dot com>
+#
+# Everyone is permitted to copy and distribute verbatim or modified
+# copies of this license document, and changing it is allowed as long
+# as the name is changed.
+# 
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+#
+#  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+### This script is used to decompile flypy dict from binary to a yaml file.
+### The 'rime_table_bin_decompiler' should be installed first.
+### https://github.com/cubercsl/rime_table_bin_decompiler
+###
+### License: WTFPL v2
+###
+### Usage: flypy-dict <options> -- [version]
+###
+### Options:
+###   -h, --help            show this help message and exit
+###   -a ASSETS, --assets=ASSETS
+###                         assets directory
+###   -o OUTPUT, --output=OUTPUT
+###                         output directory
+
+print_help() {
+    sed -rn 's/^### ?//;T;p' "$0" >&2
+}
+
+script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
+root_dir=$(dirname "$script_dir")
+assets_dir=$root_dir/assets
+output_dir=$root_dir
+
+options=$(getopt -o ha:o: -l help,assets:,output: -n flypy-dict -- "$@") || {
+    print_help
+    exit 1
+}
+eval set -- "$options"
+while true; do
+    case "$1" in
+        -h|--help)
+            print_help
+            exit 0
+            ;;
+        -a|--assets)
+            assets_dir=$2
+            shift 2
+            ;;
+        -o|--output)
+            output_dir=$2
+            shift 2
+            ;;
+        --)
+            shift
+            break
+            ;;
+        *)
+            echo "Invalid option: $1" >&2
+            print_help
+            exit 1
+            ;;
+    esac
+done
+
+version=${1:-$(print_help; exit 1)}
+
+echo "assets_dir: $assets_dir"
+echo "output_dir: $output_dir"
+echo "version: $version"
+
+command -v rime_table_bin_decompiler &> /dev/null || {
+    echo "rime_table_bin_decompiler not found" >&2
+    print_help
+    exit 1
+}
+
+for schema in flypy{,dz}; do
+    echo "Generating $schema dict"
+    [ -f "$assets_dir/$schema.table.bin" ] || {
+        echo "File not found: $assets_dir/$schema.table.bin" >&2
+        exit 1
+    }
+    rime_table_bin_decompiler "$assets_dir/$schema.table.bin" $version > "$output_dir/$schema.dict.yaml"
+done

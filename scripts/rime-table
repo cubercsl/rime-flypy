@@ -1,9 +1,0 @@
-#!/bin/bash -e
-version=${1:-latest}
-SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
-ROOT_DIR=$(dirname "$SCRIPT_DIR")
-ASSET_DIR=$ROOT_DIR/assets
-for schema in flypy{,dz}; do
-    echo "Generating $schema dict"
-    rime-table "$ASSET_DIR/$schema.table.bin" | sed "s/version: \"1.0\"/version: \"$version\"/g" > "$ROOT_DIR/$schema.dict.yaml"
-done
