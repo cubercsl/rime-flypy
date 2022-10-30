@@ -624,6 +624,7 @@
 𬬮	ihji
 𬊤	ijhl
 浕	jbdd
+荆	jkcd
 蒟	juck
 龟	jydv
 鋆	jytj
@@ -1077,6 +1078,7 @@
 咛	nkkd
 狃	nqqi
 菍	npcx
+怒	nunx
 呕	oukx
 鼙	piuu
 冯	pkdm
@@ -1937,7 +1939,7 @@
 屹	yieq
 咦	yiky
 贻	yikk
-沂	yidj
+漪	yidk
 狺	ybqk
 龈	ybvg
 夤	ybxb

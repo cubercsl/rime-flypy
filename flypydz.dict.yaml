@@ -1,6 +1,6 @@
 ---
 name: flypydz
-version: "10.9.1"
+version: "10.9.2"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -43,6 +43,7 @@ use_preset_vocabulary: false
 𩽾	anan
 案	anbm
 安	anbn
+荌	ancn
 鹌	andn
 岸	aneg
 按	anfn
@@ -1262,6 +1263,8 @@ use_preset_vocabulary: false
 烽	fghf
 蜂	fgif
 锋	fgjf
+凬	fgjo
+凨	fgjs
 风	fgjx
 凤	fgjy
 唪	fgkl
@@ -1941,6 +1944,7 @@ use_preset_vocabulary: false
 阖	hemm
 阂	hemr
 核	hemr
+姀	henh
 鹖	heon
 曷	heov
 禾	hepm
@@ -2205,6 +2209,7 @@ use_preset_vocabulary: false
 核	humr
 槲	humu
 嫭	hunh
+嫮	hunk
 鹄	hunn
 鹱	huny
 昈	huoh
@@ -2602,6 +2607,7 @@ use_preset_vocabulary: false
 怆	ilxv
 辍	ioiy
 啜	ioky
+婼	ionk
 绰	iosu
 龊	iovr
 戳	ioxg
@@ -2850,7 +2856,6 @@ use_preset_vocabulary: false
 𫓯	jijt
 忌	jijx
 戢	jika
-戢	jikd
 唧	jike
 叽	jikj
 耤	jil'
@@ -3293,6 +3298,7 @@ use_preset_vocabulary: false
 𫘝	jtmg
 橛	jtmr
 桷	jtmy
+妜	jtng
 矍	jtoy
 爵	jtpc
 獗	jtqr
@@ -3696,6 +3702,7 @@ use_preset_vocabulary: false
 𬶟	laad
 瘌	labd
 落	lack
+菈	lacl
 拉	lafl
 鞡	lagl
 蝲	laid
@@ -3826,6 +3833,7 @@ use_preset_vocabulary: false
 阆	lhml
 桹	lhml
 㫰	lhol
+朤	lhoo
 狼	lhql
 埌	lhtl
 筤	lhvl
@@ -4496,6 +4504,7 @@ use_preset_vocabulary: false
 洣	midm
 米	midm
 汨	mido
+沵	midx
 弭	mige
 靡	migf
 糜	migm
@@ -5110,6 +5119,7 @@ use_preset_vocabulary: false
 攀	pjmu
 胖	pjob
 盼	pjod
+盻	pjov
 袢	pjpb
 番	pjpt
 襻	pjpu
@@ -5874,6 +5884,7 @@ use_preset_vocabulary: false
 凘	sidj
 汜	sids
 涘	sidu
+亖	siee
 㟃	siek
 撕	sifj
 私	sihs
@@ -6728,6 +6739,7 @@ use_preset_vocabulary: false
 衰	ukwy
 爽	ulan
 泷	uldl
+灀	uldo
 漴	uldx
 爽	uldx
 骦	ulmo
@@ -7673,6 +7685,9 @@ use_preset_vocabulary: false
 新	xblj
 歆	xblr
 辛	xblu
+枔	xbmv
+杺	xbmx
+妡	xbnj
 昕	xboj
 囟	xbpx
 信	xbrk
@@ -7762,6 +7777,7 @@ use_preset_vocabulary: false
 腊	xioo
 肸	xiou
 膝	xiou
+盻	xiov
 禊	xip'
 谿	xip'
 禊	xipd
@@ -8863,6 +8879,7 @@ use_preset_vocabulary: false
 阅	ytme
 栎	ytml
 樾	ytmv
+妜	ytng
 刖	ytod
 乐	ytpd
 粤	ytpv

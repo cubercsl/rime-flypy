@@ -100,6 +100,7 @@ https://help.flypy.com/#/gn	orm
 尽管	jg
 渐渐	jj
 即可	jk
+举例	jl
 极其	jq
 假如	jr
 即使	ju
@@ -186,6 +187,7 @@ https://help.flypy.com/#/gn	orm
 感兴趣	gxq
 刽子手	gzu
 回归线	hgx
+含金量	hjl
 花架子	hjz
 出发点	ifd
 基本功	jbg
@@ -199,6 +201,7 @@ https://help.flypy.com/#/gn	orm
 警惕性	jtx
 记事本	jub
 局限性	jxx
+局域网	jyw
 跨时代	kud
 轮不到	lbd
 里程碑	lib
@@ -508,6 +511,7 @@ https://help.flypy.com/#/gn	orm
 公投	gstz
 共识	gsui
 公证	gsvg
+公益	gsyi
 古董	guds
 骨骼	guge
 顾忌	guji
@@ -671,7 +675,7 @@ https://help.flypy.com/#/gn	orm
 金榜题名	jbtm
 举步维艰	jbwj
 进修	jbxq
-兼而有之	jeyv
+敬而远之	jeyv
 家常便饭	jibf
 家丑不可外扬	jiby
 季度	jidu
@@ -1474,7 +1478,6 @@ https://help.flypy.com/#/gn	orm
 扬长避短	yibd
 一尘不染	yibr
 阳春白雪	yibx
-已成定局	yidj
 以诚待人	yidr
 一锤定音	yidy
 依附	yifu
@@ -1534,7 +1537,6 @@ https://help.flypy.com/#/gn	orm
 缘由	yryz
 一人做事一人当	yrzd
 一丝不挂	ysbg
-拥趸	ysdy
 伊斯兰教	yslj
 摇头摆尾	ytbw
 油头滑脑	ythn
@@ -1640,6 +1642,11 @@ https://help.flypy.com/#/gn	orm
 载誉归来	zygl
 自怨自艾	zyzy
 # 三码填空
+举个例	jgl
+不认识	bru
+赶快	gjk
+靠在	kcz
+扣帽子	kmz
 这段话	vdh
 三两下	slx
 阿爸	aab
@@ -1689,7 +1696,6 @@ https://help.flypy.com/#/gn	orm
 安乐窝	alw
 安眠药	amy
 爱面子	amz
-暗藏	anc
 安插	ani
 案例	anl
 按钮	ann
@@ -2373,7 +2379,7 @@ AA制	aav
 大学城	dxi
 第一遍	dyb
 第一次	dyc
-蹲伏	dyf
+独一份	dyf
 第一个	dyg
 打圆场	dyi
 第一名	dym
@@ -3142,6 +3148,7 @@ AA制	aav
 𬴃	hom
 𬭎	hsj
 𬭤	hzj
+查案	iaa
 茶馆	iag
 差了	ial
 插头	iat
@@ -3407,6 +3414,7 @@ AA制	aav
 俱乐部	jlb
 降幅	jlf
 奖惩	jli
+江南	jln
 奖品	jlp
 讲台	jlt
 江西	jlx
@@ -3439,7 +3447,6 @@ AA制	aav
 迥异	jsy
 晶体管	jtg
 决裂	jtl
-九头鸟	jtn
 寄生虫	jui
 几十年	jun
 就知道	jvd
@@ -3487,7 +3494,6 @@ AA制	aav
 久旱逢甘霖	jhf
 饥寒起盗心	jhq
 监护人	jhr
-江南	jln
 将其	jlq
 见人矮三分	jra
 眷顾	jrg
@@ -5694,7 +5700,7 @@ AA制	aav
 谁敢	uvg
 上午好	uwh
 税务局	uwj
-耍无赖	uwl
+失误了	uwl
 视网膜	uwm
 谁怕	uwp
 生物圈	uwq
@@ -6400,7 +6406,7 @@ AA制	aav
 一幕幕	ymm
 虞美人	ymr
 亚马逊	ymx
-羽毛球	ymq
+一毛钱	ymq
 一码事	ymu
 一秒钟	ymv
 有没有	ymy
@@ -6496,7 +6502,7 @@ AA制	aav
 杂牌	zap
 杂碎	zas
 杂文	zaw
-杂音	zay
+咋样	zay
 做不到	zbd
 做不出	zbi
 资本家	zbj
@@ -7622,14 +7628,16 @@ m³	otl	100
 §	otv	100
 ®	otv	99
 ㈱	otv	98
-∞	otw	100
-卍	otw	99
-卐	otw	98
+‱	otw	100
+∞	otw	99
+卍	otw	98
+卐	otw	97
 ≤	otx	96
 ＜	otx	95
 ☆	otx	94
 ★	otx	93
-£	oty	99
+£	oty	100
+ü	oty	99
 ≈	oty	98
 ○	oty	97
 ●	oty	96

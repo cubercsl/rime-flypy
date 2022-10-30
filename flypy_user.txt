@@ -54,7 +54,7 @@
 妥妥当当	ttdd
 反悔	fjhv
 补全	buqr
-距离	juli
+举例	juli
 音形	ybxk
 想想	xlxl
 导出	dciu
@@ -145,7 +145,7 @@
 共计	gsji
 功名	gsmk
 攻破	gspo
-公益	gsyi
+共用	gsys
 公子	gszi
 古文	guwf
 桂花	gvhx
