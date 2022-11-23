@@ -1,6 +1,6 @@
 ---
 name: flypydz
-version: "10.9.2"
+version: "10.9.3"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -1097,6 +1097,8 @@ use_preset_vocabulary: false
 读	duyd
 兑	dvbe
 队	dver
+㨃	dvf
+㨃	dvfz
 镦	dvjw
 𬭚	dvjz
 祋	dvpy
@@ -1543,6 +1545,7 @@ use_preset_vocabulary: false
 哿	gelk
 格	gemk
 阁	gemk
+槅	geml
 革	genl
 胳	geok
 膈	geol
@@ -2723,6 +2726,7 @@ use_preset_vocabulary: false
 杻	izmi
 椆	izmk
 瞅	izoh
+裯	izpk
 雠	izr'
 俦	izrc
 雠	izrf
@@ -3883,6 +3887,7 @@ use_preset_vocabulary: false
 轹	liil
 厉	liiw
 蛎	liiw
+𫟷	lij'
 锂	lijl
 呖	lik'
 喱	likl
@@ -4796,6 +4801,7 @@ use_preset_vocabulary: false
 麑	nige
 𫐐	niie
 铌	nijb
+鿭	nijx
 呢	nikb
 匿	nikk
 妮	ninb

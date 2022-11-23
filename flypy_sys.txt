@@ -132,7 +132,7 @@ https://help.flypy.com/#/gn	orm
 世纪	uj
 试试	uu
 这次	vc
-指定	vd
+直到	vd
 征服	vf
 只会	vh
 支持	vi
@@ -716,7 +716,7 @@ https://help.flypy.com/#/gn	orm
 晶莹	jkyk
 剪裁	jmcd
 剪刀	jmdc
-坚定	jmdk
+鉴定	jmdk
 坚固	jmgu
 监察	jmia
 见解	jmjp
@@ -824,6 +824,7 @@ https://help.flypy.com/#/gn	orm
 离家出走	ljiz
 浪迹江湖	ljjh
 领衔	lkxm
+羚羊	lkyh
 恋恋不舍	llbu
 唠唠叨叨	lldd
 亮点	lldm
@@ -973,7 +974,7 @@ https://help.flypy.com/#/gn	orm
 轻视	qkui
 轻信	qkxb
 清洗	qkxi
-情形	qkxk
+庆幸	qkxk
 清香	qkxl
 襁褓	qlbc
 黔驴技穷	qljq
@@ -1109,7 +1110,6 @@ https://help.flypy.com/#/gn	orm
 伤亡	uhwh
 商务	uhwu
 上限	uhxm
-伤员	uhyr
 说长道短	uidd
 石沉大海	uidh
 师范	uifj
@@ -1155,7 +1155,7 @@ https://help.flypy.com/#/gn	orm
 审时度势	uudu
 水深火热	uuhr
 书籍	uuji
-梳理	uuli
+树立	uuli
 顺顺利利	uull
 神神秘秘	uumm
 树木	uumu
@@ -1194,6 +1194,7 @@ https://help.flypy.com/#/gn	orm
 首饰	uzui
 手掌	uzvh
 收支	uzvi
+首位	uzww
 收养	uzyh
 手艺	uzyi
 招摇	vcyc
@@ -1216,6 +1217,7 @@ https://help.flypy.com/#/gn	orm
 涨幅	vhfu
 追悔莫及	vhmj
 致辞	vici
+制定	vidk
 滞后	vihz
 职称	viig
 支出	viiu
@@ -1249,7 +1251,6 @@ https://help.flypy.com/#/gn	orm
 终结	vsjp
 中指	vsvi
 中药	vsyc
-忠于	vsyu
 终身大事	vudu
 嘱咐	vufu
 主观	vugr
@@ -1283,7 +1284,6 @@ https://help.flypy.com/#/gn	orm
 威风扫地	wfsd
 无法忘怀	wfwh
 瘟疫	wfyi
-问寒问暖	whwn
 为虎作伥	whzi
 无坚不摧	wjbc
 万劫不复	wjbf
@@ -1609,6 +1609,7 @@ https://help.flypy.com/#/gn	orm
 引以为戒	yywj
 依依惜别	yyxb
 炎炎夏日	yyxr
+牙牙学语	yyxy
 跃跃欲试	yyyu
 摇摇欲坠	yyyv
 一言一行	yyyx
@@ -1642,6 +1643,10 @@ https://help.flypy.com/#/gn	orm
 载誉归来	zygl
 自怨自艾	zyzy
 # 三码填空
+截个屏	jgp
+截个图	jgt
+风嗖嗖	fss
+火灾	hoz
 举个例	jgl
 不认识	bru
 赶快	gjk
@@ -1673,7 +1678,6 @@ https://help.flypy.com/#/gn	orm
 昂起	ahq
 盎然	ahr
 安徽省	ahu
-爱好者	ahv
 挨打	aid
 爱国	aig
 爱好	aih
@@ -4763,7 +4767,7 @@ AA制	aav
 牵挂	qmg
 乾坤	qmk
 前面	qmm
-千万	qmw
+前文	qmw
 敲定	qnd
 巧合	qnh
 翘课	qnk
@@ -7624,6 +7628,8 @@ m³	otl	100
 ▲	ots	97
 ฿	ott	100
 ℡	ott	99
+ϟ	otu	98
+囍	otu	97
 ™	otu	96
 §	otv	100
 ®	otv	99
@@ -7997,7 +8003,6 @@ m³	otl	100
 距离	jlw
 食物	uwn
 指示	vue
-直到	vda
 哲理	vlw
 音形	yxk
 截至	jva

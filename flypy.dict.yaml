@@ -1,6 +1,6 @@
 ---
 name: flypy
-version: "10.9.2"
+version: "10.9.3"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -139,7 +139,8 @@ AA制	aavi
 盎司	ahsi
 安徽省	ahug
 昂首	ahuz
-爱好者	ahve
+爱好者	ahv
+昂着	ahve
 盎	ahy
 昂扬	ahyh
 盎	ahym
@@ -336,6 +337,7 @@ AA制	aavi
 碍难从命	ancm
 荌	ancn
 按错	anco
+暗忖	ancy
 鹌	and
 暗道	andc
 暗地	andi
@@ -1633,6 +1635,7 @@ AA制	aavi
 蚌	bgi
 蚌	bgif
 蹦床	bgil
+蹦出	bgiu
 镚	bgj
 绷紧	bgjb
 蹦极	bgji
@@ -1694,6 +1697,7 @@ AA制	aavi
 琫	bgwl
 别跟我说	bgwu
 报告文学	bgwx
+不敢妄言	bgwy
 不更新	bgx
 不甘心	bgxb
 不高兴	bgxk
@@ -2069,7 +2073,7 @@ B超	biic
 鼻翼	biyi
 鼻炎	biyj
 不齿于人	biyr
-不吃羊肉惹身臊	biys
+必用	biys
 抱成一团	biyt
 比喻	biyu
 不出意外	biyw
@@ -4547,7 +4551,7 @@ B超	biic
 彩喷	cdpf
 裁判	cdpj
 彩屏	cdpk
-采	cdpm
+裁片	cdpm
 彩票	cdpn
 彩	cdpp
 菜谱	cdpu
@@ -5097,6 +5101,7 @@ B超	biic
 猜来猜去	clcq
 催泪弹	cldj
 灿烂夺目	cldm
+层峦叠嶂	cldv
 丛林法则	clfz
 灿烂辉煌	clhh
 层林尽染	cljr
@@ -8028,6 +8033,7 @@ B超	biic
 跌势	dpui
 碟	dpum
 跌至	dpvi
+谍战	dpvj
 肚皮舞	dpwu
 东拼西凑	dpxc
 东跑西颠	dpxd
@@ -10505,7 +10511,7 @@ Excel	exce
 坊	fhtf
 方糖	fhth
 访谈	fhtj
-放手	fhu
+防守	fhu
 纺纱	fhua
 放哨	fhuc
 防晒	fhud
@@ -10518,7 +10524,7 @@ Excel	exce
 防暑	fhuu
 防水	fhuv
 福慧双修	fhux
-防守	fhuz
+放手	fhuz
 舫	fhv
 仿照	fhvc
 放债	fhvd
@@ -11083,6 +11089,7 @@ Excel	exce
 烦死人	fsrf
 风俗人情	fsrq
 发散思维	fssw
+风嗖嗖	fssz
 风俗习惯	fsxg
 发散性	fsxk
 繁体	ft
@@ -11423,6 +11430,7 @@ Excel	exce
 付诸东流	fvdl
 反政府	fvfu
 非政府组织	fvfv
+父之过	fvgo
 法制化	fvhx
 负债累累	fvll
 非主流	fvlq
@@ -11987,7 +11995,7 @@ Excel	exce
 高冷	gclg
 高丽	gcli
 高领	gclk
-高粱	gcll
+高亮	gcll
 搞乱	gclr
 高论	gcly
 高楼	gclz
@@ -16525,8 +16533,7 @@ GDP	gdp
 活跃	hoyt
 货运	hoyy
 或有	hoyz
-火灾	hoz
-活在	hozd
+火灾	hozd
 或则	hoze
 获赠	hozg
 火葬	hozh
@@ -17205,7 +17212,7 @@ GDP	gdp
 醐	huy
 虎牙	huya
 鄠	huye
-护养	huyh
+火树银花	huyh
 狐疑	huyi
 护眼	huyj
 呼应	huyk
@@ -18310,6 +18317,7 @@ GDP	gdp
 超度	icdu
 超额	icee
 抄	icf
+炒粉	icff
 嘲讽	icfg
 炒房	icfh
 炒饭	icfj
@@ -19560,6 +19568,7 @@ GDP	gdp
 床垫	ildm
 初露端倪	ildn
 重峦叠嶂	ildv
+踔厉奋发	ilff
 炒冷饭	ilfj
 初露锋芒	ilfm
 出离愤怒	ilfn
@@ -21236,6 +21245,7 @@ IP地址	ipdv
 见个面	jgmm
 结果呢	jgne
 金刚怒目	jgnm
+截个屏	jgpk
 交个朋友	jgpy
 几个钱	jgq
 静观其变	jgqb
@@ -21254,6 +21264,7 @@ IP地址	ipdv
 酒过三巡	jgsx
 金戈铁马	jgtm
 举国同庆	jgtq
+截个图	jgtu
 家国天下	jgtx
 井冈山	jgu
 见鬼说鬼话	jguh
@@ -22321,7 +22332,7 @@ IP地址	ipdv
 建党	jmdh
 减低	jmdi
 渐	jmdj
-鉴定	jmdk
+坚定	jmdk
 检点	jmdm
 剪掉	jmdn
 涧	jmdo
@@ -25268,6 +25279,7 @@ IP地址	ipdv
 口齿生香	kiux
 可乘之机	kivj
 可乘之隙	kivx
+口出妄言	kiwy
 开诚相见	kixj
 开创性	kixk
 可持续	kixu
@@ -26496,7 +26508,7 @@ IP地址	ipdv
 拉开	lakd
 拉客	lake
 啦	lakl
-拉跨	lakx
+拉胯	lakx
 辣	lal
 啦啦	lala
 拉来	lald
@@ -27901,7 +27913,7 @@ IP地址	ipdv
 羚	lky
 灵药	lkyc
 酃	lkye
-羚羊	lkyh
+领养	lkyh
 灵异	lkyi
 灵验	lkyj
 雷克雅未克	lkyk
@@ -28913,6 +28925,7 @@ IP地址	ipdv
 乱扔	lrrg
 乱入	lrru
 礼让三分	lrsf
+冷热酸甜	lrst
 乱套	lrtc
 令人叹服	lrtf
 乱弹	lrtj
@@ -29046,9 +29059,9 @@ IP地址	ipdv
 隆起	lsqi
 老僧入定	lsrd
 累死人	lsrf
-凉嗖嗖	lss
+凉飕飕	lss
 两三岁	lssv
-冷嗖嗖	lssz
+冷飕飕	lssz
 龙套	lstc
 绿色通道	lstd
 龙腾	lstg
@@ -29655,6 +29668,7 @@ IP地址	ipdv
 连续性	lxxk
 礼贤下士	lxxu
 怜香惜玉	lxxy
+落霞与孤鹜齐飞	lxyf
 落霞余晖	lxyh
 略逊一筹	lxyi
 礼下于人	lxyr
@@ -30707,6 +30721,7 @@ IP地址	ipdv
 没好果子吃	mhgi
 芒果	mhgo
 没回过神	mhgu
+盲盒	mhhe
 莽汉	mhhj
 明晃晃	mhhl
 忙活	mhho
@@ -37555,6 +37570,7 @@ PPT	ppt
 签注	qmvu
 前缀	qmvv
 千瓦	qmwa
+前文	qmwf
 前往	qmwh
 千万	qmwj
 钱物	qmwu
@@ -38366,6 +38382,7 @@ PPT	ppt
 囚首垢面	qugm
 去过	qugo
 亲生骨肉	qugr
+秋水共长天一色	qugs
 全神贯注	qugv
 七十古稀	qugx
 觑	quh
@@ -46124,7 +46141,7 @@ TXT	txt
 上衣	uhyi
 上演	uhyj
 上映	uhyk
-上元	uhyr
+伤员	uhyr
 商用	uhys
 上月	uhyt
 伤愈	uhyu
@@ -47432,7 +47449,7 @@ TXT	txt
 树林	uulb
 首鼠两端	uuld
 输了	uule
-树立	uuli
+梳理	uuli
 树懒	uulj
 树龄	uulk
 数量	uull
@@ -47620,7 +47637,7 @@ TXT	txt
 梳妆打扮	uvdb
 水稻	uvdc
 睡袋	uvdd
-水底	uvdi
+水滴	uvdi
 税单	uvdj
 水电	uvdm
 守株待兔	uvdt
@@ -48350,7 +48367,7 @@ TXT	txt
 少走弯路	uzwl
 手握	uzwo
 手误	uzwu
-首位	uzww
+收尾	uzww
 手下	uzx
 手心	uzxb
 手足相残	uzxc
@@ -49573,7 +49590,7 @@ TXT	txt
 值当	vidh
 质地	vidi
 滞	vidj
-制定	vidk
+指定	vidk
 觯	vidl
 指点	vidm
 之	vidn
@@ -50110,6 +50127,7 @@ TXT	txt
 装潢	vlhl
 装货	vlho
 纸老虎	vlhu
+装回	vlhv
 战略合作	vlhz
 装车	vlie
 装成	vlig
@@ -50927,6 +50945,7 @@ TXT	txt
 诸侯	vuhz
 蛛	vui
 蠋	vui'
+煮茶	vuia
 筑巢	vuic
 铸成	vuig
 主场	vuih
@@ -55772,7 +55791,7 @@ Word	word
 𤫉	xpw'
 鞋袜	xpwa
 卸	xpwe
-斜纹	xpwf
+写文	xpwf
 写完	xpwj
 些微	xpww
 亵	xpwy
@@ -57449,12 +57468,13 @@ Word	word
 引进	ybjb
 铟	ybjd
 眼不见，心不烦	ybjf
-银	ybjg
+养不教父之过	ybjg
 印记	ybji
 眼不见为净	ybjj
 阴茎	ybjk
 由表及里	ybjl
 引荐	ybjm
+养不教	ybjn
 音节	ybjp
 饮酒	ybjq
 也不尽然	ybjr
@@ -59621,6 +59641,7 @@ Word	word
 一揽子	ylzi
 雅鲁藏布江	ylzj
 一路走来	ylzl
+雨露滋润	ylzr
 有理走遍天下	ylzx
 言论自由	ylzy
 郁闷	ym
@@ -59968,6 +59989,7 @@ Word	word
 怨恨	yrhf
 雍容华贵	yrhg
 远航	yrhh
+羊入虎口	yrhk
 圆谎	yrhl
 圆环	yrhr
 圆弧	yrhu
@@ -61425,7 +61447,7 @@ Word	word
 允许	yyxu
 鱼与熊掌	yyxv
 云霞	yyxx
-牙牙学语	yyxy
+欲扬先抑	yyxy
 酝	yyy
 溢于言表	yyyb
 一月一次	yyyc
