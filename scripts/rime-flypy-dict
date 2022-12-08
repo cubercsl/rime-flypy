@@ -19,7 +19,7 @@
 ###
 ### License: WTFPL v2
 ###
-### Usage: flypy-dict <options> -- [version]
+### Usage: rime-flypy-dict <options> -- [version]
 ###
 ### Options:
 ###   -h, --help            show this help message and exit

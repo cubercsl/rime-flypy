@@ -1,0 +1,40 @@
+#!/usr/bin/env python
+from pathlib import Path
+
+root = Path(__file__).parent.parent
+def txt_file(name):
+    with open(root / name) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):
+                token, code, *_ = line.split()
+                yield code, token
+
+def yaml_file(name):
+    with open(root / name) as f:
+        data = False
+        for line in f:
+            line = line.strip()
+            if data:
+                token, code = line.split()
+                yield code, token
+            if not data and line == '...':
+                data = True
+            
+
+header=''';fcitx Version 0x03 Table file
+键码=abcdefghijklmnopqrstuvwxyz;
+码长=4
+[数据]'''
+def main():
+    print(header)
+    for code, word in txt_file('flypy_top.txt'):
+        print(f'{code} {word}')
+    for code, word in yaml_file('flypy.dict.yaml'):
+        print(f'{code} {word}')
+    for code, word in txt_file('flypy_sys.txt'):
+        print(f'{code} {word}')
+    for code, word in txt_file('flypy_user.txt'):
+        print(f'{code} {word}')
+
+main()
