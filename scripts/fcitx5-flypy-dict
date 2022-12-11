@@ -1,14 +1,31 @@
 #!/usr/bin/env python
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#                    Version 2, December 2004
+#
+# Copyright (C) 2022 cubercsl <2014cais01 at gmail dot com>
+#
+# Everyone is permitted to copy and distribute verbatim or modified
+# copies of this license document, and changing it is allowed as long
+# as the name is changed.
+#
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+#
+#  0. You just DO WHAT THE FUCK YOU WANT TO.
+
 from pathlib import Path
 
 root = Path(__file__).parent.parent
+
+
 def txt_file(name):
     with open(root / name) as f:
         for line in f:
             line = line.strip()
             if line and not line.startswith('#'):
-                token, code, *_ = line.split()
+                token, code, *_ = line.split()  # assume the weight is sorted desc
                 yield code, token
+
 
 def yaml_file(name):
     with open(root / name) as f:
@@ -20,12 +37,14 @@ def yaml_file(name):
                 yield code, token
             if not data and line == '...':
                 data = True
-            
 
-header=''';fcitx Version 0x03 Table file
+
+header = ''';fcitx Version 0x03 Table file
 键码=abcdefghijklmnopqrstuvwxyz;
 码长=4
 [数据]'''
+
+
 def main():
     print(header)
     for code, word in txt_file('flypy_top.txt'):
@@ -37,4 +56,6 @@ def main():
     for code, word in txt_file('flypy_user.txt'):
         print(f'{code} {word}')
 
-main()
+
+if __name__ == '__main__':
+    main()
