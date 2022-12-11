@@ -1,0 +1,47 @@
+name: ci
+
+on:
+  push:
+    branches: [master]
+    tags:
+      - "v*"
+  pull_request: 
+    branches: [master]
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y make python3 libime-bin
+      - name: Build
+        run: |
+          tar -zcvf rime-flypy.tar.gz flypy*.yaml lua/*.lua rime.lua flypy_{sys,top,user}.txt flypy_full/flypy_full.txt
+          make -C fcitx5
+          tar -C fcitx5 -zcvf fcitx5-table-flypy.tar.gz flypy.{conf,dict,txt}
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: fcitx5-table-flypy
+          path: |
+            fcitx5/flypy.conf
+            fcitx5/flypy.dict
+            fcitx5/flypy.txt
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          draft: true
+          prerelease: true
+          files: |
+            rime-flypy.tar.gz
+            fcitx5-table-flypy.tar.gz
+    
