@@ -4,22 +4,38 @@
 
 ## 安装方式
 
+### 从 AUR 获取
+
+对于 Arch Linux 用户，可以直接在 AUR 获取：
+
+假设你使用的 AUR Helper 是 `yay`
+
+```bash
+yay -S fcitx5-flypy
+```
+
+### 从 Github Release 获取
+
+1. 从 [Github Release](https://github.com/cubercsl/rime-flypy/releases) 获取`fcitx5-table-flypy.tar.gz` 中的 `flypy.conf` 与 `flypy.dict` 两个文件。
+2. 将 `flypy.dict` 添加至 `~/.local/share/fcitx5/table/` 目录
+3. 将 `flypy.conf` 添加至 `~/.local/share/fcitx5/inputmethod/` 目录
+
+对于 Android 系统，请参考 [常见问题](https://fcitx5-android.github.io/faq/#_2)。
+
+### 从文本码表编译安装
+
 以下给出不同发行版可能的安装方式：
 
-### Debian / Ubuntu
+#### Debian / Ubuntu
 
 ```bash
 apt install libime-bin
 make && make install
 ```
 
-### Arch
+#### Arch
 
 ```bash
 pacman -S libime
 make && make install
 ```
-
-### Android
-
-参考 [常见问题](https://fcitx5-android.github.io/faq/#_2)
