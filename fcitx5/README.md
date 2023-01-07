@@ -16,11 +16,11 @@ yay -S fcitx5-flypy
 
 ### 从 Github Release 获取
 
-1. 从 [Github Release](https://github.com/cubercsl/rime-flypy/releases) 获取`fcitx5-table-flypy.tar.gz` 中的 `flypy.conf` 与 `flypy.dict` 两个文件。
+1. 从 [Github Release](https://github.com/cubercsl/rime-flypy/releases) 获取`fcitx5-table-flypy.zip` 中的 `flypy.conf` 与 `flypy.dict` 两个文件。
 2. 将 `flypy.dict` 添加至 `~/.local/share/fcitx5/table/` 目录
 3. 将 `flypy.conf` 添加至 `~/.local/share/fcitx5/inputmethod/` 目录
 
-对于 Android 系统，请参考 [常见问题](https://fcitx5-android.github.io/faq/#_2)。
+对于 Android 系统，可以直接在 “插件” —— “码表” 中选择 zip 包直接导入。
 
 ### 从文本码表编译安装
 
