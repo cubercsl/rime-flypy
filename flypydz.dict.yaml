@@ -1,6 +1,6 @@
 ---
 name: flypydz
-version: "10.9.3"
+version: "10.9.4"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -595,7 +595,6 @@ use_preset_vocabulary: false
 茈	cicb
 莿	cicd
 茨	cicr
-粢	cid'
 泚	cidb
 粢	cidm
 次	cidr
@@ -780,6 +779,7 @@ use_preset_vocabulary: false
 戴	ddub
 大	ddun
 玳	ddwy
+甙	ddyg
 迨	ddzk
 逮	ddzn
 的	debu
@@ -3889,6 +3889,7 @@ use_preset_vocabulary: false
 蛎	liiw
 𫟷	lij'
 锂	lijl
+𫟷	lijl
 呖	lik'
 喱	likl
 呖	likl
@@ -5676,6 +5677,7 @@ use_preset_vocabulary: false
 区	qukx
 曲	qula
 竘	qulk
+欋	qumf
 阒	qumq
 㭕	qums
 驱	qumx
@@ -9046,7 +9048,6 @@ use_preset_vocabulary: false
 沄	yyds
 陨	yyer
 云	yyes
-馧	yyh'
 煴	yyhm
 馧	yyhm
 郧	yyke
@@ -9091,7 +9092,6 @@ use_preset_vocabulary: false
 麀	yzgb
 黝	yzhl
 𬨎	yzi'
-蚰	yzi'
 蚴	yzil
 蚰	yziy
 𬨎	yziy
