@@ -32,8 +32,8 @@ def yaml_file(name):
         data = False
         for line in f:
             line = line.strip()
-            if data:
-                token, code = line.split()
+            if data and line:
+                token, code, *_ = line.split()
                 yield code, token
             if not data and line == '...':
                 data = True

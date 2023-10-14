@@ -1,9 +1,10 @@
+# Rime dictionary
+
 ---
 name: flypy
 version: "10.9.4"
-sort: original
-use_preset_vocabulary: false
 ...
+
 啊	a
 阿	aa
 阿爸	aaba
@@ -21403,8 +21404,8 @@ IP地址	ipdv
 寂	jiby
 藉	jic
 蓟	jic
-蒺	jic'
-芰	jic'
+蒺	jic'	100
+芰	jic'	90
 蕺	jica
 荠菜	jicd
 计策	jice
@@ -58682,7 +58683,7 @@ Word	word
 衣柜	yigv
 移	yih
 燚	yih
-燚	yih'
+燚	yih'	30
 扅	yih'
 扆	yih'
 熠	yihb
@@ -58923,7 +58924,7 @@ Word	word
 衣	yiwy
 翼	yix
 怡	yix
-怿	yix'
+怿	yix'	90
 刈	yix'
 悒	yix'
 疑心	yixb
@@ -60869,8 +60870,8 @@ Word	word
 竽	yuvy
 宇宙	yuvz
 玉	yuw
-瑀	yuw'
-敔	yuw'
+瑀	yuw'	80
+敔	yuw'	60
 于事无补	yuwb
 瑜	yuwd
 语文	yuwf

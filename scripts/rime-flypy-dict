@@ -14,8 +14,7 @@
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
 
 ### This script is used to decompile flypy dict from binary to a yaml file.
-### The 'rime_table_bin_decompiler' should be installed first.
-### https://github.com/cubercsl/rime_table_bin_decompiler
+### The 'rime_table_decompiler' should be installed from librime >=1.9.0.
 ###
 ### License: WTFPL v2
 ###
@@ -68,14 +67,14 @@ while true; do
     esac
 done
 
-version=${1:-$(print_help; exit 1)}
+version=${1:-1.0}
 
 echo "assets_dir: $assets_dir"
 echo "output_dir: $output_dir"
 echo "version: $version"
 
-command -v rime_table_bin_decompiler &> /dev/null || {
-    echo "rime_table_bin_decompiler not found" >&2
+command -v rime_table_decompiler &> /dev/null || {
+    echo "rime_table_decompiler not found" >&2
     print_help
     exit 1
 }
@@ -86,5 +85,8 @@ for schema in flypy{,dz}; do
         echo "File not found: $assets_dir/$schema.table.bin" >&2
         exit 1
     }
-    rime_table_bin_decompiler "$assets_dir/$schema.table.bin" $version > "$output_dir/$schema.dict.yaml"
+    rime_table_decompiler "$assets_dir/$schema.table.bin" "$output_dir/$schema.dict.yaml"
+
+    # Change version
+    sed -i "s/version: .*/version: \"$version\"/" "$output_dir/$schema.dict.yaml"
 done

@@ -1,9 +1,10 @@
+# Rime dictionary
+
 ---
 name: flypydz
 version: "10.9.4"
-sort: original
-use_preset_vocabulary: false
 ...
+
 阿	aaek
 锕	aajk
 啊	aakk
