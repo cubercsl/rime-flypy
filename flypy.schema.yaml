@@ -16,14 +16,14 @@ punctuator:
 switches:
   - name: ascii_mode
     reset: 0
-   # states: [ 中文, 英文 ]
+    states: [ 中文, 英文 ]
   - name: full_shape
-   # states: [ 半角, 全角 ]
+    states: [ 半角, 全角 ]
   - name: simplification
-   # states: [ 简, 繁 ]
+    states: [ 简, 繁 ]
     reset: 0
   - name: ascii_punct
-   # states: [ 。，, ．， ]
+    states: [ 。，, ．， ]
     reset: 0
 
 engine:
