@@ -15,7 +15,6 @@ install-txt:
 	install -vDm644 flypy_full/flypy_full.txt -t $(DESTDIR)$(RIME_DATA_DIR)/flypy_full
 
 install-lua:
-	install -vDm644 rime.lua $(DESTDIR)$(RIME_DATA_DIR)/lua-recipe/flypy.lua
 	install -vDm644 lua/*.lua -t $(DESTDIR)$(RIME_DATA_DIR)/lua
 
 install-bin: install-txt install-lua

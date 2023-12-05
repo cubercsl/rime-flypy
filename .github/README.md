@@ -49,16 +49,6 @@ for _f in $(pacman -Qql rime-prelude | grep -v "/$"); do ln -sf $_f; done
 make && make install
 ```
 
-最后生成 `rime.lua` 脚本
-
-```bash
-cat /usr/share/rime-data/lua-recipe/*.lua > /usr/share/rime-data/rime.lua
-```
-
-> librime-lua 无法同时载入多个 lua 脚本，见 [librime-lua#151](https://github.com/hchunhui/librime-lua/issues/151)。
->
-> 在 AUR 包中使用了 alpm 钩子 ([rime-lua-hook](https://github.com/ayalhw/rime-lua-hook)) 的方式自动生成了 `rime.lua` 脚本。
-
 ## 使用方式
 
 在 Rime 的用户资料夹中开启输入方案并重新部署即可使用。
