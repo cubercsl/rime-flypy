@@ -18,6 +18,7 @@
 # 置顶用户词库，下一行开始添加，部署后生效
 
 # 全码词
+修正	xqvg
 即可	jike
 知道	vidc
 只能	ving
@@ -48,4 +49,5 @@
 只会	vihv
 一片	yipm
 美丽	mwli
-几位	jiww
+想想	xlxl
+按到	andc
