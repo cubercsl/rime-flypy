@@ -2,7 +2,7 @@
 
 ---
 name: flypydz
-version: "20240521"
+version: "20240724"
 ...
 
 阿	aaek
@@ -450,7 +450,6 @@ version: "20240521"
 柏	bomb
 欂	bomc
 驳	bomx
-桲	bomz
 膊	booc
 脖	booz
 袯	bopd
@@ -5203,6 +5202,7 @@ version: "20240521"
 叵	pokk
 朴	pomb
 粕	pomb
+桲	pomz
 鄱	pope
 繁	popx
 坡	poty
@@ -6501,6 +6501,7 @@ version: "20240521"
 滠	uedy
 𪨶	ueei
 折	uefj
+拾	uefk
 摄	uefy
 麝	uegc
 蛇	ueib

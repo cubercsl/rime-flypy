@@ -54,14 +54,25 @@ def main():
     print(header)
     for code, word in yaml_file('flypydz.dict.yaml'):
         print(f'^{code[:2]} {word}')
-    for code, word in txt_file('flypy_top.txt'):
-        print(f'{code} {word}')
-    for code, word in yaml_file('flypy.dict.yaml'):
-        print(f'{code} {word}')
-    for code, word in txt_file('flypy_sys.txt'):
-        print(f'{code} {word}')
-    for code, word in txt_file('flypy_user.txt'):
-        print(f'{code} {word}')
+    for f in (
+        'flypy.user.top',
+        # 'flypy.full.top',
+        'flypy.fast.symbols',
+        'flypy.primary',
+        # 'flypy.secondary.short.code',
+        'flypy.secondary',
+        'flypy.web',
+        'flypy.emoji',
+        'flypy.symbols',
+        'flypy.wechat',
+        'flypy.whimsicality',
+        'flypy.primary.short.word',
+        'flypy.full.char',
+        # 'flypy.full',
+        'flypy.user'
+    ):
+        for code, word in yaml_file(Path('flypy') / f'{f}.dict.yaml'):
+            print(f'{code} {word}')
 
 
 if __name__ == '__main__':

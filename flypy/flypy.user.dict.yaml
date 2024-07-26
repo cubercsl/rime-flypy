@@ -1,0 +1,6 @@
+# 用户词库
+---
+name: flypy.user
+version: "20240724"
+use_preset_vocabulary: false
+...
