@@ -9,6 +9,8 @@ schema:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
     小鹤音形输入法
+  dependencies:
+    flypydz
 
 punctuator:
   import_preset: default
@@ -73,7 +75,6 @@ translator:
   enable_user_dict: false
   disable_user_dict_for_patterns:
     - "^z.*$"
- 
 
 history:
    input: ;f

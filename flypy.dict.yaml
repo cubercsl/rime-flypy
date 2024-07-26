@@ -2,6 +2,7 @@
 ---
 name: flypy
 version: "20240724"
+sort: original
 import_tables:
   - 'flypy/flypy.user.top'                # 用户置顶词
   # - 'flypy/flypy.full.top'              # 全码置顶词
@@ -18,6 +19,4 @@ import_tables:
   - 'flypy/flypy.full.char'               # 全码字
   # - 'flypy/flypy.full'                  # 全码词
   - 'flypy/flypy.user'                    # 用户词库
-
-
 ...

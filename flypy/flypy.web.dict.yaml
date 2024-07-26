@@ -2,6 +2,7 @@
 ---
 name: flypy.web
 version: "20240724"
+sort: by_weight
 use_preset_vocabulary: false
 ...
 https://flypy.com	xhgw

@@ -2,6 +2,7 @@
 ---
 name: flypy.secondary.short.code
 version: "20240724"
+sort: by_weight
 use_preset_vocabulary: false
 ...
 又	y
