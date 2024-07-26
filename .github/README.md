@@ -64,7 +64,7 @@ rime_deployer --build $(pwd) /usr/share/rime-data
 
 ### 用户词库
 
-用户词库位于 `flypy/user.dict.yaml` 和 `flypy/flypy.user.top.dict.yaml`，默认为空。
+用户词库位于 `flypy/flypy.user.dict.yaml` 和 `flypy/flypy.user.top.dict.yaml`，默认为空。
 
 如果想要为当前用户修改用户词库，只需要复制一份到用户目录下编辑即可。获取更新时不会更新用户资料夹下的文件，更新后请注意检查。
 
