@@ -4,7 +4,7 @@
 schema:
   schema_id: flypydz
   name: 小鹤音形反查
-  version: "20240521"
+  version: "20240724"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |

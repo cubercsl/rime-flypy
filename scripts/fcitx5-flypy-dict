@@ -67,7 +67,7 @@ def main():
         'flypy.wechat',
         'flypy.whimsicality',
         'flypy.primary.short.word',
-        'flypy.full.char',
+        # 'flypy.full.char',
         # 'flypy.full',
         'flypy.user'
     ):

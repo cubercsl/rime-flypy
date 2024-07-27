@@ -16,7 +16,7 @@ import_tables:
   # - 'flypy/flypy.secondary.short.code'  # 二重简码
   - 'flypy/flypy.primary.short.word'      # 一简词
   - 'flypy/flypy.whimsicality'            # 随心所欲
-  - 'flypy/flypy.full.char'               # 全码字
+  # - 'flypy/flypy.full.char'             # 全码字
   # - 'flypy/flypy.full'                  # 全码词
   - 'flypy/flypy.user'                    # 用户词库
 ...
