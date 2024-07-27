@@ -22,7 +22,7 @@ install: install-lua
 	install -vDm644 build/flypy* -t $(DESTDIR)$(RIME_DATA_DIR)/build
 
 dist:
-	tar -czvf rime-flypy.tar.gz flypy*.yaml flypy/*.yaml build/flypy*
+	tar -czvf rime-flypy.tar.gz flypy*.yaml flypy/*.yaml lua/*.lua
 
 clean:
 	rm -rf build/ > /dev/null 2>&1 || true
