@@ -34,9 +34,9 @@ yay -S rime-flypy
 > 本仓库已经提供了提取的词典文件，如果你想要自己提取，可以参考以下步骤。
 
 - 从网盘下载小鹤音形挂接文件；
-- 运行 `rime_table_decompiler` 提取词典文件，参考[此脚本](./scripts/rime-flypy-dict)；
+- 运行 `rime_table_decompiler` 提取词典文件，参考[此脚本](scripts/rime-flypy-dict)；
 - 手动将 `flypy_{sys,top,user}.txt` 等 txt 的内容整理成 `flypy.*.dict.yaml` 文件，放置在 `flypy` 文件夹下；
-- 在 `flypy.dict.yaml` 中导入的词库。
+- 在 `flypy.dict.yaml` 中导入所需的词库。
 
 #### 从提取的词典文件编译后安装
 
