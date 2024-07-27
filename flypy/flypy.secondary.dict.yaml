@@ -2,7 +2,6 @@
 ---
 name: flypy.secondary
 version: "20240724"
-sort: by_weight
 use_preset_vocabulary: false
 ...
 饥渴	jike

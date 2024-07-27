@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/aur/version/rime-flypy)
 
-小鹤音形官方提供的 MacOS 版本的挂接文件的搬运，加上~~一些~~补丁，可以直接在 Linux 系统上挂接使用。
+小鹤音形官方提供的 MacOS 版本的挂接文件的搬运，加上~~一些~~针对 Linux 系统的补丁，使其更符合 Linux 规范。
 
 [fcitx5 码表](../fcitx5/README.md)
 

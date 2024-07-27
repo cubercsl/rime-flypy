@@ -2,7 +2,6 @@
 ---
 name: flypy.full.top
 version: "20240724"
-sort: by_weight
 use_preset_vocabulary: false
 ...
 修正	xqvg
