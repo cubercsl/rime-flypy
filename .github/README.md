@@ -24,6 +24,20 @@ yay -S rime-flypy
 
 以下给出可能的安装方式：
 
+> [!IMPORTANT]  
+> 本仓库对模式切换的方式进行了改进，故不再使用和上游相同的配置方式， `flypy_{sys,top,user}.txt` 文件已经被移除。转而使用 `flypy.dict.yaml` 文件进行配置。
+> 因此不再支持直接使用上游预编译的 `bin`。
+
+#### 提取词典文件
+
+> [!NOTE]  
+> 本仓库已经提供了提取的词典文件，如果你想要自己提取，可以参考以下步骤。
+
+- 从网盘下载小鹤音形挂接文件；
+- 运行 `rime_table_decompiler` 提取词典文件，参考[此脚本](./scripts/rime-flypy-dict)；
+- 手动将 `flypy_{sys,top,user}.txt` 等 txt 的内容整理成 `flypy.*.dict.yaml` 文件，放置在 `flypy` 文件夹下；
+- 在 `flypy.dict.yaml` 中导入的词库。
+
 #### 从提取的词典文件编译后安装
 
 ##### Debian / Ubuntu
@@ -70,7 +84,7 @@ rime_deployer --build $(pwd) /usr/share/rime-data
 
 ### 补充简码方案选择 & 模式切换
 
-在 `flypy.dict.yaml` 中定义了导入的词库，可以复制到用户目录下根据需要修改。
+复制 `flypy.dict.yaml` 到用户目录下根据需要修改。
 
 - 例：二重简码方案
 
