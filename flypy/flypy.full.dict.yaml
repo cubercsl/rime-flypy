@@ -1,21 +1,9 @@
-# coding: utf-8
-# 用户词库
-# 与系统词条重码时居后，如想居前，请把词条放到flypy_top.txt文件内
-# 
-# 编码格式：字词+Tab符+编码（用户词库本身有重码则还需后面+Tab符+权重，权重大者居前，权重数字随意）
-#
-#    -------- 强调一下 --------
-# 
-#   词条和编码之间的不是空格，而是Tab符
-#   按住键盘 G 键，切换到功能键盘，使用上面的Tab键
-# 
-#    -------------------------------
-# 
-# 系统次选词放在flypy_sys.txt文件内，可修改删除
-# 简词补全放本文件内，不需要可删除
-# 用户词库，下行开始添加，编码格式见上，部署后生效
-
-# 全码词
+#全码词 居后
+---
+name: flypy.full
+version: "20240724"
+use_preset_vocabulary: false
+...
 刻意	keyi
 即使	jiui
 回忆	hvyi
@@ -72,7 +60,6 @@
 波音	boyb
 憋屈	bpqu
 背部	bwbu
-采风	cdfg
 猜忌	cdji
 伺候	cihz
 餐馆	cjgr
@@ -105,7 +92,6 @@
 对账	dvvh
 儿媳	erxi
 发货	faho
-发力	fali
 发型	faxk
 发炎	fayj
 分割	ffge
@@ -113,7 +99,6 @@
 分界	ffjp
 奋力	ffli
 分神	ffuf
-风力	fgli
 奉献	fgxm
 访客	fhke
 防守	fhuz
@@ -153,7 +138,6 @@
 汉奸	hjjm
 皇权	hlqr
 火势	houi
-火灾	hozd
 换了	hrle
 换手	hruz
 回报	hvbc
@@ -230,7 +214,6 @@
 年级	nmji
 碾碎	nmsv
 农妇	nsfu
-农畜	nsiu
 奴隶	nuli
 内侧	nwce
 内里	nwli
@@ -264,7 +247,6 @@
 司仪	siyi
 散布	sjbu
 三维	sjww
-缩编	sobm
 索贿	sohv
 所幸	soxk
 算出	sriu
@@ -312,7 +294,6 @@
 书摊	uutj
 书信	uuxb
 水利	uvli
-水文	uvwf
 收到	uzdc
 收工	uzgs
 收货	uzho
@@ -352,7 +333,6 @@
 文殊	wfuu
 蚊子	wfzi
 王八	whba
-王后	whhz
 旺季	whji
 往上	whuh
 王者	whve
@@ -503,7 +483,6 @@
 睁只眼闭只眼	vvyy
 无规矩不成方圆	wgjy
 香港中文大学	xgvx
-一个天上一个地下	ygtx
 一亩三分地	ymsd
 一年之计在于春	ynvi
 远亲不如近邻	yqbl

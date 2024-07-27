@@ -1,0 +1,6 @@
+# 用户置顶词库
+---
+name: flypy.user.top
+version: "20240724"
+use_preset_vocabulary: false
+...

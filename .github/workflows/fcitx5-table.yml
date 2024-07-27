@@ -19,7 +19,7 @@ jobs:
           sudo apt-get install -y make python3 libime-bin
       - name: Build
         run: |
-          tar -zcvf rime-flypy.tar.gz flypy*.yaml lua/*.lua flypy_{sys,top,user}.txt flypy_full/flypy_full.txt
+          make && make dist
           make -C fcitx5
           tar -C fcitx5 -zcvf fcitx5-table-flypy.tar.gz flypy.{conf,dict,txt}
           cd fcitx5 && zip ../fcitx5-table-flypy.zip flypy.{conf,dict,txt}

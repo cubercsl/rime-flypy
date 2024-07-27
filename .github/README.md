@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/aur/version/rime-flypy)
 
-小鹤音形官方提供的 MacOS 版本的挂接文件的搬运，加上一些补丁，可以直接在 Linux 系统上挂接使用。
+小鹤音形官方提供的 MacOS 版本的挂接文件的搬运，加上~~一些~~针对 Linux 系统的补丁，使其更符合 Linux 规范。
 
 [fcitx5 码表](../fcitx5/README.md)
 
@@ -24,11 +24,19 @@ yay -S rime-flypy
 
 以下给出可能的安装方式：
 
-#### 安装官方预编译的 bin 文件
+> [!IMPORTANT]  
+> 本仓库对模式切换的方式进行了改进，故不再使用和上游相同的配置方式， `flypy_{sys,top,user}.txt` 文件已经被移除。转而使用 `flypy.dict.yaml` 文件进行配置。
+> 因此不再支持直接使用上游预编译的 `bin`。
 
-```bash
-make install-bin
-```
+#### 提取词典文件
+
+> [!NOTE]  
+> 本仓库已经提供了提取的词典文件，如果你想要自己提取，可以参考以下步骤。
+
+- 从网盘下载小鹤音形挂接文件；
+- 运行 `rime_table_decompiler` 提取词典文件，参考[此脚本](./scripts/rime-flypy-dict)；
+- 手动将 `flypy_{sys,top,user}.txt` 等 txt 的内容整理成 `flypy.*.dict.yaml` 文件，放置在 `flypy` 文件夹下；
+- 在 `flypy.dict.yaml` 中导入的词库。
 
 #### 从提取的词典文件编译后安装
 
@@ -68,15 +76,33 @@ rime_deployer --add-schema flypy
 rime_deployer --build $(pwd) /usr/share/rime-data
 ```
 
-如果想要为当前用户修改用户词库 `flypy_{sys,top,user}.txt`，只需要复制一份到用户目录下编辑即可。获取更新时不会更新用户资料夹下的文件，更新后请注意检查。
+### 用户词库
 
-### 简字补全
+用户词库位于 `flypy/flypy.user.dict.yaml` 和 `flypy/flypy.user.top.dict.yaml`，默认为空。
 
-相当于 windows 版 oqm，码表位于 `/usr/share/rime-data/flypy_full`，如需使用可以将其链接到用户目录下：
+如果想要为当前用户修改用户词库，只需要复制一份到用户目录下编辑即可。获取更新时不会更新用户资料夹下的文件，更新后请注意检查。
 
-```bash
-ln -s /usr/share/rime-data/flypy_full/flypy_full.txt ~/.local/share/fcitx5/rime/
-```
+### 补充简码方案选择 & 模式切换
+
+复制 `flypy.dict.yaml` 到用户目录下根据需要修改。
+
+- 例：二重简码方案
+
+  ```patch
+  --- a/flypy.dict.yaml
+  +++ b/flypy.dict.yaml
+  @@ -12,8 +12,8 @@
+    - 'flypy/flypy.emoji'                   # 表情
+    - 'flypy/flypy.symbols'                 # 符号
+    - 'flypy/flypy.wechat'                  # 微信表情
+  -  # - 'flypy/flypy.secondary.short.code'  # 二重简码
+  -  - 'flypy/flypy.primary.short.word'      # 一简词
+  +  - 'flypy/flypy.secondary.short.code'    # 二重简码
+  +  # - 'flypy/flypy.primary.short.word'    # 一简词
+    - 'flypy/flypy.whimsicality'            # 随心所欲
+    - 'flypy/flypy.full.char'               # 全码字
+    # - 'flypy/flypy.full'                  # 全码词
+  ```
 
 ## Issue
 
