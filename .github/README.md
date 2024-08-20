@@ -18,6 +18,16 @@
 yay -S rime-flypy
 ```
 
+### 从 [/plum/](https://github.com/rime/plum) 获取
+
+在 /plum/ 文件夹下执行
+
+```bash
+bash rime-install cubercsl/rime-flypy
+```
+> [!NOTE]  
+> 这一安装方式下不会编译反查码表，解决方法见 cubercsl/rime-flypy#8
+
 ### 手动安装
 
 其他 Linux 发行版可以下载仓库中的内容放置在 Rime 的系统资料夹 `/usr/share/rime-data` 或用户资料夹下。不同的发行版和输入法可能不一样。
