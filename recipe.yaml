@@ -1,0 +1,11 @@
+# recipe
+
+recipe:
+  Rx: flypy
+  description: >-
+    小鹤音形 Rime 挂接 For Linux & Android.
+install_files: >-
+    *.schema.yaml
+    *.dict.yaml
+    flypy/*.dict.yaml
+    lua/*.lua
