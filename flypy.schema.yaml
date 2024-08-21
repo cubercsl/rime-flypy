@@ -10,7 +10,7 @@ schema:
   description: |
     小鹤音形输入法
   dependencies:
-    flypydz
+    - flypydz
 
 punctuator:
   import_preset: default
