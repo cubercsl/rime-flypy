@@ -25,8 +25,6 @@ yay -S rime-flypy
 ```bash
 bash rime-install cubercsl/rime-flypy
 ```
-> [!NOTE]  
-> 这一安装方式下不会编译反查码表，解决方法见 cubercsl/rime-flypy#8
 
 ### 手动安装
 
@@ -94,24 +92,31 @@ rime_deployer --build $(pwd) /usr/share/rime-data
 
 ### 补充简码方案选择 & 模式切换
 
-复制 `flypy.dict.yaml` 到用户目录下根据需要修改。
+- 新建文件 `flypy.custom.dict.yaml`，根据 `flypy.dict.yaml` 的内容，根据需求修改 `import_tables` 中导入的码表。
 
-- 例：二重简码方案
+  例如使用二重简码（代替一简词）：
 
-  ```patch
-  --- a/flypy.dict.yaml
-  +++ b/flypy.dict.yaml
-  @@ -12,8 +12,8 @@
-    - 'flypy/flypy.emoji'                   # 表情
-    - 'flypy/flypy.symbols'                 # 符号
-    - 'flypy/flypy.wechat'                  # 微信表情
+  ```diff
+  --- flypy.dict.yaml
+  +++ flypy.custom.dict.yaml
+  @@ -13,8 +13,8 @@
+     - 'flypy/flypy.emoji'                   # 表情
+     - 'flypy/flypy.symbols'                 # 符号
+     - 'flypy/flypy.wechat'                  # 微信表情
   -  # - 'flypy/flypy.secondary.short.code'  # 二重简码
   -  - 'flypy/flypy.primary.short.word'      # 一简词
   +  - 'flypy/flypy.secondary.short.code'    # 二重简码
   +  # - 'flypy/flypy.primary.short.word'    # 一简词
-    - 'flypy/flypy.whimsicality'            # 随心所欲
-    - 'flypy/flypy.full.char'               # 全码字
-    # - 'flypy/flypy.full'                  # 全码词
+     - 'flypy/flypy.whimsicality'            # 随心所欲
+     # - 'flypy/flypy.full.char'             # 全码字
+     # - 'flypy/flypy.full'                  # 全码词
+  ```
+
+- 在 `flypy.custom.yaml` 中导入这份码表：
+
+  ```yaml
+  patch:
+    translator/dictionary: flypy.custom
   ```
 
 ## Issue
