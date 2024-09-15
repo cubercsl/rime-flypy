@@ -1,11 +1,9 @@
 # 符号
 ---
 name: flypy.symbols
-version: "20240724"
+version: "10.9z"
 use_preset_vocabulary: false
 ...
-！	oa
-%	ob
 一	oba	111
 丨	obl	111
 丿	obp	111
@@ -98,15 +96,6 @@ use_preset_vocabulary: false
 ⻊	obz	100
 廴	obz	99
 辶	obz	98
-”	oc
-、	od
-（	oh
-）	oj
-《	ok	90
-》	ol
-〔	on
-〕	om
-#	of
 标点d	ofb
 “”	ofbd	100
 （）	ofbd	99
@@ -139,7 +128,7 @@ use_preset_vocabulary: false
 ‖	ofbd	72
 ∶	ofbd	71
 ＂	ofbd	70
-	ofbd	69
+ofbd	69
 ｀	ofbd	68
 ｜	ofbd	67
 点数u	ofd	100
@@ -802,9 +791,6 @@ $	ofhb	99
 ₎	ofxb	86
 ₙ	ofxb	85
 ₓ	ofxb	84
-～	op
-‰	oq
-……	os
 ＆	ota	100
 α	ota	99
 β	otb	99
@@ -907,7 +893,6 @@ m̀	ohm	99
 ń	ohn	100
 ň	ohn	99
 ǹ	ohn	98
-？	ow
 凹	oxa
 百	oxb	100
 白	oxb	99
@@ -1148,6 +1133,7 @@ m̀	ohm	99
 ②	oye	90
 ③	oys	90
 ④	oyf	90
+④	oysi	90
 ⑤	oyw	90
 ⑥	oyl	90
 ⑦	oyq	90
@@ -1158,10 +1144,55 @@ m̀	ohm	99
 Ⅱ	oye	30
 Ⅲ	oys	30
 Ⅳ	oyf	30
+Ⅳ	oysi	30
 Ⅴ	oyw	30
 Ⅵ	oyl	30
 Ⅶ	oyq	30
 Ⅷ	oyb	30
 Ⅸ	oyj	30
 Ⅹ	oyu	30
-“	oz
+ā	opa	90
+á	opa	80
+ǎ	opa	70
+à	opa	60
+ō	opo	90
+ó	opo	80
+ǒ	opo	70
+ò	opo	60
+ē	ope	90
+é	ope	80
+ě	ope	70
+è	ope	60
+ê	ope	50
+ī	opi	90
+í	opi	80
+ǐ	opi	70
+ì	opi	60
+ū	opu	90
+ú	opu	80
+ǔ	opu	70
+ù	opu	60
+ü	opv	90
+ǖ	opv	80
+ǘ	opv	70
+ǚ	opv	60
+ǜ	opv	50
+ḿ	opm	90
+m̀	opm	80
+ń	opn	90
+ň	opn	80
+ǹ	opn	70
+‰	oq
+_	ow
+~	op
+&	oa
+$	os
+=	od
+^	of
+*	oh
+#	oj
+<	ok	90
+>	ol
++	oz
+-	oc
+%	ob

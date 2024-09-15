@@ -2,7 +2,7 @@
 
 ---
 name: flypydz
-version: "20240724"
+version: "10.9z"
 ...
 
 阿	aaek
@@ -28,6 +28,7 @@ version: "20240724"
 唉	aiku
 哎	aikx
 嗳	aiky
+娭	ainu
 嫒	ainy
 暧	aioy
 爱	aipy
@@ -44,6 +45,8 @@ version: "20240724"
 𩽾	anan
 案	anbm
 安	anbn
+荌	anc
+菴	ancd
 荌	ancn
 鹌	andn
 岸	aneg
@@ -125,6 +128,7 @@ version: "20240724"
 罢	bass
 坝	batr
 㞎	baub
+犮	baud
 笆	bavb
 巴	bavv
 羓	bayb
@@ -166,6 +170,7 @@ version: "20240724"
 曝	bcou
 暴	bcou
 褓	bcpm
+勹	bcpv
 煲	bcrh
 保	bcrm
 堡	bcrt
@@ -193,6 +198,7 @@ version: "20240724"
 苯	bfcb
 奔	bfdc
 夯	bfdl
+夲	bfdu
 锛	bfjc
 栟	bfmk
 犇	bfnn
@@ -203,6 +209,7 @@ version: "20240724"
 笨	bfvb
 甭	bgby
 崩	bgeo
+揼	bgf
 揼	bgfu
 蚌	bgif
 镚	bgjo
@@ -219,6 +226,7 @@ version: "20240724"
 邦	bhfe
 搒	bhff
 帮	bhfj
+髈	bhgf
 蚌	bhif
 镑	bhjf
 𠳐	bhke
@@ -282,6 +290,7 @@ version: "20240724"
 闭	bimc
 妣	binb
 婢	binu
+肶	biob
 币	bipj
 裨	bipu
 匕	bipv
@@ -380,6 +389,7 @@ version: "20240724"
 辩	bmlu
 昪	bmoc
 褊	bmpc
+釆	bmpm
 便	bmrg
 𨚕	bms'
 弁	bmsc
@@ -393,6 +403,7 @@ version: "20240724"
 忭	bmxb
 遍	bmzc
 边	bmzl
+髟	bnap
 鳔	bnax
 瘭	bnbx
 藨	bnch
@@ -400,6 +411,7 @@ version: "20240724"
 瀌	bndh
 摽	bnfx
 表	bnfy
+麃	bngh
 彪	bnhp
 熛	bnhx
 幖	bnj'
@@ -522,6 +534,7 @@ version: "20240724"
 棓	bwmk
 椑	bwmu
 糒	bwmy
+貝	bwob
 褙	bwp'
 鹎	bwp'
 鹎	bwpn
@@ -551,6 +564,7 @@ version: "20240724"
 嘈	ccko
 槽	ccmo
 糙	ccmz
+肏	ccr
 肏	ccrr
 𥕢	ccuo
 艚	ccvo
@@ -558,6 +572,7 @@ version: "20240724"
 菜	cdcm
 蔡	cdcx
 财	cdkc
+啋	cdkm
 材	cdmc
 睬	cdom
 采	cdpm
@@ -660,11 +675,13 @@ version: "20240724"
 匆	csbd
 苁	cscr
 葱	cscx
+潀	csdr
 淙	csdx
 聪	csex
 熜	cshx
 枞	csmr
 骢	csmx
+囪	cspd
 囱	cspw
 丛	csra
 从	csrr
@@ -704,7 +721,9 @@ version: "20240724"
 悴	cvxu
 翠	cvxu
 寸	cyad
+吋	cykc
 村	cymc
+膥	cymr
 皴	cysy
 邨	cyte
 存	cyuz
@@ -779,6 +798,7 @@ version: "20240724"
 戴	ddub
 大	ddun
 玳	ddwy
+甙	ddy
 甙	ddyg
 迨	ddzk
 逮	ddzn
@@ -787,6 +807,7 @@ version: "20240724"
 德	deix
 锝	dejc
 嘚	dekc
+㝵	deoc
 地	dety
 扽	dfft
 澄	dgda
@@ -869,6 +890,7 @@ version: "20240724"
 玓	diw'
 𤧛	diwj
 帝	diwj
+啇	diwk
 玓	diwu
 翟	dixf
 羝	diy'
@@ -898,6 +920,7 @@ version: "20240724"
 丼	djjd
 赕	djkh
 啖	djkh
+妉	djn
 妉	djnv
 旦	djoa
 胆	djoa
@@ -922,6 +945,7 @@ version: "20240724"
 萣	dkcr
 顶	dkdr
 耵	dked
+掟	dkf
 掟	dkfr
 钉	dkjd
 锭	dkjr
@@ -977,7 +1001,7 @@ version: "20240724"
 雕	dnkf
 吊	dnkj
 鸟	dnpa
-屌	dnuj
+屌	dnu
 碉	dnuk
 刁	dnva
 貂	dnvk
@@ -1046,6 +1070,7 @@ version: "20240724"
 簖	drvj
 瑖	drwy
 东	dsad
+東	dsan
 董	dscv
 冻	dsdd
 洞	dsdk
@@ -1113,6 +1138,7 @@ version: "20240724"
 沌	dydt
 炖	dyht
 钝	dyjt
+镦	dyjw
 囤	dykt
 吨	dykt
 楯	dymo
@@ -1140,6 +1166,7 @@ version: "20240724"
 钭	dzju
 唞	dzku
 都	dzle
+鬥	dzll
 兜	dzpe
 篼	dzve
 读	dzyd
@@ -1203,6 +1230,7 @@ version: "20240724"
 鸸	eren
 耏	erep
 铒	erje
+兒	erje
 咡	erke
 儿	erpv
 佴	erre
@@ -1265,6 +1293,7 @@ version: "20240724"
 烽	fghf
 蜂	fgif
 锋	fgjf
+風	fgji
 凬	fgjo
 凨	fgjs
 风	fgjx
@@ -1336,7 +1365,9 @@ version: "20240724"
 鲋	fuac
 甫	fuad
 副	fuad
+巿	fual
 夫	fuan
+畐	fuat
 釜	fuba
 宓	fubb
 斧	fubj
@@ -1595,6 +1626,7 @@ version: "20240724"
 缸	ghfg
 钢	ghjx
 刚	ghkd
+岡	ghke
 冈	ghkx
 戆	ghlx
 杠	ghmg
@@ -1659,6 +1691,7 @@ version: "20240724"
 光	glxw
 逛	glzw
 馘	goba
+菓	goc
 菓	gocg
 涡	godn
 𬇹	gody
@@ -1669,8 +1702,10 @@ version: "20240724"
 蝈	goiy
 锅	gojn
 帼	gojy
+嗰	gokk
 呙	gokn
 国	goky
+咼	golk
 果	goln
 粿	gomg
 椁	gomz
@@ -1842,6 +1877,7 @@ version: "20240724"
 刮	gxqd
 鸹	gxqn
 卦	gxtb
+颪	gxxi
 诖	gxyt
 鲧	gyax
 滚	gydy
@@ -1863,6 +1899,7 @@ version: "20240724"
 岣	gzek
 鞲	gzgr
 钩	gzjs
+冓	gzjz
 购	gzks
 耇	gzlk
 枸	gzmk
@@ -2069,6 +2106,7 @@ version: "20240724"
 喤	hlkw
 媓	hlnw
 晃	hlow
+磺	hlu
 磺	hlub
 艎	hlv'
 簧	hlvb
@@ -2083,10 +2121,12 @@ version: "20240724"
 恍	hlxw
 谎	hlyv
 遑	hlzw
+噷	hmkr
 豁	hobk
 劐	hocd
 藿	hocf
 获	hocq
+蒦	hocy
 漷	hod'
 漷	hode
 活	hodk
@@ -2194,6 +2234,7 @@ version: "20240724"
 淴	hudx
 岵	huek
 护	hufh
+㧾	hufx
 弧	hugg
 鹘	hugn
 烀	huh'
@@ -2260,6 +2301,7 @@ version: "20240724"
 徽	hviw
 蟪	hvix
 毁	hvjy
+囬	hvka
 咴	hvkh
 回	hvkk
 贿	hvko
@@ -2276,9 +2318,9 @@ version: "20240724"
 卉	hvuc
 灰	hvuh
 硊	hvuv
+豗	hvw
 虺	hvwi
 珲	hvwi
-豗	hvwu
 翚	hvx'
 恢	hvxh
 辉	hvxi
@@ -2397,10 +2439,12 @@ version: "20240724"
 虿	idwi
 差	idyg
 车	ieal
+車	ieal
 澈	iedw
 扯	iefv
 撤	iefw
 彻	ieid
+唓	iek
 唓	ieki
 㬚	ieow
 掣	iepu
@@ -2408,6 +2452,7 @@ version: "20240724"
 砗	ieui
 疢	ifbh
 宸	ifbn
+莀	ifc
 莀	ifcn
 沉	ifdj
 陈	ifed
@@ -2450,6 +2495,7 @@ version: "20240724"
 铖	igji
 呈	igkw
 丞	igla
+氶	igln
 樘	igm'
 橙	igma
 枨	igmi
@@ -2481,6 +2527,7 @@ version: "20240724"
 苌	ihci
 菖	ihco
 徜	ihik
+䗉	ihio
 𬬮	ihj'
 𬬮	ihji
 唱	ihko
@@ -2521,10 +2568,12 @@ version: "20240724"
 魑	iigd
 弛	iigy
 炽	iihb
+黐	iihd
 螭	iiid
 叱	iikb
 哧	iikd
 嗤	iiki
+呎	iiki
 吃	iikq
 驰	iimy
 媸	iini
@@ -2644,6 +2693,7 @@ version: "20240724"
 种	ishv
 铳	isje
 重	ispa
+䖝	ispi
 艟	isv'
 虫	isvd
 艟	isvl
@@ -2653,6 +2703,7 @@ version: "20240724"
 翀	isxv
 忡	isxv
 亍	iuad
+豖	iuan
 刍	iude
 雏	iudf
 滁	iudh
@@ -2720,6 +2771,7 @@ version: "20240724"
 瑃	iywo
 醇	iyyz
 瘳	izbp
+搊	izfp
 抽	izfy
 稠	izhk
 愁	izhx
@@ -2795,6 +2847,7 @@ version: "20240724"
 击	jiak
 鲚	jial
 棘	jian
+旡	jiav
 𬶭	jiax
 寄	jibk
 瘠	jibo
@@ -2946,6 +2999,8 @@ version: "20240724"
 泾	jkdg
 汫	jkdj
 净	jkdl
+瀞	jkdl
+澋	jkdx
 阱	jkej
 靓	jkfe
 静	jkfl
@@ -2987,6 +3042,7 @@ version: "20240724"
 惊	jkxx
 憬	jkxx
 迳	jkzg
+畺	jlaa
 鳉	jlac
 豇	jlag
 蒋	jlcc
@@ -3060,6 +3116,7 @@ version: "20240724"
 奸	jmng
 犍	jmnz
 睑	jmoa
+見	jmoe
 暕	jmoj
 腱	jmoz
 裥	jmpo
@@ -3071,6 +3128,7 @@ version: "20240724"
 健	jmrz
 缄	jmsk
 缣	jmsn
+硷	jmua
 饯	jmuj
 碱	jmuk
 笕	jmv'
@@ -3126,6 +3184,7 @@ version: "20240724"
 嚼	jnkc
 噍	jnkh
 叫	jnkl
+嘦	jnkn
 教	jnlw
 骄	jnml
 校	jnmx
@@ -3160,6 +3219,7 @@ version: "20240724"
 酵	jnyz
 跤	jnzx
 鲒	jpak
+疌	jpar
 岊	jpb'
 皆	jpbb
 疖	jpbe
@@ -3192,6 +3252,7 @@ version: "20240724"
 杰	jpmh
 桔	jpmk
 檞	jpmn
+毑	jpmy
 姐	jpnq
 婕	jpnr
 睫	jpor
@@ -3251,6 +3312,7 @@ version: "20240724"
 捐	jrfo
 焆	jrho
 锩	jrj'
+劵	jrjl
 桊	jrjm
 镌	jrjn
 眷	jrjo
@@ -3262,8 +3324,8 @@ version: "20240724"
 狷	jrqo
 隽	jrrn
 倦	jrrv
+罥	jrs
 绢	jrso
-罥	jrso
 鄄	jrxe
 颎	jsb'
 窘	jsbk
@@ -3271,6 +3333,7 @@ version: "20240724"
 泂	jsdk
 扃	jshk
 炯	jshk
+囧	jsk
 冏	jskk
 囧	jskv
 𬳶	jsmk
@@ -3303,6 +3366,7 @@ version: "20240724"
 𫘝	jtmg
 橛	jtmr
 桷	jtmy
+妜	jtn
 妜	jtng
 矍	jtoy
 爵	jtpc
@@ -3404,6 +3468,7 @@ version: "20240724"
 泇	jxd'
 浃	jxdj
 泇	jxdk
+夾	jxdr
 岬	jxej
 恝	jxfx
 稼	jxhu
@@ -3553,6 +3618,7 @@ version: "20240724"
 𡐓	khtn
 亢	khwj
 慷	khxn
+冚	kjb
 冚	kjbe
 莰	kjcr
 崁	kjer
@@ -3575,6 +3641,7 @@ version: "20240724"
 鲙	kkas
 蒯	kkcd
 浍	kkds
+㨤	kkff
 㧟	kkfk
 哙	kkks
 脍	kkos
@@ -3636,6 +3703,7 @@ version: "20240724"
 矻	kuuq
 喾	kuxk
 酷	kuyk
+跍	kuzk
 窥	kvbe
 夔	kvbw
 蒉	kvcr
@@ -3680,6 +3748,8 @@ version: "20240724"
 跨	kxzk
 鲲	kyab
 髡	kyaw
+崑	kye
+崑	kyeb
 捆	kyfm
 堃	kyft
 焜	kyhb
@@ -3770,8 +3840,10 @@ version: "20240724"
 崂	lcel
 捞	lcfl
 烙	lchk
+蛯	lcib
 铑	lcjb
 铹	lcjl
+咾	lckb
 唠	lckl
 老	lclb
 耢	lcll
@@ -3795,6 +3867,7 @@ version: "20240724"
 铼	ldjl
 赉	ldlr
 梾	ldml
+來	ldmr
 睐	ldol
 俫	ldrl
 赖	ldur
@@ -3811,11 +3884,13 @@ version: "20240724"
 砳	leuu
 了	levl
 簕	levl
+玏	lew
 玏	lewl
 冷	lgds
 崚	lgew
 楞	lgmf
 棱	lgmw
+睖	lgow
 塄	lgtf
 堎	lgtw
 愣	lgxf
@@ -3972,6 +4047,7 @@ version: "20240724"
 斓	ljwj
 懒	ljxr
 谰	ljyj
+躝	ljz
 躝	ljzj
 鲮	lkaw
 苓	lkcs
@@ -4003,6 +4079,7 @@ version: "20240724"
 翎	lkrx
 绫	lksw
 坽	lkts
+夌	lktw
 舲	lkvs
 龄	lkvs
 〇	lkvv
@@ -4012,6 +4089,7 @@ version: "20240724"
 零	lkys
 羚	lkys
 两	llad
+兩	llar
 𬜯	llcl
 莨	llcl
 良	lldg
@@ -4073,6 +4151,7 @@ version: "20240724"
 鹩	lndn
 漻	lndp
 潦	lndx
+尞	lndx
 聊	lnee
 撂	lnfk
 撩	lnfx
@@ -4082,6 +4161,7 @@ version: "20240724"
 钌	lnjl
 镣	lnjx
 嘹	lnkx
+敹	lnl
 敹	lnlw
 料	lnmu
 橑	lnmx
@@ -4174,6 +4254,7 @@ version: "20240724"
 六	lqwb
 刘	lqwd
 珋	lqwe
+瑠	lqwt
 琉	lqwv
 鹨	lqxn
 遛	lqzt
@@ -4198,6 +4279,7 @@ version: "20240724"
 拢	lsfl
 哢	lskc
 咙	lskl
+龍	lsla
 聋	lsle
 垄	lslt
 砻	lslu
@@ -4244,6 +4326,7 @@ version: "20240724"
 𬬻	luju
 赂	lukk
 噜	luko
+鹵	luld
 鸬	luln
 颅	lulr
 卢	lulu
@@ -4255,10 +4338,12 @@ version: "20240724"
 栌	lumu
 𫘧	lumu
 胪	luou
+睩	luou
 禄	lupu
 甪	lupy
 僇	lurp
 绿	lusu
+坴	lutt
 垆	lutu
 碌	luuu
 簏	luv'
@@ -4318,6 +4403,7 @@ version: "20240724"
 垒	lwst
 缧	lwsx
 罍	lwtf
+畾	lwtt
 累	lwtx
 礌	lwut
 磊	lwuu
@@ -4357,6 +4443,7 @@ version: "20240724"
 𪣻	lztn
 篓	lzvn
 露	lzyk
+馬	maah
 抹	mafm
 麻	magm
 摩	magu
@@ -4367,6 +4454,7 @@ version: "20240724"
 嘛	makm
 杩	mamm
 妈	manm
+嫲	manm
 祃	mapm
 么	maps
 犸	maqm
@@ -4380,6 +4468,7 @@ version: "20240724"
 岷	mbem
 抿	mbfm
 黾	mbkd
+黽	mbke
 皿	mbla
 闽	mbmi
 闵	mbmw
@@ -4425,6 +4514,7 @@ version: "20240724"
 蝥	mcsi
 瞀	mcso
 矛	mcsp
+冇	mcu
 冇	mcuk
 貌	mcve
 瑁	mcwo
@@ -4434,8 +4524,11 @@ version: "20240724"
 鿏	mdjw
 唛	mdkw
 脉	mdoy
+買	mdsb
 埋	mdtl
+賣	mdub
 卖	mdud
+麥	mdux
 买	mdvd
 劢	mdwl
 霾	mdyl
@@ -4446,6 +4539,7 @@ version: "20240724"
 扪	mffm
 焖	mfhx
 钔	mfjm
+門	mfla
 闷	mfmx
 们	mfrm
 𫞩	mfwl
@@ -4457,6 +4551,8 @@ version: "20240724"
 萌	mgco
 蒙	mgcu
 甍	mgcw
+濛	mgdn
+濛	mgdu
 㠓	mgen
 㠓	mgeu
 擝	mgfm
@@ -4498,6 +4594,7 @@ version: "20240724"
 尨	mhud
 硭	mhuw
 邙	mhwe
+吂	mhwk
 氓	mhwm
 盲	mhwo
 忙	mhxw
@@ -4507,6 +4604,7 @@ version: "20240724"
 幂	mibj
 蘼	micf
 泌	midb
+渳	mide
 洣	midm
 米	midm
 汨	mido
@@ -4545,6 +4643,7 @@ version: "20240724"
 螨	mjil
 镘	mjjy
 幔	mjjy
+㒼	mjnr
 嫚	mjny
 瞒	mjol
 曼	mjoy
@@ -4570,6 +4669,7 @@ version: "20240724"
 名	mkxk
 酩	mkyk
 面	mmaa
+靣	mmak
 𩾃	mmav
 丏	mmav
 渑	mmdd
@@ -4578,6 +4678,7 @@ version: "20240724"
 沔	mmdm
 免	mmdv
 黾	mmkd
+黽	mmke
 冕	mmkv
 棉	mmmj
 勔	mmml
@@ -4649,6 +4750,7 @@ version: "20240724"
 貊	movb
 貘	movd
 貉	movk
+尛	mox
 尛	moxx
 谟	moyd
 灭	mpah
@@ -4731,6 +4833,7 @@ version: "20240724"
 牟	mzsn
 缪	mzsp
 谋	mzym
+踎	mzzk
 𦰡	nace
 捺	nafx
 钠	najn
@@ -4756,11 +4859,13 @@ version: "20240724"
 铙	ncjw
 呶	ncky
 闹	ncmj
+嫐	ncn
 嫐	ncnn
 臑	ncoe
 脑	ncok
 峱	ncqe
 猱	ncqm
+㑎	ncre
 垴	nctk
 硇	ncux
 瑙	ncwx
@@ -4806,6 +4911,7 @@ version: "20240724"
 呢	nikb
 匿	nikk
 妮	ninb
+婗	nine
 妳	ninx
 昵	niob
 睨	nioe
@@ -4859,6 +4965,7 @@ version: "20240724"
 捻	nmfx
 黏	nmhk
 辗	nmin
+唸	nmk
 唸	nmkx
 粘	nmmk
 年	nmpl
@@ -4870,7 +4977,9 @@ version: "20240724"
 溺	nndd
 脲	nnou
 鸟	nnpa
+鳥	nnph
 袅	nnpy
+嬲	nnt
 嬲	nntl
 尿	nnuu
 鸟	nnwd
@@ -4971,6 +5080,8 @@ version: "20240724"
 葩	pacb
 潖	padb
 扒	pafb
+𤆵	pah
+𤆵	pahb
 帕	pajb
 啪	pakb
 耙	palb
@@ -4985,9 +5096,10 @@ version: "20240724"
 贫	pbbr
 𬞟	pbcr
 聘	pbev
+拚	pbfc
 拼	pbfk
 品	pbkk
-榀	pbmk
+榀	pbm
 牝	pbnb
 嫔	pbnb
 姘	pbnk
@@ -4999,6 +5111,7 @@ version: "20240724"
 泡	pcds
 匏	pcds
 抛	pcfl
+麃	pcgh
 庖	pcgs
 炮	pchs
 咆	pcks
@@ -5040,13 +5153,13 @@ version: "20240724"
 硼	pguo
 砰	pgup
 彭	pgup
-砯	pguu
 碰	pguy
 篷	pgvz
 烹	pgwh
 怦	pgxp
 鳑	phaf
 滂	phdf
+髈	phgf
 庞	phgl
 彷	phif
 螃	phif
@@ -5122,6 +5235,8 @@ version: "20240724"
 叛	pjby
 泮	pjdb
 潘	pjdt
+拚	pjf
+拚	pjfc
 蟠	pjit
 攀	pjmu
 胖	pjob
@@ -5151,6 +5266,7 @@ version: "20240724"
 蚲	pkip
 帡	pkj'
 帡	pkjk
+呯	pkk
 呯	pkkp
 枰	pkmp
 娉	pknv
@@ -5214,6 +5330,7 @@ version: "20240724"
 迫	pozb
 苤	ppcp
 瞥	ppdo
+潎	ppdw
 撇	ppfw
 𬭯	ppjw
 氕	ppqp
@@ -5261,11 +5378,13 @@ version: "20240724"
 呸	pwka
 赔	pwkk
 呸	pwkp
+毰	pwmk
 胚	pwoa
 胚	pwop
 佩	pwrj
 辔	pwsk
 培	pwtk
+珮	pww
 珮	pwwj
 衃	pwxb
 配	pwyj
@@ -5274,6 +5393,7 @@ version: "20240724"
 抔	pzfb
 掊	pzfk
 剖	pzld
+咅	pzlk
 裒	pzwy
 寝	qbby
 芹	qbcj
@@ -5285,6 +5405,7 @@ version: "20240724"
 秦	qbfh
 揿	qbfr
 廑	qbga
+螓	qbi
 螓	qbih
 钦	qbjr
 锓	qbjy
@@ -5307,6 +5428,7 @@ version: "20240724"
 戚	qiad
 郪	qiae
 炁	qiah
+丌	qial
 妻	qian
 鳍	qiao
 七	qiav
@@ -5332,6 +5454,7 @@ version: "20240724"
 汔	qidq
 欹	qidr
 漆	qidu
+豈	qiea
 屺	qiej
 岂	qiej
 崎	qiek
@@ -5364,6 +5487,7 @@ version: "20240724"
 骑	qimk
 栖	qimx
 槭	qimx
+娸	qinb
 婍	qink
 脐	qiol
 祺	qipb
@@ -5393,6 +5517,7 @@ version: "20240724"
 碛	qiur
 磜	qiux
 歧	qivy
+齊	qiwa
 琪	qiwb
 弃	qiwc
 玘	qiwj
@@ -5503,6 +5628,7 @@ version: "20240724"
 伣	qmre
 倩	qmro
 仟	qmrq
+僉	qmrr
 𬘬	qmso
 纤	qmsq
 缱	qmsz
@@ -5586,12 +5712,14 @@ version: "20240724"
 囚	qqkr
 楸	qqmh
 糗	qqmq
+毬	qqmq
 丘	qqpa
 邱	qqqe
 犰	qqqj
 裘	qqqy
 仇	qqrj
 俅	qqrq
+㞗	qqu
 㞗	qquq
 巯	qqvv
 璆	qqwp
@@ -5688,6 +5816,7 @@ version: "20240724"
 胠	quos
 袪	qups
 祛	qups
+佢	qur
 佢	qurj
 趋	qute
 坥	qutq
@@ -5711,6 +5840,7 @@ version: "20240724"
 麇	qygh
 囷	qykh
 裙	qypk
+夋	qysw
 群	qyyy
 逡	qyzw
 荛	rccw
@@ -5725,6 +5855,7 @@ version: "20240724"
 喏	rekk
 荏	rfcr
 刃	rfdd
+忈	rfex
 稔	rfhx
 轫	rfir
 妊	rfnr
@@ -5744,6 +5875,7 @@ version: "20240724"
 讱	rfyr
 认	rfyr
 扔	rgfn
+礽	rgpn
 仍	rgrn
 蘘	rhcy
 瀼	rhdy
@@ -5755,6 +5887,7 @@ version: "20240724"
 壤	rhty
 瓤	rhwg
 让	rhyu
+䒤	rico
 日	rika
 驲	rimo
 髯	rjar
@@ -5770,11 +5903,13 @@ version: "20240724"
 鄀	roce
 爇	roch
 若	rock
+挼	rof
 挼	rofn
 弱	rogd
 婼	ronk
 偌	rork
 箬	rovk
+叒	roy
 叒	royy
 阮	rree
 软	rrir
@@ -5829,6 +5964,8 @@ version: "20240724"
 睿	rvlo
 枘	rvmn
 瑞	rvwe
+惢	rvxx
+挼	rxf
 挼	rxfn
 润	rydw
 闰	rymw
@@ -5866,6 +6003,7 @@ version: "20240724"
 嘥	sdkr
 噻	sdkt
 嗮	sdkx
+毸	sdmx
 腮	sdox
 思	sdtx
 塞	sebt
@@ -5876,7 +6014,9 @@ version: "20240724"
 啬	seuk
 璱	sewb
 瑟	sewb
+椮	sfm
 森	sfmm
+椮	sfmp
 僧	sgro
 搡	shfm
 嗓	shkm
@@ -5930,6 +6070,7 @@ version: "20240724"
 鸶	sivn
 巳	sivv
 漦	siwu
+糸	siyx
 三	sjae
 散	sjcw
 糁	sjmp
@@ -5974,6 +6115,7 @@ version: "20240724"
 娀	ssnu
 耸	ssre
 怂	ssrx
+𪨊	ssu
 𪨊	ssur
 忪	ssxs
 悚	ssxu
@@ -6002,7 +6144,7 @@ version: "20240724"
 𫗧	suuu
 肃	suvd
 簌	suvr
-玊	suwd
+玊	suw
 粟	suxm
 愫	suxx
 酥	suyh
@@ -6033,6 +6175,7 @@ version: "20240724"
 尿	svu'
 尿	svuu
 碎	svuu
+歲	svvu
 璲	svwz
 谇	svyu
 邃	svzu
@@ -6084,6 +6227,7 @@ version: "20240724"
 塌	tatx
 沓	tauo
 鿎	tauz
+遝	tazd
 趿	tazj
 踏	tazo
 蹋	tazx
@@ -6307,6 +6451,7 @@ version: "20240724"
 鲦	tnam
 窕	tnbd
 苕	tnck
+斢	tncu
 挑	tnfd
 蜩	tnik
 粜	tnim
@@ -6341,6 +6486,7 @@ version: "20240724"
 鸵	tonb
 脱	tooe
 妥	topn
+乇	topq
 佗	torb
 侂	torq
 坨	totb
@@ -6407,6 +6553,7 @@ version: "20240724"
 徒	tuir
 钍	tujt
 图	tukd
+圖	tukk
 吐	tukt
 凸	tula
 梌	tumh
@@ -6437,6 +6584,8 @@ version: "20240724"
 豚	tyou
 暾	tyow
 褪	typz
+氽	tyr
+氽	tyru
 吞	tytk
 坉	tytt
 臀	tyuo
@@ -6710,6 +6859,7 @@ version: "20240724"
 掞	ujfh
 掸	ujfl
 掺	ujfp
+搧	ujfx
 剡	ujhd
 煽	ujhx
 扇	ujhx
@@ -6929,7 +7079,7 @@ version: "20240724"
 祭	vdpx
 侧	vdrd
 债	vdrr
-砦	vdvu
+砦	vdv
 斋	vdwe
 翟	vdxf
 蔗	vech
@@ -6959,6 +7109,7 @@ version: "20240724"
 这	vezw
 鬒	vfab
 臻	vfah
+眞	vfbb
 疹	vfbp
 蓁	vfch
 葴	vfck
@@ -7016,6 +7167,7 @@ version: "20240724"
 铮	vgjl
 钲	vgjv
 烝	vglh
+氶	vgln
 睁	vgol
 狰	vgql
 整	vguv
@@ -7136,6 +7288,7 @@ version: "20240724"
 氏	vipv
 值	virq
 侄	virt
+隻	viry
 织	visb
 置	visq
 纸	visu
@@ -7201,6 +7354,7 @@ version: "20240724"
 戆	vllx
 桩	vlmt
 奘	vlpd
+壯	vlpu
 僮	vlrl
 奘	vlvd
 茁	voci
@@ -7261,6 +7415,7 @@ version: "20240724"
 众	vsrr
 仲	vsrv
 终	vssd
+眾	vssr
 舯	vsv'
 盅	vsvm
 舯	vsvv
@@ -7360,6 +7515,7 @@ version: "20240724"
 洲	vzdv
 皱	vzdy
 帚	vzej
+㨄	vzf
 㨄	vzfk
 粥	vzgg
 昼	vzia
@@ -7389,6 +7545,8 @@ version: "20240724"
 瓦	waad
 窊	wabg
 洼	wadt
+搲	waf
+搲	wafg
 挖	wafv
 蛙	wait
 哇	wakt
@@ -7410,17 +7568,20 @@ version: "20240724"
 芠	wfcw
 温	wfdm
 汶	wfdw
+揾	wff
 揾	wffm
 炆	wfhw
 稳	wfhx
 辒	wfim
 蚊	wfiw
+𥁕	wfkm
 吻	wfkw
 闻	wfme
 问	wfmk
 榅	wfmm
 𫘜	wfmw
 阌	wfmy
+昷	wfom
 璺	wfpy
 纹	wfsw
 刎	wfwd
@@ -7485,6 +7646,7 @@ version: "20240724"
 弯	wjwg
 琬	wjwv
 惋	wjxv
+夗	wjxv
 窝	wobn
 莴	wocn
 涡	wodn
@@ -7670,7 +7832,6 @@ version: "20240724"
 琟	www'
 亹	www'
 琟	wwwf
-威	wwwn
 亹	wwwq
 玮	wwww
 惟	wwxf
@@ -7695,6 +7856,7 @@ version: "20240724"
 新	xblj
 歆	xblr
 辛	xblu
+枔	xbm
 枔	xbmv
 杺	xbmx
 妡	xbnj
@@ -7963,7 +8125,6 @@ version: "20240724"
 筅	xmve
 舷	xmvy
 现	xmwe
-咸	xmwk
 玹	xmwy
 咸	xmxk
 忺	xmxr
@@ -8271,6 +8432,7 @@ version: "20240724"
 𬩽	xyee
 峋	xyeo
 𬊈	xyhc
+蟳	xyic
 徇	xyio
 循	xyio
 噀	xykb
@@ -8295,6 +8457,7 @@ version: "20240724"
 迅	xyzu
 巡	xyzv
 逊	xyzx
+亞	yaaa
 牙	yaap
 亚	yaay
 丫	yabl
@@ -8408,6 +8571,7 @@ version: "20240724"
 曜	ycof
 腰	ycon
 夭	ycpd
+䍃	ycpf
 舀	ycpj
 鹞	ycpn
 么	ycps
@@ -8418,6 +8582,7 @@ version: "20240724"
 㙘	yct'
 㙘	yctn
 垚	yctt
+堯	yctw
 幺	ycvs
 珧	ycwd
 瑶	ycwf
@@ -8428,6 +8593,7 @@ version: "20240724"
 谣	ycyf
 遥	yczf
 邀	yczw
+頁	yeab
 页	year
 爷	yebe
 冶	yedk
@@ -8452,6 +8618,7 @@ version: "20240724"
 晔	yeou
 倻	yere
 馌	yeum
+枼	yeum
 也	yevv
 夜	yewn
 邪	yey'
@@ -8481,6 +8648,7 @@ version: "20240724"
 杨	yhmp
 样	yhmy
 旸	yhop
+昜	yhow
 氧	yhqy
 仰	yhre
 佯	yhry
@@ -8561,6 +8729,7 @@ version: "20240724"
 邑	yikb
 贻	yikk
 嗌	yikm
+嫛	yikn
 颐	yikr
 医	yiku
 呓	yikv
@@ -8610,6 +8779,7 @@ version: "20240724"
 𫄷	yisx
 圯	yits
 埸	yitw
+畩	yity
 勚	yiu'
 壹	yiua
 饴	yiuk
@@ -8649,6 +8819,7 @@ version: "20240724"
 酏	yiyy
 议	yiyy
 劓	yiz'
+辷	yiza
 逸	yizd
 劓	yizd
 遗	yizr
@@ -8819,7 +8990,9 @@ version: "20240724"
 原	yrix
 辕	yriy
 円	yrka
+員	yrkb
 园	yrke
+肙	yrko
 圆	yrkr
 员	yrkr
 圜	yrky
@@ -8839,6 +9012,7 @@ version: "20240724"
 瑗	yrwy
 鸳	yrxn
 眢	yrxo
+夗	yrxv
 怨	yrxx
 羱	yry'
 鸢	yryn
@@ -8888,6 +9062,7 @@ version: "20240724"
 阅	ytme
 栎	ytml
 樾	ytmv
+妜	ytn
 妜	ytng
 刖	ytod
 乐	ytpd
@@ -8927,6 +9102,7 @@ version: "20240724"
 鱼	yuda
 渝	yudd
 淤	yudd
+魚	yudh
 潏	yudk
 浴	yudk
 淯	yudo
@@ -8957,6 +9133,7 @@ version: "20240724"
 舁	yujc
 钰	yujy
 喻	yukd
+喐	yuke
 圉	yukg
 圄	yukk
 吁	yuky
@@ -9107,6 +9284,7 @@ version: "20240724"
 耰	yzlw
 槱	yzmh
 柚	yzmy
+楢	yzmy
 牖	yzpf
 祐	yzpk
 繇	yzpx
@@ -9148,6 +9326,7 @@ version: "20240724"
 灶	zcht
 蚤	zcii
 噪	zckm
+喿	zckm
 唣	zckq
 糟	zcmo
 早	zcou
@@ -9249,6 +9428,7 @@ version: "20240724"
 子	ziva
 龇	zivb
 訾	zivk
+姕	zivn
 笫	zivp
 赀	zivr
 紫	zivx
@@ -9299,6 +9479,7 @@ version: "20240724"
 疭	zsbr
 总	zsbx
 宗	zsbx
+潀	zsdr
 枞	zsmr
 粽	zsmx
 棕	zsmx

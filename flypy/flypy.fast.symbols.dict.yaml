@@ -1,7 +1,7 @@
 # 快符
 ---
 name: flypy.fast.symbols
-version: "20240724"
+version: "10.9z"
 use_preset_vocabulary: false
 ...
 ：	;
@@ -19,6 +19,7 @@ use_preset_vocabulary: false
 ！	;a
 ……	;s
 、	;d
+|	;f
 ·	;g
 =	;h
 +	;j
@@ -29,5 +30,5 @@ use_preset_vocabulary: false
 ”	;c
 ——	;v
 _	;b
-<	;n
->	;m
+「	;n
+」	;m

@@ -4,7 +4,7 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "20240724"
+  version: "10.9z"
   author:
     - 方案设计：何海峰 <flypy@qq.com>
   description: |
@@ -124,5 +124,5 @@ menu:
   page_size: 5 #候选项数
   
 style:
-  horizontal: true #竖排为false
-  
+  text_orientation: horizontal
+  candidate_list_layout: linear

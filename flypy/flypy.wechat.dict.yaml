@@ -1,7 +1,7 @@
 # 微信表情
 ---
 name: flypy.wechat
-version: "20240724"
+version: "10.9z"
 use_preset_vocabulary: false
 ...
 [破涕为笑]	owxk
@@ -121,3 +121,27 @@ use_preset_vocabulary: false
 [礼物]	owlw
 [烟花]	owyh
 [爆竹]	owbv
+👍	oiq
+😙	oiw
+🤢	oie
+👎	oir
+🤭	oit
+😵	oiy
+😶	oii
+👌	oio
+😕	oip
+😌	oia
+🤔	ois
+😄	oid
+😡	oif
+👏	oig
+🥱	oih
+😣	oij
+😢	oik
+😓	oil
+😂	oix
+😁	oic
+😉	oiv
+🤗	oib
+💢	oin
+😋	oim

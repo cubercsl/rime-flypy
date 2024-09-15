@@ -1,7 +1,7 @@
 # 全码字
 ---
 name: flypy.full
-version: "20240724"
+version: "10.9z"
 use_preset_vocabulary: false
 ...
 𩽾	anan
@@ -1295,6 +1295,8 @@ use_preset_vocabulary: false
 葳	wwcn
 闱	wwmw
 娓	wwnm
+琟	wwwf
+玮	wwww
 旬	xybo
 炘	xbhj
 烜	xrha
@@ -1385,6 +1387,7 @@ use_preset_vocabulary: false
 岘	xmee
 蚬	xmie
 娴	xmnm
+闲	xmmm
 跹	xmzz
 萧	xncs
 魈	xngo

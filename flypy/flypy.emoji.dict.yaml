@@ -1,9 +1,10 @@
 # emoji表情
 ---
 name: flypy.emoji
-version: "20240724"
+version: "10.9z"
 use_preset_vocabulary: false
 ...
+😊	oi
 🚶🐎👀🌸	oigh
 🐎🐎🐅🐅	oimh
 🈵🍜🔴💥	oihg
@@ -81,6 +82,7 @@ use_preset_vocabulary: false
 🤮	oiot
 🤢	oiex
 😋	oimw
+🤡	oixi
 🥂	oigb
 🍻	oigb
 💔	oilk
@@ -157,10 +159,7 @@ use_preset_vocabulary: false
 ❗️	oijt
 ✅	oigz
 ❎	oiia
-➕	oijx
-➖	oijm
-➗	oiiu
-✖️	oiig
 🇨🇳	oigq
 ☕️	oikf
 💦	oiuv
+💩	oidb

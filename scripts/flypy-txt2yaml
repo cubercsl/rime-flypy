@@ -1,0 +1,82 @@
+#!/usr/bin/env python
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#                    Version 2, December 2004
+#
+# Copyright (C) 2022 cubercsl <2014cais01 at gmail dot com>
+#
+# Everyone is permitted to copy and distribute verbatim or modified
+# copies of this license document, and changing it is allowed as long
+# as the name is changed.
+#
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+#
+#  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+import re
+import sys
+
+from collections import defaultdict
+
+
+def main(version: str) -> None:
+
+    mapper = {
+        '快符': 'fast.symbols',
+        '次选字词': 'secondary',
+        '三码填空': 'three',
+        'emoji表情': 'emoji',
+        '符号': 'symbols',
+        '微信表情': 'wechat',
+        '一简词': 'primary.short.word',
+        '随心   自定编码规则，零星调节重码或别扭码': 'whimsicality',
+        '二重简码： 一二简次选字': 'secondary.short.code',
+        '1.全码词 置顶 本类词条放到 flypy_top.txt 文件' : 'full.top',
+        '2.全码词 居后 本类词条放“flypy_user.txt”文件': 'full',
+    }
+
+    reversed_mapper = {v: k for k, v in mapper.items()}
+
+    # patch
+    mapper['no comment'] = 'symbols'
+    reversed_mapper['web'] = '网站'
+    reversed_mapper['full.top'] = '全码词 置顶'
+    reversed_mapper['full'] = '全码词 居后'
+    reversed_mapper['user.top'] = '用户置顶词库'
+    reversed_mapper['user'] = '用户词库'
+
+
+    dictionary = defaultdict(list)
+    cur = dictionary['web']
+
+    for file in ('flypy_sys.txt', '模式切换&补充简码方案.txt'):
+        with open(file, 'r') as f:
+            for line in f:
+                if re.match(r'^#[^\t]+', line):
+                    key = line[1:].strip()
+                    if key in mapper:
+                        print(key)
+                        cur = dictionary[mapper[key]]
+                elif cur is not None and line.strip():
+                    cur.append(line.strip())
+
+    dictionary['user'] = []
+    dictionary['user.top'] = []
+
+    for key, value in dictionary.items():
+        with open('flypy/flypy.%s.dict.yaml' % key, 'w') as f:
+            f.write(f'''# {reversed_mapper[key]}
+---
+name: flypy.{key}
+version: "{version}"
+use_preset_vocabulary: false
+...
+''')
+            for line in value:
+                f.write(line + '\n')
+
+if __name__ == '__main__':
+    if len(sys.argv) != 2:
+        print('Usage: %s <version>' % sys.argv[0])
+        sys.exit(1)
+    sys.exit(main(sys.argv[1]))

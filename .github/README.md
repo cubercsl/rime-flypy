@@ -20,6 +20,8 @@ yay -S rime-flypy
 
 ### 从 [/plum/](https://github.com/rime/plum) 获取
 
+配方：℞ **cubercsl/rime-flypy**
+
 在 /plum/ 文件夹下执行
 
 ```bash

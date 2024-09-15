@@ -1,7 +1,7 @@
 # 一简词
 ---
-name: flypy.primary.short
-version: "20240724"
+name: flypy.primary.short.word
+version: "10.9z"
 use_preset_vocabulary: false
 ...
 其他	q

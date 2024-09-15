@@ -1,7 +1,7 @@
 
 ---
 name: flypy
-version: "20240724"
+version: "10.9z"
 sort: original
 import_tables:
   - 'flypy/flypy.user.top'                # 用户置顶词
@@ -9,6 +9,7 @@ import_tables:
   - 'flypy/flypy.fast.symbols'            # 快符
   - 'flypy/flypy.primary'                 # 首选字词
   - 'flypy/flypy.secondary'               # 次选字词
+  - 'flypy/flypy.three'                   # 三码填空
   - 'flypy/flypy.web'                     # 网站
   - 'flypy/flypy.emoji'                   # 表情
   - 'flypy/flypy.symbols'                 # 符号
