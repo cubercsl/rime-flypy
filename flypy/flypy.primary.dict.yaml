@@ -3,7 +3,6 @@
 ---
 name: flypy.primary
 version: "10.9z"
-use_preset_vocabulary: false
 ...
 
 啊	a
@@ -230,7 +229,7 @@ AA制	aavi
 哀叹	aitj
 爱听	aitk
 哀痛	aits
-埃	aitu
+爱徒	aitu
 矮	aiu
 毐	aiua
 碍	aiuc
@@ -397,6 +396,7 @@ AA制	aavi
 唵	ank
 唵	ankd
 安康	ankh
+咹	ankn
 啱	anku
 暗亏	ankv
 安拉	anla
@@ -3156,6 +3156,7 @@ B超	biic
 播种	bovs
 簸	bovy
 玻	bow
+珀	bowb
 波纹	bowf
 亳	bowq
 泊位	boww
@@ -3596,7 +3597,7 @@ B超	biic
 补篮	bulj
 不灵	bulk
 不良	bull
-不识庐山真面目	bulm
+不练	bulm
 不料	buln
 部落	bulo
 捕猎	bulp
@@ -4652,7 +4653,7 @@ B超	biic
 此地无银三百两	cdwl
 财务	cdwu
 此地无银	cdwy
-彩信	cdxb
+菜心	cdxb
 才行	cdxk
 猜想	cdxl
 踩线	cdxm
@@ -6193,7 +6194,7 @@ B超	biic
 道具	dcju
 到家	dcjx
 叨	dck
-叨	dckd
+倒开	dckd
 刀口	dckz
 打错了	dcl
 到来	dcld
@@ -7225,7 +7226,6 @@ B超	biic
 淡茶	djia
 单车	djie
 诞辰	djif
-打简出繁	djif
 单程	djig
 单传	djir
 淡出	djiu
@@ -8726,7 +8726,7 @@ B超	biic
 独生	duug
 都市	duui
 多少时间	duuj
-督	duuo
+读硕	duuo
 读书	duuu
 毒手	duuz
 笃	duv
@@ -8800,7 +8800,6 @@ B超	biic
 动辄得咎	dvdj
 对调	dvdn
 堆叠	dvdp
-打着打着	dvdv
 斗智斗勇	dvdy
 队	dve
 队	dver
@@ -9947,7 +9946,7 @@ Excel	exce
 筏	fav
 发	favd
 法阵	favf
-筏	favg
+发证	favg
 法治	favi
 发展	favj
 珐	faw
@@ -12047,6 +12046,7 @@ flypy.com	flyp
 高档	gcdh
 高低	gcdi
 搞定	gcdk
+夰	gcdl
 糕点	gcdm
 高调	gcdn
 搞丢	gcdq
@@ -12432,7 +12432,7 @@ GDP	gdp
 袼	gep
 鸽派	gepd
 嗝屁	gepi
-袼	gepk
+各凭	gepk
 歌谱	gepu
 割弃	geqi
 隔墙	geql
@@ -13107,7 +13107,7 @@ GDP	gdp
 感谢	gjxp
 甘休	gjxq
 国际形势	gjxu
-感	gjxx
+赶下	gjxx
 尴	gjy
 更进一步	gjyb
 酐	gjyg
@@ -13754,7 +13754,7 @@ GDP	gdp
 惯性	grxk
 骨肉相连	grxl
 管线	grxm
-惯	grxr
+官宣	grxr
 管辖	grxx
 观	gry
 关押	grya
@@ -14663,7 +14663,6 @@ GDP	gdp
 冠亚军	gyjy
 滚开	gykd
 狗眼看人	gykr
-狗咬吕洞宾	gyl
 各有利弊	gylb
 供应链	gylm
 滚落	gylo
@@ -14952,7 +14951,6 @@ GDP	gdp
 毫不理会	hblh
 毫不利己	hblj
 花不了	hbln
-哈博罗内	hbln
 黑不溜秋	hblq
 合不拢	hbls
 活蹦乱跳	hblt
@@ -16757,7 +16755,7 @@ GDP	gdp
 痪	hrbd
 郇	hrbe
 还本	hrbf
-宦	hrbi
+环比	hrbi
 诲人不倦	hrbj
 患病	hrbk
 好人不长命	hrbm
@@ -17070,7 +17068,6 @@ GDP	gdp
 烘箱	hsxl
 红线	hsxm
 哄笑	hsxn
-红叶	hsxp
 红袖	hsxq
 红学	hsxt
 红霞	hsxx
@@ -17894,7 +17891,7 @@ GDP	gdp
 滑爽	hxul
 话说	hxuo
 混淆视听	hxut
-花束	hxuu
+话术	hxuu
 划水	hxuv
 后下手遭殃	hxuy
 花招	hxvc
@@ -18301,7 +18298,7 @@ GDP	gdp
 差距	iaju
 差价	iajx
 喳	iak
-喳	iaka
+插卡	iaka
 查考	iakc
 岔开	iakd
 查看	iakj
@@ -18314,7 +18311,7 @@ GDP	gdp
 茶楼	ialz
 查	iam
 𥻗	iam'
-楂	iama
+查码	iama
 槎	iamg
 杈	iami
 插满	iamj
@@ -18923,7 +18920,6 @@ GDP	gdp
 称病	igbk
 出工不出力	igbl
 城北	igbw
-成倍	igbw
 成才	igcd
 成册	igce
 澄	igd
@@ -19676,15 +19672,15 @@ GDP	gdp
 缠足	ijzu
 馋嘴	ijzv
 穿街走巷	ijzx
-揣	ik
+窗口	ik
 触控板	ikbj
 揣测	ikce
 插科打诨	ikdh
 揣度	ikdo
 冲口而出	ikei
-搋	ikf
+揣	ikf
 揣	ikfe
-柴可夫斯基	ikfj
+搋	ikfj
 踹飞	ikfw
 长宽高	ikgc
 沉疴痼疾	ikgj
@@ -20091,7 +20087,7 @@ IP地址	ipdv
 传销	irxn
 穿鞋	irxp
 传讯	irxy
-传音	iryb
+出人意表	iryb
 传谣	iryc
 传扬	iryh
 穿衣	iryi
@@ -20436,7 +20432,7 @@ IP地址	ipdv
 初期	iuqi
 出钱	iuqm
 出鞘	iuqn
-出糗	iuqq
+初秋	iuqq
 除权	iuqr
 除却	iuqt
 出去	iuqu
@@ -20512,7 +20508,7 @@ IP地址	ipdv
 初学	iuxt
 储蓄	iuxu
 春生夏长	iuxv
-重拾信心	iuxx
+初夏	iuxx
 出巡	iuxy
 出于	iuy
 除妖	iuyc
@@ -20802,7 +20798,7 @@ IP地址	ipdv
 纯毛	iymc
 春梦	iymg
 纯棉	iymm
-椿	iymo
+春末	iymo
 崇洋媚外	iymw
 彻夜难眠	iynm
 出淤泥而不染	iynr
@@ -21805,7 +21801,7 @@ IP地址	ipdv
 给	jisk
 羁	jism
 寄送	jiss
-激素	jisu
+极速	jisu
 几岁	jisv
 圾	jit
 垍	jit'
@@ -22492,12 +22488,12 @@ IP地址	ipdv
 肩部	jmbu
 兼备	jmbw
 翦	jmbx
-荐	jmc
+茧	jmc
 健美操	jmcc
 建材	jmcd
 检测	jmce
 建仓	jmch
-茧	jmci
+简词	jmci
 菅	jmck
 蒹	jmcn
 荐	jmcz
@@ -22912,10 +22908,8 @@ IP地址	ipdv
 椒	jnmy
 娇	jnn
 缴纳	jnna
-今年年底	jnnd
 娇嫩	jnnf
 胶囊	jnnh
-今年年初	jnni
 较难	jnnj
 娇娘	jnnl
 姣	jnnx
@@ -24343,7 +24337,7 @@ IP地址	ipdv
 驾车	jxie
 家臣	jxif
 加成	jxig
-加长	jxih
+家常	jxih
 加持	jxii
 家产	jxij
 家传	jxir
@@ -24781,6 +24775,7 @@ IP地址	ipdv
 卡死	kasi
 卡套	katc
 卡通	kats
+垰	katx
 卡	kau
 卡	kaub
 喀什	kaui
@@ -26951,7 +26946,6 @@ IP地址	ipdv
 琳	lbwm
 两不误	lbwu
 狼狈万状	lbwv
-老百姓	lbxb
 两不相干	lbxg
 吝惜	lbxi
 临行	lbxk
@@ -28331,7 +28325,7 @@ IP地址	ipdv
 凉亭	lltk
 两天	lltm
 两条	lltn
-玲珑剔透	lltt
+邋邋遢遢	lltt
 两腿	lltv
 勠力同心	lltx
 两头	lltz
@@ -30276,7 +30270,7 @@ IP地址	ipdv
 妈妈	mama
 妈咪	mami
 骂名	mamk
-杩	mamm
+马面	mamm
 麻木	mamu
 妈	man
 玛瑙	manc
@@ -30525,7 +30519,7 @@ IP地址	ipdv
 毛利	mcli
 冒领	mclk
 猫粮	mcll
-耄	mclm
+猫脸	mclm
 毛料	mcln
 茅庐	mclu
 毛驴	mclv
@@ -31180,7 +31174,7 @@ IP地址	ipdv
 秘密	mimi
 弥漫	mimj
 米面	mimm
-敉	mimw
+迷妹	mimw
 密谋	mimz
 迷你	mini
 泌尿	minn
@@ -32789,7 +32783,6 @@ IP地址	ipdv
 摸一摸	mymo
 某月某日	mymr
 每一秒钟	mymv
-贸易逆差	myni
 每一年	mynm
 面有难色	myns
 慢一拍	mypd
@@ -32810,13 +32803,11 @@ IP地址	ipdv
 每一天	mytm
 名扬天下	mytx
 名义上	myuh
-贸易顺差	myui
 没有时间	myuj
 民以食为天	myut
 贸易战	myvj
 每一种	myvs
 名扬中外	myvw
-贸易往来	mywl
 没有问题	mywt
 每一位	myww
 美玉无瑕	mywx
@@ -32956,7 +32947,7 @@ IP地址	ipdv
 那面	namm
 南无	namo
 娜	nan
-娜	nane
+哪呢	nane
 哪能	nang
 那年	nanm
 拿捏	nanp
@@ -33627,7 +33618,7 @@ IP地址	ipdv
 苧	nkcd
 凝	nkd
 泞	nkdd
-凝	nkdr
+拧断	nkdr
 南开大学	nkdx
 聍	nke
 聍	nked
@@ -34177,7 +34168,6 @@ IP地址	ipdv
 弄断	nsdr
 弄懂	nsds
 浓度	nsdu
-农妇	nsf
 弄饭	nsfj
 农夫	nsfu
 弄个	nsge
@@ -35996,7 +35986,7 @@ IP地址	ipdv
 漂	pndx
 殍	pndz
 票房	pnfh
-飘贩	pnfj
+票贩	pnfj
 漂浮	pnfu
 飘飞	pnfw
 飘过	pngo
@@ -37384,7 +37374,7 @@ PPT	ppt
 奇技淫巧	qjyq
 强加于人	qjyr
 齐聚一堂	qjyt
-取决于	qjyu
+穷极一生	qjyu
 千金一掷	qjyv
 琼浆玉液	qjyy
 前脚走	qjzz
@@ -37420,7 +37410,7 @@ PPT	ppt
 清单	qkdj
 清点	qkdm
 情调	qkdn
-清	qkdo
+凊	qkdo
 轻度	qkdu
 乾坤大挪移	qkdy
 青豆	qkdz
@@ -38462,7 +38452,7 @@ PPT	ppt
 圈定	qrdk
 圈点	qrdm
 求仁得仁	qrdr
-全队	qrdv
+全对	qrdv
 全都	qrdz
 全额	qree
 拳法	qrfa
@@ -38746,7 +38736,7 @@ PPT	ppt
 确信	qtxb
 缺席	qtxi
 缺陷	qtxm
-𬒈	qtxu
+确需	qtxu
 却要	qtyc
 却也	qtye
 缺氧	qtyh
@@ -39163,6 +39153,7 @@ PPT	ppt
 泉下有知	qxyv
 气息奄奄	qxyy
 卡子	qxzi
+䠍	qxzy
 群	qy
 裙摆	qybd
 轻徭薄赋	qybf
@@ -39507,7 +39498,7 @@ PPT	ppt
 任何	rfhe
 人行	rfhh
 人祸	rfho
-稔	rfhx
+人话	rfhx
 仁厚	rfhz
 轫	rfi
 人潮	rfic
@@ -40640,6 +40631,7 @@ PPT	ppt
 人走茶凉	rzil
 𫐓	rzim
 肉串	rzir
+厹	rzj
 人赃俱获	rzjh
 肉鸡	rzji
 人在江湖，身不由己	rzjj
@@ -40805,9 +40797,8 @@ PPT	ppt
 扫	scfe
 搔	scfi
 扫过	scgo
-扫货	sch
 扫黄	schl
-骚货	scho
+扫货	scho
 扫黑	schw
 扫除	sciu
 三寸金莲	scjl
@@ -40980,7 +40971,6 @@ PPT	ppt
 随风而去	sfeq
 随风而逝	sfeu
 森寒	sfhj
-散发出	sfiu
 司法程序	sfix
 司法鉴定	sfjd
 司法局	sfju
@@ -41638,7 +41628,6 @@ PPT	ppt
 锁帖	sotp
 锁头	sotz
 索	sou
-所设	soue
 锁上	souh
 琐事	soui
 所说	souo
@@ -42462,7 +42451,6 @@ PPT	ppt
 阘	tamx
 闼	tamz
 她	tan
-她	tany
 牠	tany
 褟	tap
 踏平	tapk
@@ -45865,7 +45853,7 @@ TXT	txt
 晒	udo
 晒	udox
 耍大牌	udpd
-首当其冲	udq
+水电气	udq
 适得其反	udqf
 水到渠成	udqi
 手到擒来	udql
@@ -46339,7 +46327,6 @@ TXT	txt
 升官	uggr
 生滚	uggy
 山沟沟	uggz
-生化	ugh
 生蚝	ughc
 睡个好觉	ughj
 生活	ugho
@@ -46808,7 +46795,7 @@ TXT	txt
 是否	uifz
 使馆	uig
 石膏	uigc
-十个	uige
+诗歌	uige
 实干	uigj
 时光	uigl
 神出鬼没	uigm
@@ -47368,7 +47355,6 @@ TXT	txt
 甩手	ukuz
 率真	ukvf
 率直	ukvi
-时刻准备着	ukvv
 衰	ukw
 衰亡	ukwh
 率	ukwu
@@ -48121,7 +48107,6 @@ TXT	txt
 纾	uusl
 署	uuso
 输送	uuss
-书摊	uut
 收拾停当	uutd
 舒坦	uutj
 失声痛哭	uutk
@@ -49267,7 +49252,7 @@ TXT	txt
 招牌	vcpd
 找平	vcpk
 照片	vcpm
-爪	vcpn
+招嫖	vcpn
 招亲	vcqb
 朝气	vcqi
 肇庆	vcqk
@@ -49932,7 +49917,6 @@ TXT	txt
 正色	vgse
 整肃	vgsu
 追根溯源	vgsy
-正途	vgt
 整套	vgtc
 蒸腾	vgtg
 整体	vgti
@@ -49944,7 +49928,7 @@ TXT	txt
 挣脱	vgto
 转过头去	vgtq
 正统	vgts
-征途	vgtu
+正途	vgtu
 昭告天下	vgtx
 整	vgu
 政审	vguf
@@ -51023,7 +51007,7 @@ TXT	txt
 捉鱼	voyu
 叕	voyy
 桌游	voyz
-捉脏	vozh
+捉赃	vozh
 桌子	vozi
 拙作	vozo
 捉贼	vozw
@@ -53100,7 +53084,6 @@ WiFi	wifi
 玩出	wjiu
 蜿	wjiv
 万箭穿心	wjix
-晚春	wjiy
 文件夹	wjj
 万金	wjjb
 顽疾	wjji
@@ -53152,7 +53135,6 @@ WiFi	wifi
 晚期	wjqi
 顽强	wjql
 万千	wjqm
-晚秋	wjqq
 完全	wjqr
 弯曲	wjqu
 闻鸡起舞	wjqw
@@ -55458,7 +55440,7 @@ Word	word
 羞愧难当	xknd
 性能	xkng
 行囊	xknh
-姓	xknu
+性奴	xknu
 星	xko
 腥	xkou
 行骗	xkpm
@@ -55708,7 +55690,6 @@ Word	word
 祥瑞	xlrv
 熙来攘往	xlrw
 相思	xls
-相思	xlsd
 夏练三伏	xlsf
 相似	xlsi
 缃	xlso
@@ -56113,7 +56094,6 @@ Word	word
 消耗	xnhc
 小孩	xnhd
 小鹤	xnhe
-小巷	xnhh
 霄汉	xnhj
 小伙	xnho
 销户	xnhu
@@ -56287,7 +56267,7 @@ Word	word
 消灾	xnzd
 销赃	xnzh
 小子	xnzi
-逍	xnzo
+小坐	xnzo
 小组	xnzu
 西欧	xo
 些	xp
@@ -56455,7 +56435,7 @@ Word	word
 谐星	xpxk
 嬉皮笑脸	xpxl
 斜线	xpxm
-懈	xpxn
+邪笑	xpxn
 谢谢	xpxp
 谐谑	xpxt
 些许	xpxu
@@ -58419,7 +58399,7 @@ Word	word
 由此看来	yckl
 遥控	ycks
 由此可知	yckv
-咬	yckx
+腰胯	yckx
 吆	ycky
 要来	ycld
 药理	ycli
@@ -58639,7 +58619,6 @@ Word	word
 有点问题	ydwt
 压倒性	ydxk
 运动鞋	ydxp
-太玄	ydxr
 一代新人换旧人	ydxr
 异端邪说	ydxu
 运动员	ydy
@@ -59517,7 +59496,7 @@ Word	word
 医生	yiug
 以上	yiuh
 意识	yiui
-言传身教	yiuj
+一闪	yiuj
 饴	yiuk
 遗孀	yiul
 尾	yium
@@ -61091,7 +61070,6 @@ Word	word
 一堂课	ytke
 月刊	ytkj
 哕	ytkx
-月落	ytla
 月老	ytlc
 亚特兰大	ytld
 约了	ytle
@@ -62180,7 +62158,6 @@ Word	word
 猷	yzbq
 又不	yzbu
 意在笔先	yzbx
-疣	yzby
 莜	yzc
 油菜	yzcd
 右侧	yzce
@@ -64125,7 +64102,7 @@ Word	word
 自知之明	zvvm
 在这之前	zvvq
 最终	zvvs
-觜	zvvy
+最准	zvvy
 最晚	zvwj
 醉卧	zvwo
 最无	zvwu

@@ -79,9 +79,11 @@ use_preset_vocabulary: false
 奂	hrd
 泓	hsd
 斛	hud
+烀	huh
 烩	hvh
 骅	hxm
 焯	ich
+楂	iam
 梣	ifm
 氅	ihx
 怅	ihxi
@@ -110,9 +112,9 @@ use_preset_vocabulary: false
 溅	jmd
 监	jml
 槛	jmm
+敫	jnb
 僭	jmr
 戬	jmy
-敫	jnb
 醮	jny
 诘	jpy
 疚	jqb
@@ -283,6 +285,7 @@ use_preset_vocabulary: false
 从前	cq
 达到	dd
 电脑	dn
+当然	dr
 打算	ds
 等着	dv
 分别	fb
@@ -318,6 +321,7 @@ use_preset_vocabulary: false
 慢慢	mm
 面前	mq
 每天	mt
+前天	qt
 情况	qk
 前面	qm
 恰恰	qq
@@ -541,6 +545,7 @@ use_preset_vocabulary: false
 部队	budv
 不施粉黛	bufd
 补救	bujq
+不识庐山真面目	bulm
 不胜枚举	bumj
 跋山涉水	buuu
 补习	buxi
@@ -646,6 +651,7 @@ use_preset_vocabulary: false
 付钱	fuqm
 富饶	furc
 粉饰太平	futp
+负数	fuuu
 复现	fuxm
 放手一搏	fuyb
 赋予	fuyu
@@ -705,6 +711,7 @@ use_preset_vocabulary: false
 高瞻远瞩	gvyv
 改弦更张	gxgv
 狗眼看人低	gykd
+狗咬吕洞宾	gylb
 各自为战	gzwv
 何必当初	hbdi
 毫不留情	hblq
@@ -814,7 +821,6 @@ use_preset_vocabulary: false
 船舶	irbo
 怅然若失	irru
 喘气	irqi
-出人意表	iryb
 重逢	isfg
 冲剂	isji
 崇敬	isjk
@@ -825,6 +831,7 @@ use_preset_vocabulary: false
 处罚	iufa
 畜生	iuug
 除夕	iuxi
+重拾信心	iuxx
 乘胜追击	iuvj
 察言观色	iygs
 丑化	izhx
@@ -857,11 +864,11 @@ use_preset_vocabulary: false
 机智	jivi
 挤占	jivj
 畸形	jixk
-机箱	jixl
 积压	jiya
 觊觎	jiyu
 加减乘除	jjii
 句句属实	jjuu
+景点	jkdm
 惊艳	jkyj
 警官	jkgr
 荆棘	jkji
@@ -991,6 +998,7 @@ use_preset_vocabulary: false
 来龙去脉	llqm
 冷冷清清	llqq
 啰啰嗦嗦	llss
+玲珑剔透	lltt
 沦落至此	llvc
 利令智昏	llvh
 寥寥无几	llwj
@@ -1092,7 +1100,7 @@ use_preset_vocabulary: false
 破位	poww
 岂不快哉	qbkz
 曲不离口	qblk
-禽兽	qbuz
+禽兽	qbuz#类
 取长补短	qibd
 千疮百孔	qibk
 七点	qidm
@@ -1228,6 +1236,7 @@ use_preset_vocabulary: false
 胜败乃兵家常事	ubnu
 说曹操曹操到	uccd
 鼠肚鸡肠	udji
+首当其冲	udqi
 射箭	uejm
 设想	uexl
 尚方宝剑	ufbj
@@ -1246,6 +1255,7 @@ use_preset_vocabulary: false
 声誉	ugyu
 神魂颠倒	uhdd
 伤痕累累	uhll
+山花烂漫	uhlm
 赏识	uhui
 实话实说	uhuu
 事后诸葛亮	uhvl
@@ -1260,7 +1270,6 @@ use_preset_vocabulary: false
 失控	uiks
 势力	uili
 石榴	uilq
-诗歌	uige
 食品	uipb
 失陪	uipw
 十七	uiqi
@@ -1345,6 +1354,7 @@ use_preset_vocabulary: false
 指腹为婚	vfwh
 正解	vgjp
 政权	vgqr
+正数	vguu
 争执	vgvi
 中规中矩	vgvj
 至高无上	vgwu
@@ -1358,6 +1368,7 @@ use_preset_vocabulary: false
 职称	viig
 支出	viiu
 纸巾	vijb
+支架	vijx
 致敬	vijk
 争长论短	vild
 智力	vili
@@ -1390,6 +1401,7 @@ use_preset_vocabulary: false
 主观	vugr
 著称	vuig
 主见	vujm
+驻留	vulq
 著书立说	vulu
 著名	vumk
 仗势欺人	vuqr
@@ -1413,6 +1425,7 @@ use_preset_vocabulary: false
 睁一只眼，闭一只眼	vyvy
 文本文件	wbwj
 闻道有先后	wdyh
+吻合	wfhe
 威风扫地	wfsd
 瘟疫	wfyi
 为虎作伥	whzi
@@ -1555,6 +1568,7 @@ use_preset_vocabulary: false
 小心眼	xxy
 香消玉殒	xxyy
 咸鱼翻身	xyfu
+宵衣旰食	xygu
 匈牙利	xyli
 悬崖勒马	xylm
 学有所成	xysi
@@ -1605,6 +1619,7 @@ use_preset_vocabulary: false
 依附	yifu
 摇唇鼓舌	yigu
 寅吃卯粮	yiml
+言传身教	yiuj
 遗嘱	yivu
 遗忘	yiwh
 羊肠小道	yixd
@@ -1642,7 +1657,6 @@ use_preset_vocabulary: false
 于情于理	yqyl
 阴晴圆缺	yqyq
 有权有势	yqyu
-一日不见	yrbj
 用人不疑，疑人不用	yrby
 一人得道	yrdd
 一荣俱荣	yrjr

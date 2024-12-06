@@ -818,6 +818,7 @@ $	ofhb	99
 －	otj	99
 ♪	otk	100
 ␣	otk	99
+∅	otk	98
 m³	otl	100
 ″	otm	100
 μ	otm	99
@@ -1186,13 +1187,12 @@ m̀	opm	80
 _	ow
 ~	op
 &	oa
-$	os
-=	od
+*	os
+$	od
 ^	of
-*	oh
+=	oh
 #	oj
-<	ok	90
->	ol
+|	ol
 +	oz
 -	oc
 %	ob
