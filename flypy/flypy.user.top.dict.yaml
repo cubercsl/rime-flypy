@@ -1,6 +1,6 @@
 # 用户置顶词库
 ---
 name: flypy.user.top
-version: "10.9z"
+version: "10.12"
 use_preset_vocabulary: false
 ...

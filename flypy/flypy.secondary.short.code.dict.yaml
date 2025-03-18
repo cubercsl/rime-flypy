@@ -1,7 +1,7 @@
 # 二重简码： 一二简次选字
 ---
 name: flypy.secondary.short.code
-version: "10.9z"
+version: "10.12"
 use_preset_vocabulary: false
 ...
 又	y

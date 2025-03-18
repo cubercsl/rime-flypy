@@ -1,7 +1,7 @@
 # 全码字
 ---
 name: flypy.full
-version: "10.9z"
+version: "10.12"
 use_preset_vocabulary: false
 ...
 𩽾	anan
@@ -11,6 +11,7 @@ use_preset_vocabulary: false
 案	anbm
 铵	anjn
 埯	antd
+埃	aitu
 岙	aoye
 畚	bfst
 𠳐	bhke
@@ -206,8 +207,11 @@ use_preset_vocabulary: false
 哒	dakz
 𬱖	diyr
 垛	dotm
+督	duuo
+叨	dckd
 咡	erke
 愕	eexk
+阿	eeek
 耳	eraa
 贰	eryr
 佴	erre
@@ -270,6 +274,7 @@ use_preset_vocabulary: false
 跗	fuzc
 痱	fwbf
 唪	fgkl
+筏	favg
 硌	geuk
 铬	gejk
 梗	ggmg
@@ -282,6 +287,7 @@ use_preset_vocabulary: false
 歌	gedr
 格	gemk
 阁	gemk
+袼	gepk
 缸	ghfg
 杆	gjmg
 肝	gjog
@@ -293,6 +299,7 @@ use_preset_vocabulary: false
 官	grbk
 罐	grff
 棺	grmk
+惯	grxr
 贡	gsgr
 汞	gsgu
 躬	gsug
@@ -332,6 +339,7 @@ use_preset_vocabulary: false
 馘	goba
 戤	gdng
 蜾	goig
+感	gjxx
 翃	hsux
 竑	hsls
 鞨	hegv
@@ -368,6 +376,7 @@ use_preset_vocabulary: false
 谎	hlyv
 豁	hobk
 惑	hogx
+宦	hrbi
 涣	hrdd
 焕	hrhd
 缓	hrsy
@@ -404,6 +413,7 @@ use_preset_vocabulary: false
 泓	hsds
 轰	hsiy
 斛	hudu
+烀	huhh
 怙	huxk
 烩	hvhs
 珲	hvwi
@@ -448,7 +458,6 @@ use_preset_vocabulary: false
 铲	ijji
 啴	ijkl
 禅	ijpl
-搋	ikfj
 闯	ilmm
 喘	irke
 充	iswe
@@ -462,7 +471,9 @@ use_preset_vocabulary: false
 愁	izhx
 赤	iitd
 镲	iajx
+喳	iaka
 碴	iaua
+楂	iama
 耖	iclu
 钗	idji
 车	ieal
@@ -475,6 +486,7 @@ use_preset_vocabulary: false
 氅	ihxm
 茌	iicu
 鸱	iidn
+嗤	iiki
 蚩	iivi
 浐	ijdi
 潺	ijdz
@@ -487,6 +499,7 @@ use_preset_vocabulary: false
 蜍	iuih
 绌	iusi
 怵	iuxu
+椿	iymo
 鹑	iywn
 惆	izxk
 槌	ivmz
@@ -545,6 +558,7 @@ use_preset_vocabulary: false
 将	jldc
 礓	jlua
 讲	jlyj
+茧	jmci
 煎	jmbh
 兼	jmbn
 溅	jmdj
@@ -785,6 +799,7 @@ use_preset_vocabulary: false
 镏	lqjt
 鸾	lrwn
 泸	ludu
+胪	luou
 轳	luiu
 橹	lumo
 垆	lutu
@@ -811,6 +826,7 @@ use_preset_vocabulary: false
 蜜	mibi
 米	midm
 弥	migx
+敉	mimw
 眯	miom
 谜	miyz
 铭	mkjk
@@ -853,9 +869,12 @@ use_preset_vocabulary: false
 袂	mwpg
 眉	mwvo
 鳗	mjay
+杩	mamm
+耄	mclm
 钠	najn
 哪	nake
 拿	naru
+娜	nane
 那	nave
 恁	nbrx
 恼	ncxk
@@ -863,6 +882,7 @@ use_preset_vocabulary: false
 南	njug
 蝻	njig
 娘	nlnl
+凝	nkdr
 撵	nmfi
 黏	nmhk
 农	nsdn
@@ -880,6 +900,7 @@ use_preset_vocabulary: false
 炮	pchs
 袍	pcps
 拍	pdfb
+派	pddn
 彭	pgup
 庞	phgl
 螃	phif
@@ -936,6 +957,7 @@ use_preset_vocabulary: false
 欺	qiqr
 起	qitj
 轻	qkig
+清	qkdo
 亲	qklm
 羌	qlyv
 墙	qltk
@@ -952,6 +974,7 @@ use_preset_vocabulary: false
 拳	qrju
 劝	qryl
 瘸	qtbr
+𬒈	qtxu
 癯	qubf
 渠	qudm
 驱	qumx
@@ -988,6 +1011,7 @@ use_preset_vocabulary: false
 铷	rujk
 糅	rzmm
 辱	ruic
+稔	rfhx
 溞	scdi
 四	sike
 塞	sdbt
@@ -1072,6 +1096,7 @@ use_preset_vocabulary: false
 龆	tnvk
 酴	tuyh
 𬳿	tumh
+她	tany
 笙	ugvu
 埏	ujtz
 湜	uidr
@@ -1174,6 +1199,7 @@ use_preset_vocabulary: false
 召	vcdk
 找	vcfg
 肇	vchy
+爪	vcpn
 朝	vcuo
 折	vefj
 章	vhlu
@@ -1286,6 +1312,7 @@ use_preset_vocabulary: false
 伟	wwrw
 畏	wwtn
 胃	wwto
+玮	wwww
 凹	wala
 碗	wjuv
 惋	wjxv
@@ -1295,8 +1322,6 @@ use_preset_vocabulary: false
 葳	wwcn
 闱	wwmw
 娓	wwnm
-琟	wwwf
-玮	wwww
 旬	xybo
 炘	xbhj
 烜	xrha
@@ -1325,6 +1350,7 @@ use_preset_vocabulary: false
 翕	xirx
 喜	xiuk
 杏	xkmk
+姓	xknu
 星	xkou
 猩	xkqu
 惺	xkxu
@@ -1338,6 +1364,7 @@ use_preset_vocabulary: false
 消	xndo
 硝	xnuo
 箫	xnvs
+逍	xnzo
 效	xnww
 蟹	xpdi
 泄	xpdu
@@ -1409,8 +1436,10 @@ use_preset_vocabulary: false
 虚	xuhy
 𬊈	xyhc
 孝	xnlz
+懈	xpxn
 珢	ybwg
 银	ybjg
+咬	yckx
 彧	yuad
 颙	ysyr
 异	yisc
@@ -1424,6 +1453,7 @@ use_preset_vocabulary: false
 韵	yyld
 禹	yupd
 夷	yian
+燚	yihh
 爚	ythc
 衙	yaii
 呀	yaky
@@ -1568,6 +1598,7 @@ use_preset_vocabulary: false
 筠	yyvd
 韫	yywm
 鱿	yzay
+疣	yzby
 蝣	yziz
 铀	yzjy
 飏	yhjp
@@ -1575,6 +1606,7 @@ use_preset_vocabulary: false
 验	yjma
 燠	yuhd
 柚	yzmy
+馌	yeum
 杂	zajm
 吱	ziky
 鄑	ziye
@@ -1592,6 +1624,7 @@ use_preset_vocabulary: false
 棕	zsmx
 纵	zssr
 族	zufu
+觜	zvvy
 揍	zzft
 撙	zyfc
 咂	zakj
@@ -1608,3 +1641,4 @@ use_preset_vocabulary: false
 偬	zsrx
 阼	zoev
 邹	zzde
+噪	zckm

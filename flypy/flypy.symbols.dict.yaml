@@ -1,7 +1,7 @@
 # 符号
 ---
 name: flypy.symbols
-version: "10.9z"
+version: "10.12"
 use_preset_vocabulary: false
 ...
 一	oba	111
@@ -378,6 +378,10 @@ $	ofhb	99
 ↖	ofjt	93
 ↔	ofjt	92
 ↕	ofjt	91
+⇆	ofjt	90
+⇅	ofjt	89
+⇤	ofjt	88
+⇥	ofjt	87
 日小x	ofr	99
 ぁ	ofrx	100
 あ	ofrx	99
@@ -1197,3 +1201,5 @@ $	od
 +	oz
 -	oc
 %	ob
+<	on
+>	om

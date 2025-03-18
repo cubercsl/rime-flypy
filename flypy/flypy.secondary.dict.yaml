@@ -1,7 +1,7 @@
 # 次选字词
 ---
 name: flypy.secondary
-version: "10.9z"
+version: "10.12"
 use_preset_vocabulary: false
 ...
 饥渴	jike
@@ -82,8 +82,8 @@ use_preset_vocabulary: false
 烀	huh
 烩	hvh
 骅	hxm
-焯	ich
 楂	iam
+焯	ich
 梣	ifm
 氅	ihx
 怅	ihxi
@@ -112,9 +112,9 @@ use_preset_vocabulary: false
 溅	jmd
 监	jml
 槛	jmm
-敫	jnb
 僭	jmr
 戬	jmy
+敫	jnb
 醮	jny
 诘	jpy
 疚	jqb
@@ -321,10 +321,10 @@ use_preset_vocabulary: false
 慢慢	mm
 面前	mq
 每天	mt
-前天	qt
 情况	qk
 前面	qm
 恰恰	qq
+前天	qt
 歧视	qu
 确认	qr
 仍然	rr
@@ -505,6 +505,7 @@ use_preset_vocabulary: false
 不拘一格	bjyg
 不经意间	bjyj
 并肩作战	bjzv
+禀报	bkbc
 闭口不言	bkby
 不可避免	bkbm
 不可多得	bkdd
@@ -612,6 +613,7 @@ use_preset_vocabulary: false
 动手动脚	dudj
 独具	duju
 独善其身	duqu
+毒死	dusi
 打蛇随棍上	dusu
 滴水之恩	duve
 东施效颦	duxp
@@ -682,11 +684,11 @@ use_preset_vocabulary: false
 功名利禄	gmll
 果实	goui
 宫殿	gsdm
+哥斯达黎加	gsdj
 公愤	gsff
 工夫	gsfu
 攻克	gske
 功力	gsli
-鼓瑟齐鸣	gsqm
 公投	gstz
 共识	gsui
 公证	gsvg
@@ -1100,7 +1102,7 @@ use_preset_vocabulary: false
 破位	poww
 岂不快哉	qbkz
 曲不离口	qblk
-禽兽	qbuz#类
+禽兽	qbuz
 取长补短	qibd
 千疮百孔	qibk
 七点	qidm
@@ -1115,7 +1117,6 @@ use_preset_vocabulary: false
 旗袍	qipc
 歧途	qitu
 千差万别	qiwb
-企稳	qiwf
 栖息	qixi
 气喘吁吁	qixx
 欺压	qiya
@@ -1368,8 +1369,8 @@ use_preset_vocabulary: false
 职称	viig
 支出	viiu
 纸巾	vijb
-支架	vijx
 致敬	vijk
+支架	vijx
 争长论短	vild
 智力	vili
 知名	vimk
@@ -1693,7 +1694,6 @@ use_preset_vocabulary: false
 一身是胆	yuud
 一试身手	yuuu
 有识之士	yuvu
-云山雾罩	yuwv
 衣食无忧	yuwy
 以身相许	yuxx
 摇身一变	yuyb
@@ -1709,6 +1709,7 @@ use_preset_vocabulary: false
 怨声载道	yuzd
 咬舌自尽	yuzj
 言之有理	yvyl
+以战养战	yvyv
 言之有物	yvyw
 意味深长	ywui
 余味无穷	ywwq

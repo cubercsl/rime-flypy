@@ -1,7 +1,7 @@
 # 随心   自定编码规则，零星调节重码或别扭码
 ---
 name: flypy.whimsicality
-version: "10.9z"
+version: "10.12"
 use_preset_vocabulary: false
 ...
 单元	dye
