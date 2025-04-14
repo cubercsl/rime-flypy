@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#                    Version 2, December 2004
+#
+# Copyright (C) 2022 cubercsl <2014cais01 at gmail dot com>
+#
+# Everyone is permitted to copy and distribute verbatim or modified
+# copies of this license document, and changing it is allowed as long
+# as the name is changed.
+#
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+#
+#  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+import os
+import sys
+import re
+import platform
+
+# 路径定义
+flypy_dir_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'flypy')
+if platform.system() == 'Windows':
+    rime_dir_path = os.path.join(os.environ.get('APPDATA') or os.environ.get('USERPROFILE'), 'Rime')
+else:
+    rime_dir_path = os.path.join(os.environ.get('HOME') or os.environ.get('USERPROFILE'), 'Library/Rime')
+
+def in_rime_dir_path(sub_path=''):
+    return os.path.join(rime_dir_path, sub_path)
+
+def in_flypy_dir_path(sub_path=''):
+    return os.path.join(flypy_dir_path, sub_path)
+
+def sync_file(from_file='', temp_file_name=''):
+    if not os.path.exists(from_file):
+        print(f"File not found: {from_file}", file=sys.stderr)
+        return
+    
+    temp_file_path = in_flypy_dir_path(f"{temp_file_name}.dict.yaml")
+    if not os.path.exists(temp_file_path):
+        print(f"File not found: {temp_file_path}", file=sys.stderr)
+        return
+    
+    with open(from_file, 'r', encoding='utf-8') as f:
+        from_content = f.read()
+    
+    with open(temp_file_path, 'r', encoding='utf-8') as f:
+        temp_content = f.read()
+    
+    parts = temp_content.split('\n...\n', 1)
+    header = parts[0] if parts else ""
+    
+    # 正则替换
+    content_without_preserve_lines = re.sub(r'^[^\s]+\s;$', '', from_content, flags=re.MULTILINE)
+    content_without_comment = re.sub(r'#.*$', '', content_without_preserve_lines, flags=re.MULTILINE)
+    content_without_comment_and_empty_lines = re.sub(r'^\s*[\r\n]', '', content_without_comment, flags=re.MULTILINE)
+    
+    new_content = f"{header}\n...\n\n{content_without_comment_and_empty_lines}"
+    to_file = in_flypy_dir_path(f"{temp_file_name}.sync.dict.yaml")
+    
+    if new_content != temp_content:
+        print(f"Updating {to_file}...")
+        with open(to_file, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+    else:
+        print(f"{to_file} is up to date.")
+
+def main():
+    sync_file(in_rime_dir_path('flypy_top.txt'), 'flypy.user.top')
+    sync_file(in_rime_dir_path('flypy_user.txt'), 'flypy.user')
+
+if __name__ == "__main__":
+    main()
