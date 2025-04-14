@@ -5,3 +5,5 @@ punctuation.yaml
 symbols.yaml
 
 build/
+
+/flypy/flypy.*.sync.dict.yaml

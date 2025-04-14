@@ -19,4 +19,8 @@ install: flypy.dict
 clean:
 	rm -f flypy.dict flypy.txt
 
+pack:
+	rm fcitx5-table-flypy.zip
+	zip fcitx5-table-flypy.zip flypy.conf flypy.dict flypy.txt
+
 .PHONY: install clean

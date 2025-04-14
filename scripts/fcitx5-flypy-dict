@@ -56,6 +56,7 @@ def main():
         print(f'^{code[:2]} {word}')
     for f in (
         'flypy.user.top',
+        'flypy.user.top.sync',
         # 'flypy.full.top',
         'flypy.fast.symbols',
         'flypy.primary',
@@ -65,14 +66,19 @@ def main():
         'flypy.emoji',
         'flypy.symbols',
         'flypy.wechat',
-        # 'flypy.secondary.short.code',
-        'flypy.primary.short.word',
+        'flypy.secondary.short.code',
+        # 'flypy.primary.short.word',
         'flypy.whimsicality',
         # 'flypy.full.char',
         # 'flypy.full',
-        'flypy.user'
+        'flypy.user',
+        'flypy.user.sync'
     ):
-        for code, word in yaml_file(Path('flypy') / f'{f}.dict.yaml'):
+        # 检查文件是否存在，对于以.sync结尾的文件如果不存在则跳过
+        file_path = Path('flypy') / f'{f}.dict.yaml'
+        if f.endswith('.sync') and not (root / file_path).exists():
+            continue
+        for code, word in yaml_file(file_path):
             print(f'{code} {word}')
 
 
