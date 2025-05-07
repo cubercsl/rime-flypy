@@ -1,7 +1,7 @@
 # 微信表情
 ---
 name: flypy.wechat
-version: "10.12"
+version: "10.13"
 use_preset_vocabulary: false
 ...
 [破涕为笑]	owxk
@@ -11,13 +11,17 @@ use_preset_vocabulary: false
 [色]	owse
 [发呆]	owfd
 [得意]	owdy
-[流泪]	owll
+[流汗]	owlh
+[流泪]	owdk
+[坏笑]	owhx
 [害羞]	owhx
 [闭嘴]	owbz
 [睡]	owuv
-[大哭]	owdk
+[大哭]	owll
+[鼓掌]	owgv
 [尴尬]	owgg
 [发怒]	owfn
+[偷笑]	owtx
 [调皮]	owtp
 [呲牙]	owcy
 [惊讶]	owjy
@@ -25,28 +29,25 @@ use_preset_vocabulary: false
 [囧]	owjs
 [抓狂]	owvk
 [吐]	owtu
-[偷笑]	owtx
+[晕]	owyy
 [愉快]	owyk
 [白眼]	owby
 [傲慢]	owam
+[抠鼻]	owkb
 [困]	owky
 [惊恐]	owjk
-[流汗]	owlh
 [憨笑]	owhx
 [悠闲]	owyx
 [奋斗]	owfd
 [咒骂]	owvm
 [疑问]	owyw
 [嘘]	owxu
-[晕]	owyy
 [衰]	owuk
 [骷髅]	owkl
+[强]	owql
 [敲打]	owqd
 [再见]	owzj
 [擦汗]	owch
-[抠鼻]	owkb
-[鼓掌]	owgv
-[坏笑]	owhx
 [左哼哼]	owhh
 [右哼哼]	owhh
 [哈欠]	owhq
@@ -72,7 +73,6 @@ use_preset_vocabulary: false
 [月亮]	owyl
 [太阳]	owty
 [拥抱]	owyb
-[强]	owql
 [弱]	owro
 [握手]	owwu
 [胜利]	owul
@@ -105,7 +105,7 @@ use_preset_vocabulary: false
 [福]	owfu
 [翻白眼]	owby
 [666]	owll
-[让我看看]	owkk
+[让我看看]	owtk
 [叹气]	owtq
 [苦涩]	owks
 [裂开]	owlk
@@ -114,7 +114,6 @@ use_preset_vocabulary: false
 [脸红]	owlh
 [恐惧]	owkj
 [失望]	owuw
-[天啊]	owtn
 [好的]	owhd
 [合十]	owhu
 [庆祝]	owqv

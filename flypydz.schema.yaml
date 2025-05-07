@@ -4,9 +4,9 @@
 schema:
   schema_id: flypydz
   name: 小鹤音形反查
-  version: "20240724"
+  version: "10.13"
   author:
-    - 方案设计：何海峰 <flypy@qq.com>
+    - 方案设计：何海峰 flypy.cc
   description: |
     小鹤音形输入法反查词库
 

@@ -4,9 +4,9 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "10.12"
+  version: "10.13"
   author:
-    - 方案设计：何海峰 <flypy@qq.com>
+    - 方案设计：何海峰 flypy.cc
   description: |
     小鹤音形输入法
   dependencies:

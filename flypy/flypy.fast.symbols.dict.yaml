@@ -1,7 +1,7 @@
 # 快符
 ---
 name: flypy.fast.symbols
-version: "10.12"
+version: "10.13"
 use_preset_vocabulary: false
 ...
 ：	;

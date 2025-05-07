@@ -1,32 +1,9 @@
 # 次选字词
 ---
 name: flypy.secondary
-version: "10.12"
+version: "10.13"
 use_preset_vocabulary: false
 ...
-饥渴	jike
-指导	vidc
-以下	yixx
-一致	yivi
-知识	viui
-二十	erui
-称为	igww
-消失	xnui
-兼职	jmvi
-人物	rfwu
-实践	uijm
-水瓶	uvpk
-实施	uiui
-深思	ufsi
-美洲	mwvz
-练习	lmxi
-先进	xmjb
-旗舰	qijm
-机器	jiqi
-智慧	vihv
-一篇	yipm
-渐	jmdj
-绩	jisr
 簟	dmv
 镞	zuj
 榇	ifmm
@@ -67,6 +44,7 @@ use_preset_vocabulary: false
 俯	fur
 弗	fuv
 槁	gcm
+锆	gcj
 阁	gem
 汞	gsg
 蛄	guik
@@ -82,8 +60,8 @@ use_preset_vocabulary: false
 烀	huh
 烩	hvh
 骅	hxm
-楂	iam
 焯	ich
+楂	iam
 梣	ifm
 氅	ihx
 怅	ihxi
@@ -112,9 +90,9 @@ use_preset_vocabulary: false
 溅	jmd
 监	jml
 槛	jmm
+敫	jnb
 僭	jmr
 戬	jmy
-敫	jnb
 醮	jny
 诘	jpy
 疚	jqb
@@ -397,7 +375,6 @@ use_preset_vocabulary: false
 关节炎	gjy
 感兴趣	gxq
 刽子手	gzu
-回归线	hgx
 含金量	hjl
 花架子	hjz
 出发点	ifd
@@ -482,8 +459,6 @@ use_preset_vocabulary: false
 包邮	bcyz
 不打不相识	bdbu
 摆放	bdfh
-不到黄河心不死	bdhs
-不当家不知柴米贵	bdjg
 拜见	bdjm
 博大精深	bdju
 不得已而为之	bdyv
@@ -562,7 +537,6 @@ use_preset_vocabulary: false
 报喜不报忧	bxby
 百依百顺	bybu
 比翼齐飞	byqf
-必有一失	byyu
 刺客	cike
 赐予	ciyu
 挫伤	couh
@@ -928,7 +902,6 @@ use_preset_vocabulary: false
 久远	jqyr
 迥然不同	jrbt
 尽人皆知	jrjv
-尽人事听天命	jrum
 见势不妙	jubm
 井水不犯河水	jubu
 精神抖擞	juds
@@ -1047,7 +1020,6 @@ use_preset_vocabulary: false
 满腹经纶	mfjl
 每分每秒	mfmm
 马革裹尸	mggu
-卖国求荣	mgqr
 目光如炬	mgrj
 蒙受	mguz
 梦乡	mgxl
@@ -1369,8 +1341,8 @@ use_preset_vocabulary: false
 职称	viig
 支出	viiu
 纸巾	vijb
-致敬	vijk
 支架	vijx
+致敬	vijk
 争长论短	vild
 智力	vili
 知名	vimk
@@ -1389,7 +1361,6 @@ use_preset_vocabulary: false
 战士	vjui
 朝九晚五	vjww
 战友	vjyz
-竹篮打水一场空	vldk
 直来直去	vlvq
 珍禽异兽	vqyu
 众人拾柴火焰高	vrug
@@ -1449,6 +1420,7 @@ use_preset_vocabulary: false
 蜈蚣	wugs
 无故	wugu
 为时过早	wugz
+万事俱备	wujb
 无理	wuli
 忤逆	wuni
 万水千山	wuqu
@@ -1470,7 +1442,6 @@ use_preset_vocabulary: false
 歪歪扭扭	wwnn
 围棋	wwqi
 弯弯曲曲	wwqq
-弯弯绕绕	wwrr
 玩物丧志	wwsv
 完完整整	wwvv
 唯物主义	wwvy
@@ -1538,7 +1509,6 @@ use_preset_vocabulary: false
 写字	xpzi
 贤妻良母	xqlm
 小桥流水	xqlu
-休整	xqvg
 心如刀绞	xrdj
 血型	xtxk
 血液	xtye

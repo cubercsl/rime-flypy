@@ -1,7 +1,7 @@
 # 三码填空
 ---
 name: flypy.three
-version: "10.12"
+version: "10.13"
 use_preset_vocabulary: false
 ...
 截个屏	jgp
@@ -605,7 +605,7 @@ AA制	aav
 等同	dgt
 等下	dgx
 档案	dha
-当地	dhd
+𬍡	dhd
 读后感	dhg
 打哈哈	dhh
 当口	dhk
@@ -2327,7 +2327,7 @@ AA制	aav
 漏网	lzw
 𬶟	laa
 麻痹	mab
-妈的	mad
+骂道	mad
 马虎	mah
 麻将	maj
 马路	mal
@@ -2914,7 +2914,7 @@ AA制	aav
 泡个澡	pgz
 排行榜	phb
 胖乎乎	phh
-平衡木	phm
+旁门	phm
 胖妞	phn
 旁听	pht
 旁证	phv
@@ -3315,7 +3315,7 @@ AA制	aav
 人来疯	rlf
 人流量	rll
 揉了揉	rlr
-人类学	rlx
+人离乡贱	rlx
 人民币	rmb
 软绵绵	rmm
 忍耐力	rnl
@@ -3903,7 +3903,6 @@ AA制	aav
 听不出	tbi
 𬯎	tve
 𬘩	tks
-人生自古谁无死	urzs
 傻瓜	uag
 杀害	uah
 沙滩	uat
@@ -3938,7 +3937,7 @@ AA制	aav
 筛糠	udk
 十多年	udn
 十多人	udr
-手电筒	udt
+十多天	udt
 山东省	udu
 筛选	udx
 设备	ueb
@@ -3983,7 +3982,6 @@ AA制	aav
 率先	ukx
 社科院	uky
 双倍	ulb
-十里不同音	ubly
 双层	ulc
 双耳	ule
 双方	ulf
@@ -4095,7 +4093,7 @@ AA制	aav
 啥意思	uys
 收银台	uyt
 是一种	uyv
-是因为	uyw
+顺位	uyw
 试一下	uyx
 顺嘴	uyz
 收藏	uzc
@@ -4364,7 +4362,7 @@ AA制	aav
 外观	wdg
 外汇	wdh
 外出	wdi
-歪曲	wdq
+外墙	wdq
 外孙	wds
 外套	wdt
 五大洲	wdv
@@ -4661,7 +4659,6 @@ AA制	aav
 秀才造反，三年不成	xcz
 媳妇熬成婆	xfa
 相逢何必曾相识	xfh
-香港科技大学	xgk
 鲜花插在牛粪上	xhi
 新疆维吾尔自治区	xjw
 销案	xna
@@ -4759,7 +4756,7 @@ AA制	aav
 一两年	yln
 娱乐圈	ylq
 一两天	ylt
-原来是	ylu
+一路上	ylu
 意料中	ylv
 一揽子	ylz
 有毛病	ymb
@@ -4791,7 +4788,7 @@ AA制	aav
 用起来	yql
 雨凄凄	yqq
 尤其是	yqu
-有气质	yqv
+与其这样	yqv
 缘故	yrg
 圆滑	yrh
 愚人节	yrj
@@ -4802,7 +4799,6 @@ AA制	aav
 用品	ysp
 月报	ytb
 月份	ytf
-月光	ytg
 月初	yti
 一条路	ytl
 月内	ytn
