@@ -1,8 +1,8 @@
 # Rime dictionary
 
 ---
-name: flypy.primary
-version: "10.13"
+name: flypy.table
+version: "10.13.2"
 ...
 
 啊	a
@@ -29394,7 +29394,7 @@ IP地址	ipdv
 聋子	lsz
 笼子	lszi
 傈僳族	lszu
-聊天	lt
+两天	lt
 两头不讨好	ltbh
 略表	ltbn
 两头不是人	ltbr
@@ -31693,7 +31693,7 @@ IP地址	ipdv
 毛毛虫	mmis
 免除	mmiu
 美梦成真	mmiv
-满目疮痍	mmiy
+漫漫长夜	mmiy
 面筋	mmjb
 面面俱到	mmjd
 灭门绝户	mmjh
@@ -41703,7 +41703,7 @@ PPT	ppt
 所在	sozd
 梭子	sozi
 所做	sozo
-索赔	sp
+碎片	sp
 四平八稳	spbw
 撒泼打滚	spdg
 斯普林菲尔德	spld
@@ -41947,7 +41947,7 @@ PPT	ppt
 松子	sszi
 送	sszt
 送走	sszz
-随他	st
+三天	st
 四通八达	stbd
 四体不勤	stbq
 三天不打，上房揭瓦	stbw

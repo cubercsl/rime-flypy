@@ -1,7 +1,7 @@
 # 次选字词
 ---
 name: flypy.secondary
-version: "10.13"
+version: "10.13.2"
 use_preset_vocabulary: false
 ...
 簟	dmv
@@ -290,6 +290,7 @@ use_preset_vocabulary: false
 举例	jl
 极其	jq
 假如	jr
+几天	jt
 即使	ju
 极致	jv
 极为	jw
@@ -1032,6 +1033,7 @@ use_preset_vocabulary: false
 名落孙山	mlsu
 懵懵懂懂	mmdd
 满面春风	mmif
+满目疮痍	mmiy
 忙忙碌碌	mmll
 莫名其妙	mmqm
 勉勉强强	mmqq
@@ -1740,6 +1742,5 @@ use_preset_vocabulary: false
 坐实	zoui
 坐失良机	zulj
 足矣	zuyi
-嘴上一套	zuyt
 载誉归来	zygl
 自怨自艾	zyzy

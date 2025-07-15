@@ -1,14 +1,13 @@
 # 随心   自定编码规则，零星调节重码或别扭码
 ---
 name: flypy.whimsicality
-version: "10.13"
+version: "10.13.2"
 use_preset_vocabulary: false
 ...
 单元	dye
 记忆	jyx
 指挥	vhf
 回忆	hyx
-距离	jlw
 指示	vue
 哲理	vlw
 音形	yxk
@@ -16,6 +15,7 @@ use_preset_vocabulary: false
 觉得	jdi
 简洁	jjd
 精力	jlv
+距离	jlw
 梳理	ulw
 事实	uub
 基于	jya

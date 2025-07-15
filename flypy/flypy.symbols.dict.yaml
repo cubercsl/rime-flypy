@@ -1,7 +1,7 @@
 # 符号
 ---
 name: flypy.symbols
-version: "10.13"
+version: "10.13.2"
 use_preset_vocabulary: false
 ...
 一	oba	111

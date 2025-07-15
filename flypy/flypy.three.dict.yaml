@@ -1,7 +1,7 @@
 # 三码填空
 ---
 name: flypy.three
-version: "10.13"
+version: "10.13.2"
 use_preset_vocabulary: false
 ...
 截个屏	jgp
@@ -3577,7 +3577,7 @@ AA制	aav
 碎了	svl
 虽能	svn
 碎片	svp
-随同	svt
+随他	svt
 随着	svv
 随心	svx
 孙悟空	swk

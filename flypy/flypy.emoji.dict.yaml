@@ -1,7 +1,7 @@
 # emoji表情
 ---
 name: flypy.emoji
-version: "10.13"
+version: "10.13.2"
 use_preset_vocabulary: false
 ...
 😊	oi
