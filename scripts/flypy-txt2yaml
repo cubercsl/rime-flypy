@@ -57,8 +57,8 @@ def main(version: str) -> None:
                     if key in mapper:
                         print(key)
                         cur = dictionary[mapper[key]]
-                elif cur is not None and line.strip():
-                    cur.append(line.strip())
+                elif cur is not None and line.rstrip():
+                    cur.append(line.rstrip())
 
     dictionary['user'] = []
     dictionary['user.top'] = []

@@ -1,7 +1,7 @@
 # 三码填空
 ---
 name: flypy.three
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 截个屏	jgp
@@ -42,7 +42,7 @@ use_preset_vocabulary: false
 挨打	aid
 爱国	aig
 爱好	aih
-哀愁	aii
+暗戳戳	aii
 按常理	ail
 爱慕	aim
 爱情	aiq
@@ -659,6 +659,7 @@ AA制	aav
 刁蛮	dnm
 刁难	dnn
 调任	dnr
+掉色	dns
 掉头	dnt
 掉下	dnx
 掉在	dnz
@@ -1181,7 +1182,7 @@ AA制	aav
 观看	grk
 观念	grn
 关切	grq
-宫娥	gse
+共轭	gse
 功能	gsn
 供求	gsq
 公司	gss

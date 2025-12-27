@@ -1,7 +1,7 @@
 
 ---
 name: flypy
-version: "10.12"
+version: "10.13.11"
 sort: original
 import_tables:
   - 'flypy/flypy.user.top'                # 用户置顶词

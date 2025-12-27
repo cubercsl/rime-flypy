@@ -1,7 +1,7 @@
 # 符号
 ---
 name: flypy.symbols
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 一	oba	111
@@ -16,23 +16,24 @@ use_preset_vocabulary: false
 丷	obb	98
 疒	obb	97
 勹	obb	96
-比左部	obb	95
+比左	obb	95
 艹	obc	100
 廾	obc	99
 冫	obd	100
 氵	obd	99
-⺈	obd	98
-刂	obd	97
+刂	obd	98
+⺈	obd	97
 阝	obe	100
 卩	obe	99
 彐	obe	98
 山	obe	97
-见下部	obe	96
+见下	obe	96
 扌	obf	100
-寿带上部	obf	99
-龶	obf	98
-缶	obf	97
-既左部	obg	100
+龶	obf	99
+寿上	obf	98
+带上	obf	97
+缶	obf	96
+既左	obg	100
 艮	obg	99
 鬼	obg	98
 革	obg	96
@@ -40,7 +41,7 @@ use_preset_vocabulary: false
 灬	obh	100
 虍	obh	99
 黑	obh	98
-余下部	obh	97
+余下	obh	97
 彳	obi	100
 亍	obi	99
 虫	obi	98
@@ -65,7 +66,8 @@ use_preset_vocabulary: false
 衤	obp	99
 犭	obq	100
 求	obq	99
-具其上部	obq	98
+具上	obq	98
+其上	obq	97
 亻	obr
 纟	obs	100
 厶	obs	99
@@ -809,7 +811,6 @@ $	ofhb	99
 ε	ote	99
 ′	otf	100
 Φ	otf	99
-□	otf	98
 ■	otf	97
 √	otg	100
 γ	otg	99
@@ -820,7 +821,7 @@ $	ofhb	99
 ÷	oti	99
 ＋	otj	100
 －	otj	99
-♪	otk	100
+⤴	otk	100
 ␣	otk	99
 ∅	otk	98
 m³	otl	100
@@ -859,45 +860,42 @@ m³	otl	100
 ☆	otx	94
 ★	otx	93
 £	oty	100
-ü	oty	99
 ≈	oty	98
-○	oty	97
 ●	oty	96
-»	otz	100
-➔	otz	99
-⇒	otz	98
-➤	otz	97
-ā	oha	100
-á	oha	99
-ǎ	oha	98
-à	oha	97
-ō	oho	100
-ó	oho	99
-ǒ	oho	98
-ò	oho	97
-ē	ohe	100
-é	ohe	99
-ě	ohe	98
-è	ohe	97
-ê	ohe	96
-ī	ohi	100
-í	ohi	99
-ǐ	ohi	98
-ì	ohi	97
-ū	ohu	100
-ú	ohu	99
-ǔ	ohu	98
-ù	ohu	97
-ü	ohv	100
-ǖ	ohv	99
-ǘ	ohv	98
-ǚ	ohv	97
-ǜ	ohv	96
-ḿ	ohm	100
-m̀	ohm	99
-ń	ohn	100
-ň	ohn	99
-ǹ	ohn	98
+↑	otz	100
+↓	otz	99
+←	otz	98
+ā	opa	100
+á	opa	99
+ǎ	opas	98
+à	opas	97
+ō	opo	100
+ó	opo	99
+ǒ	opos	98
+ò	opos	97
+ē	ope	100
+é	ope	99
+ě	opes	98
+è	opes	97
+ê	ope	96
+ī	opi	100
+í	opi	99
+ǐ	opis	98
+ì	opis	97
+ū	opu	100
+ú	opu	99
+ǔ	opus	98
+ù	opus	97
+ǖ	opv	99
+ǘ	opv	98
+ü	opv	97
+ǚ	opvs	97
+ǜ	opvs	96
+ḿ	opm	100
+m̀	opm	99
+ń	opn	100
+ň	opn	99
+ǹ	opn	98
 凹	oxa
 百	oxb	100
 白	oxb	99

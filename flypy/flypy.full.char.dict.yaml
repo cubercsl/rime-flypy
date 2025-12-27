@@ -1,7 +1,7 @@
 # 全码字
 ---
 name: flypy.full
-version: "10.13"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 嶅	aofe
@@ -128,6 +128,7 @@ use_preset_vocabulary: false
 竫	jkll
 枸	jumk
 椐	jumk
+秬	juhj
 蜐	jpil
 𫓹	jijb
 耤	jilo
@@ -268,6 +269,7 @@ use_preset_vocabulary: false
 炻	uihu
 鄯	ujye
 芟	ujcy
+剡	ujhd
 数	uomw
 眚	uguo
 𬳽	ufme
@@ -336,7 +338,6 @@ use_preset_vocabulary: false
 痃	xrby
 旴	xuoy
 诇	xsyk
-肸	xiou
 钘	xkjk
 俙	xirj
 饻	xiuy
@@ -838,6 +839,7 @@ use_preset_vocabulary: false
 会	hvrs
 灰	hvuh
 悔	hvxm
+绘	hvss
 滑	hxdg
 划	hxgd
 桦	hxmu
@@ -958,7 +960,6 @@ use_preset_vocabulary: false
 荆	jkcd
 绢	jrso
 柩	jqmj
-炬	juhj
 挤	jifl
 眷	jrjo
 监	jmlm
@@ -1082,11 +1083,13 @@ use_preset_vocabulary: false
 玑	jiwj
 腈	jkoo
 憬	jkxx
+净	jkdl
 柬	jman
 僭	jmro
 戬	jmyg
 谏	jmyj
 窖	jnbk
+敫	jnbw
 峤	jnel
 铰	jnjx
 醮	jnyh
@@ -1333,6 +1336,7 @@ use_preset_vocabulary: false
 凝	nkdr
 撵	nmfi
 黏	nmhk
+溺	nndd
 农	nsdn
 哪	nwke
 妞	nqni
@@ -1364,6 +1368,7 @@ use_preset_vocabulary: false
 萍	pkcp
 扁	pmhc
 票	pnxx
+飘	pnxx
 蒲	pucf
 莆	pucf
 瀑	pudu
@@ -1552,6 +1557,7 @@ use_preset_vocabulary: false
 隃	uued
 椹	ufmv
 闪	ujmr
+衫	ujpp
 沙	uadu
 杉	uamp
 稍	ucho
@@ -1620,6 +1626,7 @@ use_preset_vocabulary: false
 潸	ujdo
 舢	ujve
 山	ujlk
+摔	ukfu
 蒴	uoco
 束	uuan
 黍	uuhu

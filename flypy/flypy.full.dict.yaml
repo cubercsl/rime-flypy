@@ -1,7 +1,7 @@
 # 全码词 居后
 ---
 name: flypy.full
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 刻意	keyi
@@ -60,6 +60,7 @@ use_preset_vocabulary: false
 波音	boyb
 憋屈	bpqu
 背部	bwbu
+杯子	bwzi
 猜忌	cdji
 伺候	cihz
 餐馆	cjgr
@@ -85,7 +86,6 @@ use_preset_vocabulary: false
 跌价	dpjx
 断点	drdm
 短篇	drpm
-短线	drxm
 动机	dsji
 独唱	duih
 独自	duzi
@@ -165,8 +165,8 @@ use_preset_vocabulary: false
 出于	iuyu
 春节	iyjp
 踌躇	iziu
-极为	jiww
 浆糊	jlhu
+极为	jiww
 奖金	jljb
 剑鞘	jmqn
 监听	jmtk
@@ -194,7 +194,6 @@ use_preset_vocabulary: false
 乱象	lrxl
 聋子	lszi
 履行	lvxk
-论剑	lyjm
 毛线	mcxm
 毛衣	mcyi
 迈过	mdgo
@@ -213,7 +212,6 @@ use_preset_vocabulary: false
 美食	mwui
 年级	nmji
 碾碎	nmsv
-农妇	nsfu
 奴隶	nuli
 内侧	nwce
 内里	nwli
@@ -242,7 +240,6 @@ use_preset_vocabulary: false
 若是	roui
 乳汁	ruvi
 入眼	ruyj
-扫货	scho
 私信	sixb
 司仪	siyi
 散布	sjbu
@@ -282,16 +279,13 @@ use_preset_vocabulary: false
 身姿	ufzi
 剩菜	ugcd
 升幅	ugfu
-生化	ughx
 生姜	ugjl
 生理	ugli
 声明	ugmk
-上场	uhih
 使馆	uigr
 使坏	uihk
 闪亮	ujll
 说道	uodc
-书摊	uutj
 书信	uuxb
 水利	uvli
 收到	uzdc
@@ -307,7 +301,6 @@ use_preset_vocabulary: false
 债券	vdqr
 宅子	vdzi
 哲理	veli
-正途	vgtu
 只管	vigr
 值钱	viqm
 质问	viwf
@@ -345,7 +338,6 @@ use_preset_vocabulary: false
 幸好	xkhc
 行程	xkig
 性急	xkji
-醒了	xkle
 兴致	xkvi
 想必	xlbi
 享福	xlfu
@@ -356,7 +348,6 @@ use_preset_vocabulary: false
 巷子	xlzi
 消化	xnhx
 泄漏	xplz
-雄起	xsqi
 兄长	xsvh
 雄伟	xsww
 续保	xubc
@@ -421,7 +412,6 @@ use_preset_vocabulary: false
 每期	mwqi
 没人	mwrf
 赏赐	uhci
-谁知	uvvi
 稳健	wfjm
 拥护	yshu
 宗师	zsui
@@ -435,6 +425,7 @@ use_preset_vocabulary: false
 白日飞升	brfu
 不着边际	bvbj
 嘟嘟囔囔	ddnn
+恶言相向	eyxx
 分门别类	fmbl
 飞扬跋扈	fybh
 隔岸观火	gagh
@@ -446,7 +437,6 @@ use_preset_vocabulary: false
 济济一堂	jjyt
 迷迷糊糊	mmhh
 美若天仙	mrtx
-卖主求荣	mvqr
 破破烂烂	ppll
 千娇百媚	qjbm
 人欢马叫	rhmj
@@ -454,7 +444,6 @@ use_preset_vocabulary: false
 条条框框	ttkk
 甜甜蜜蜜	ttmm
 头痛欲裂	ttyl
-首当其冲	udqi
 深情厚谊	uqhy
 时日无多	urwd
 食色性也	usxy
@@ -473,7 +462,6 @@ use_preset_vocabulary: false
 自取其辱	zqqr
 在情在理	zqzl
 百思不得其解	bsbj
-狗咬吕洞宾	gylb
 横挑鼻子竖挑眼	htby
 回头一笑百媚生	htyu
 吃香的喝辣的	ixdd
@@ -482,7 +470,6 @@ use_preset_vocabulary: false
 十年生死两茫茫	unum
 睁只眼闭只眼	vvyy
 无规矩不成方圆	wgjy
-香港中文大学	xgvx
 一亩三分地	ymsd
 一年之计在于春	ynvi
 远亲不如近邻	yqbl

@@ -1,7 +1,7 @@
 # 次选字词
 ---
 name: flypy.secondary
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 簟	dmv
@@ -61,7 +61,6 @@ use_preset_vocabulary: false
 烩	hvh
 骅	hxm
 焯	ich
-楂	iam
 梣	ifm
 氅	ihx
 怅	ihxi
@@ -90,9 +89,9 @@ use_preset_vocabulary: false
 溅	jmd
 监	jml
 槛	jmm
-敫	jnb
 僭	jmr
 戬	jmy
+敫	jnb
 醮	jny
 诘	jpy
 疚	jqb
@@ -238,7 +237,6 @@ use_preset_vocabulary: false
 醛	qryw
 什	uir
 姝	uun
-楂	vam
 蜇	vef
 嵬	wweg
 烜	xrh
@@ -453,7 +451,6 @@ use_preset_vocabulary: false
 报到	bcdc
 包袱	bcfu
 包抄	bcic
-暴涨	bcvh
 悲从中来	bcvl
 保卫	bcww
 不辞辛劳	bcxl
@@ -594,6 +591,7 @@ use_preset_vocabulary: false
 东施效颦	duxp
 洞烛其奸	dvqj
 地主之谊	dvvy
+砥柱中流	dvvl
 斗转星移	dvxy
 丢卒保车	dzbj
 斗笠	dzli
@@ -611,9 +609,6 @@ use_preset_vocabulary: false
 奉公守法	fguf
 凤冠霞帔	fgxp
 反戈一击	fgyj
-防盗	fhdc
-放火	fhho
-防患	fhhr
 纺织	fhvi
 防患于未然	fhyr
 分久必合	fjbh
@@ -628,7 +623,6 @@ use_preset_vocabulary: false
 付钱	fuqm
 富饶	furc
 粉饰太平	futp
-负数	fuuu
 复现	fuxm
 放手一搏	fuyb
 赋予	fuyu
@@ -641,6 +635,7 @@ use_preset_vocabulary: false
 古道热肠	gdri
 功到自然成	gdzi
 狗改不了吃屎	ggbu
+归根到底	ggdd
 公共场合	ggih
 规规矩矩	ggjj
 功高震主	ggvv
@@ -670,7 +665,6 @@ use_preset_vocabulary: false
 公益	gsyi
 古董	guds
 骨骼	guge
-顾忌	guji
 孤立	guli
 果实累累	gull
 高山流水	gulu
@@ -761,7 +755,6 @@ use_preset_vocabulary: false
 滑翔	hxxl
 忽隐忽现	hyhx
 慧眼如炬	hyrj
-婚俗	hysu
 慧眼识珠	hyuv
 红颜知己	hyvj
 好逸恶劳	hywl
@@ -772,7 +765,6 @@ use_preset_vocabulary: false
 船到江心补漏迟	idji
 差遣	idqm
 扯上	ieuh
-常委	ihww
 春风化雨	ifhy
 超凡入圣	ifru
 超凡脱俗	ifts
@@ -825,7 +817,6 @@ use_preset_vocabulary: false
 进修	jbxq
 敬而远之	jeyv
 家常便饭	jibf
-家丑不可外扬	jiby
 嫉妒	jidu
 绝处逢生	jifu
 籍贯	jigr
@@ -866,7 +857,7 @@ use_preset_vocabulary: false
 坚固	jmgu
 监察	jmia
 见解	jmjp
-间距	jmju
+艰巨	jmju
 假模假样	jmjy
 贱人	jmrf
 肩上	jmuh
@@ -875,7 +866,7 @@ use_preset_vocabulary: false
 艰辛	jmxb
 奸细	jmxi
 监狱	jmyu
-教诲	jnhv
+交汇	jnhv
 较劲	jnjb
 搅和	jnho
 焦急	jnji
@@ -910,7 +901,6 @@ use_preset_vocabulary: false
 尽善尽美	jujm
 举手投足	jutz
 江山社稷	juuj
-矩形	juxk
 计上心来	juxl
 假手于人	juyr
 据为己有	jwjy
@@ -920,7 +910,7 @@ use_preset_vocabulary: false
 居心何在	jxhz
 尽心尽力	jxjl
 加剧	jxju
-渐行渐远	jxjy
+将信将疑	jxjy
 假惺惺	jxxk
 假象	jxxl
 甲乙	jxyi
@@ -928,7 +918,6 @@ use_preset_vocabulary: false
 郡主	jyvu
 军衔	jyxm
 锦衣夜行	jyyx
-均由	jyyz
 苦不堪言	kbky
 开刀	kddc
 苦大仇深	kdiu
@@ -939,7 +928,6 @@ use_preset_vocabulary: false
 颗粒无收	klwu
 口诛笔伐	kvbf
 开枝散叶	kvsy
-可以燎原	kyly
 枯燥乏味	kzfw
 聊表寸心	lbcx
 连本带利	lbdl
@@ -1023,7 +1011,6 @@ use_preset_vocabulary: false
 马革裹尸	mggu
 目光如炬	mgrj
 蒙受	mguz
-梦乡	mgxl
 卖官鬻爵	mgyj
 盟友	mgyz
 糜烂	milj
@@ -1095,7 +1082,6 @@ use_preset_vocabulary: false
 气喘吁吁	qixx
 欺压	qiya
 起义	qiyi
-青出于蓝而胜于蓝	qiyl
 契约	qiyt
 棋子	qizi
 轻敌	qkdi
@@ -1131,7 +1117,6 @@ use_preset_vocabulary: false
 前言	qmyj
 欠揍	qmzz
 窍门	qnmf
-全盘托出	qpti
 清清白白	qqbb
 清清淡淡	qqdd
 起起伏伏	qqff
@@ -1147,7 +1132,6 @@ use_preset_vocabulary: false
 千挑万选	qtwx
 情投意合	qtyh
 七手八脚	qubj
-秋收冬藏	qudc
 强身健体	qujt
 前世今生	quju
 青山绿水	qulu
@@ -1200,10 +1184,8 @@ use_preset_vocabulary: false
 涂脂抹粉	tvmf
 他山之石	tuvu
 铁石心肠	tuxi
-退换	tvhr
 弹指一挥间	tvyj
 通宵达旦	txdd
-兔子不吃窝边草	tzbc
 天造地设	tzdu
 天姿国色	tzgs
 舍不得孩子套不住狼	ubdl
@@ -1317,7 +1299,6 @@ use_preset_vocabulary: false
 收支	uzvi
 首位	uzww
 收养	uzyh
-手艺	uzyi
 招摇	vcyc
 照单全收	vdqu
 掷地有声	vdyu
@@ -1329,7 +1310,6 @@ use_preset_vocabulary: false
 指腹为婚	vfwh
 正解	vgjp
 政权	vgqr
-正数	vguu
 争执	vgvi
 中规中矩	vgvj
 至高无上	vgwu
@@ -1353,7 +1333,6 @@ use_preset_vocabulary: false
 制止	vivi
 支柱	vivu
 职务	viwu
-志向	vixl
 直辖	vixx
 枝丫	viya
 质疑	viyi
@@ -1562,7 +1541,6 @@ use_preset_vocabulary: false
 隐匿	ybni
 一表人才	ybrc
 用兵如神	ybru
-要不要紧	ybyj
 隐约	ybyt
 阴郁	ybyu
 有板有眼	ybyy
@@ -1610,6 +1588,7 @@ use_preset_vocabulary: false
 俨然	yjrj
 延伸	yjuf
 掩饰	yjui
+也就是说	yjuu
 炎症	yjvg
 一技之长	yjvi
 一己之私	yjvs
@@ -1626,7 +1605,7 @@ use_preset_vocabulary: false
 由来已久	ylyj
 榆木疙瘩	ymgd
 有模有样	ymyy
-有情人终成眷属	yqru
+以其人之道，还治其人之身	yqru
 于情于理	yqyl
 阴晴圆缺	yqyq
 有权有势	yqyu
@@ -1735,7 +1714,6 @@ use_preset_vocabulary: false
 自驾	zijx
 姿色	zise
 紫砂	ziua
-自助	zivu
 自愿	ziyr
 自成一家	ziyj
 自成一体	ziyt

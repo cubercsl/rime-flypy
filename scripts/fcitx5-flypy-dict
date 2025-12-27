@@ -13,6 +13,7 @@
 #
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
 
+import sys
 from pathlib import Path
 
 root = Path(__file__).parent.parent
@@ -33,8 +34,11 @@ def yaml_file(name):
         for line in f:
             line = line.strip()
             if data and line:
-                token, code, *_ = line.split()
-                yield code, token
+                try:
+                    token, code, *_ = line.split()            
+                    yield code, token
+                except Exception:
+                    print(f"Error parsing line: {line}, ignore.", file=sys.stderr)
             if not data and line == '...':
                 data = True
 

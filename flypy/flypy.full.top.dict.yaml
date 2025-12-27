@@ -1,7 +1,7 @@
 # 全码词 置顶
 ---
 name: flypy.full.top
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 修正	xqvg
@@ -38,3 +38,4 @@ use_preset_vocabulary: false
 想想	xlxl
 按到	andc
 微软	wwrr
+事半功倍	ubgb

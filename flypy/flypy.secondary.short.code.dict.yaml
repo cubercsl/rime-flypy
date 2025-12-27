@@ -1,7 +1,7 @@
 # 二重简码： 一二简次选字
 ---
 name: flypy.secondary.short.code
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 又	y
@@ -38,15 +38,14 @@ use_preset_vocabulary: false
 程	ig
 臭	iz
 见	j
-今	jb
 极	ji
 贱	jm
 佳	jx
 块	k	99
 抠	kz
 立	l	99
-溜	lq
 捋	lv
+溜	lq
 嘛	m
 骂	ma
 美	mw

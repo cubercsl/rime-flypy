@@ -1,7 +1,7 @@
 # 一简词
 ---
 name: flypy.primary.short.word
-version: "10.13.2"
+version: "10.13.11"
 use_preset_vocabulary: false
 ...
 安装	a
