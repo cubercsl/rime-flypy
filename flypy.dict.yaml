@@ -1,7 +1,7 @@
 
 ---
 name: flypy
-version: "10.13.11"
+version: "10.26.1"
 sort: original
 import_tables:
   - 'flypy/flypy.user.top'                # 用户置顶词
@@ -14,8 +14,8 @@ import_tables:
   - 'flypy/flypy.emoji'                   # 表情
   - 'flypy/flypy.symbols'                 # 符号
   - 'flypy/flypy.wechat'                  # 微信表情
-  # - 'flypy/flypy.secondary.short.code'  # 二重简码
-  - 'flypy/flypy.primary.short.word'      # 一简词
+  # - 'flypy/flypy.secondary.short.code'  # 二简次选
+  - 'flypy/flypy.primary.short.word'      # 一简次选
   - 'flypy/flypy.whimsicality'            # 随心所欲
   # - 'flypy/flypy.full.char'             # 全码字
   # - 'flypy/flypy.full'                  # 全码词

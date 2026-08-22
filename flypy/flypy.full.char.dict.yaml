@@ -1,10 +1,11 @@
 # 全码字
 ---
-name: flypy.full
-version: "10.13.11"
+name: flypy.full.char
+version: "10.26.1"
 use_preset_vocabulary: false
 ...
 嶅	aofe
+薜	bicu
 襞	biuy
 邶	bwle
 萆	bicu
@@ -46,6 +47,7 @@ use_preset_vocabulary: false
 𨱏	dajk
 鿎	dauz
 澹	djdk
+箪	djvl
 羝	diyd
 𬭊	dujt
 姶	eenk
@@ -60,6 +62,7 @@ use_preset_vocabulary: false
 𫔍	fjjt
 祓	fupd
 𬸪	fjpn
+佛	furf
 榖	guuy
 牿	gunk
 嘏	guuy
@@ -74,13 +77,16 @@ use_preset_vocabulary: false
 㽏	gjdg
 句	gzbk
 觚	gudg
+𬌗	heyk
 縠	huuy
 翚	hvxi
 冱	hudh
+烀	huhh
 扞	hjfg
 烠	hvho
 浛	hjdk
 㿠	hlbw
+奂	hrdd
 镮	hrjy
 咍	hdkk
 瑝	hlww
@@ -92,17 +98,25 @@ use_preset_vocabulary: false
 嗥	hcku
 嚆	hckk
 觳	huuy
+囫	hukw
 浍	hvds
+诙	hvyh
 锪	hojx
 𬤝	hvyx
 𥻗	iama
+蜍	iuih
+柷	iume
 樗	iumk
+鸱	iidn
+榇	ifmm
 梴	ijmz
 刬	ijjd
+楂	iama
 摏	isfj
 斶	iuji
 襜	ijpk
 樘	igmt
+梣	ifmv
 煁	ifhv
 艟	isvl
 楮	iumo
@@ -116,6 +130,7 @@ use_preset_vocabulary: false
 剞	jidd
 锩	jrjv
 僬	jnrh
+醮	jnyh
 楗	jmmz
 伋	jirj
 岊	jpbe
@@ -157,10 +172,13 @@ use_preset_vocabulary: false
 赆	jbkd
 琎	jbwz
 𬣡	jmyj
+遽	juzu
 𬂩	jxmj
 匼	kekk
+贶	klke
 𫠆	kvur
 闿	kdmj
+喇	lakd
 悝	lixl
 舻	luvu
 蓠	licd
@@ -168,6 +186,7 @@ use_preset_vocabulary: false
 鬲	lial
 苈	licl
 呖	likl
+枥	liml
 朸	liml
 昽	lsol
 珕	liwl
@@ -184,16 +203,17 @@ use_preset_vocabulary: false
 碌	lquu
 簏	luvb
 铼	ldjl
-枥	liml
 漤	ljdn
 轹	liil
 𬭸	lbjl
 𬴊	lbml
 𬍛	liwl
+疠	libw
+椤	lomx
+湎	mmdm
 郿	mwve
 靺	mogm
 鹲	mgcn
-蟊	mcsi
 瘼	mobd
 鄚	mcce
 渼	mwdd
@@ -205,6 +225,7 @@ use_preset_vocabulary: false
 冯	pkdm
 帡	pkjk
 舥	pavb
+匏	pcds
 蒱	pucf
 簰	pdvu
 嚭	piuk
@@ -234,10 +255,12 @@ use_preset_vocabulary: false
 𬨂	qiiu
 讱	rfyr
 颥	ruyr
+颡	shyr
 凇	ssds
 𫗧	suuu
 凘	sidj
 飔	sijx
+觫	sudu
 穟	svhz
 尿	svuu
 溏	thdk
@@ -262,6 +285,7 @@ use_preset_vocabulary: false
 畬	uert
 鼫	uiju
 襫	uipb
+膻	djoa
 汤	uhdp
 艏	uzvz
 挲	uadu
@@ -274,10 +298,13 @@ use_preset_vocabulary: false
 眚	uguo
 𬳽	ufme
 𬬸	uuju
+楂	vama
 柞	vamv
+哳	vakj
 摭	vifh
 潴	vudo
 轾	viit
+帙	viju
 卮	vipv
 氏	vipv
 橥	vuqm
@@ -295,11 +322,13 @@ use_preset_vocabulary: false
 霅	vayk
 蠋	vuii
 浈	vfdr
+祗	vipd
 跖	vizu
 黹	viyd
 邾	vuve
 咤	vakq
 鄣	vhle
+𫗴	vjua
 舯	vsvv
 𬣞	vuya
 屯	vyav
@@ -315,15 +344,15 @@ use_preset_vocabulary: false
 珸	wuwk
 琟	wwwf
 硙	wwuj
-痦	wubk
+寤	wubk
 靰	wugw
 煟	wwho
 溦	wwdw
 鳂	wwan
 螱	wwui
 亹	wwwq
-洿	wudk
 浯	wudk
+洿	wudk
 鼯	wujk
 杌	wumw
 镡	xbju
@@ -336,6 +365,7 @@ use_preset_vocabulary: false
 螅	xiix
 榍	xpmo
 痃	xrby
+烜	xrha
 旴	xuoy
 诇	xsyk
 钘	xkjk
@@ -356,6 +386,7 @@ use_preset_vocabulary: false
 湑	xudo
 缐	xmsu
 瑆	xkwu
+庠	xlgy
 谖	xryy
 憙	xiux
 熻	xihx
@@ -376,6 +407,7 @@ use_preset_vocabulary: false
 𬹼	xpvl
 𬣙	xuyy
 𬘓	xysi
+尢	yzuv
 蝓	yuid
 艾	yicx
 匜	yiky
@@ -398,6 +430,7 @@ use_preset_vocabulary: false
 矞	yusk
 洢	yidy
 骃	ybmd
+狺	ybqk
 𫄧	yjsz
 烻	yjhz
 涢	yydr
@@ -446,11 +479,21 @@ use_preset_vocabulary: false
 㳚	xudu
 熨	yuuh
 镱	yijx
+奄	yjdd
 𬤇	ybyt
 𬬩	yijy
 虸	ziiz
 䎖	zgbx
 赀	zivr
+𫟷	lijl
+燠	yuhd
+酽	yjyy
+鹬	yusn
+躅	vuzi
+骱	jpgl
+鄢	yjve
+蠃	lowf
+殳	uujy
 𩽾	anan
 挨	aifu
 唉	aiku
@@ -513,6 +556,7 @@ use_preset_vocabulary: false
 标	bnmx
 卜	bold
 博	bouc
+别	bpkd
 捕	buff
 哺	bukf
 卜	buld
@@ -557,6 +601,7 @@ use_preset_vocabulary: false
 采	cdpm
 苍	chcv
 仓	chrv
+沧	chdv
 祠	cipk
 辞	ciqu
 残	cjdj
@@ -597,6 +642,7 @@ use_preset_vocabulary: false
 党	dhxe
 档	dhme
 殿	dmuy
+吊	dnkj
 涤	didm
 底	digd
 缔	disj
@@ -609,6 +655,7 @@ use_preset_vocabulary: false
 诞	djyz
 顶	dkdr
 订	dkyd
+叮	dkkd
 惦	dmxk
 刁	dnva
 夺	dodc
@@ -630,7 +677,6 @@ use_preset_vocabulary: false
 抖	dzfu
 都	dzle
 胆	djoa
-膻	djoa
 鞑	dagz
 妲	dana
 褡	dapk
@@ -640,7 +686,6 @@ use_preset_vocabulary: false
 氐	diud
 谛	diyj
 啖	djkh
-箪	djvl
 惮	djxl
 簟	dmvu
 凋	dndk
@@ -722,6 +767,7 @@ use_preset_vocabulary: false
 痱	fwbf
 唪	fgkl
 筏	favg
+轧	gaiv
 硌	geuk
 铬	gejk
 梗	ggmg
@@ -744,6 +790,7 @@ use_preset_vocabulary: false
 锅	gojn
 过	gozc
 官	grbk
+观	grye
 罐	grff
 棺	grmk
 惯	grxr
@@ -770,6 +817,7 @@ use_preset_vocabulary: false
 篙	gcvk
 稿	gchk
 庚	gggn
+埂	ggtg
 杠	ghmg
 淦	gjdj
 莞	grce
@@ -803,6 +851,7 @@ use_preset_vocabulary: false
 镐	hcjk
 害	hdbk
 还	hdzb
+氦	hdqr
 荷	heck
 河	hedk
 核	hemr
@@ -856,13 +905,11 @@ use_preset_vocabulary: false
 崡	hjek
 邯	hjge
 隍	hlew
-奂	hrdd
 豢	hrju
 蕻	hscb
 泓	hsds
 轰	hsiy
 斛	hudu
-烀	huhh
 怙	huxk
 烩	hvhs
 珲	hvwi
@@ -872,7 +919,6 @@ use_preset_vocabulary: false
 瘊	hzbu
 齁	hzzk
 黉	hsxb
-𬌗	heyk
 杻	izmi
 焯	ichu
 忡	isxv
@@ -880,7 +926,7 @@ use_preset_vocabulary: false
 蝉	ijil
 馋	ijud
 忏	ijxq
-梣	ifmv
+斥	iipd
 漦	iiwu
 噇	ilkl
 厨	iuic
@@ -893,6 +939,7 @@ use_preset_vocabulary: false
 超	ictk
 撤	iefw
 衬	ifpc
+谶	ifyj
 撑	igfu
 诚	igyi
 长	ihpn
@@ -922,7 +969,6 @@ use_preset_vocabulary: false
 镲	iajx
 喳	iaka
 碴	iaua
-楂	iama
 耖	iclu
 钗	idji
 沉	ifdj
@@ -933,7 +979,6 @@ use_preset_vocabulary: false
 徜	ihik
 氅	ihxm
 茌	iicu
-鸱	iidn
 嗤	iiki
 蚩	iivi
 浐	ijdi
@@ -944,7 +989,6 @@ use_preset_vocabulary: false
 舂	isfj
 种	ishv
 憧	isxl
-蜍	iuih
 绌	iusi
 怵	iuxu
 椿	iymo
@@ -1026,7 +1070,6 @@ use_preset_vocabulary: false
 焦	jnrh
 礁	jnuh
 酵	jnyz
-敫	jnbw
 接	jpfn
 洁	jpdk
 戒	jpgc
@@ -1092,7 +1135,6 @@ use_preset_vocabulary: false
 敫	jnbw
 峤	jnel
 铰	jnjx
-醮	jnyh
 桀	jpxm
 诘	jpyk
 截	jpuf
@@ -1103,16 +1145,15 @@ use_preset_vocabulary: false
 飓	jujb
 趄	jutq
 琚	juwk
-遽	juzu
 蛱	jxij
 镓	jxju
 枷	jxmk
 迦	jxzk
 麇	jygh
 竣	jylw
+军	jybi
 迳	jkzg
 醵	juyu
-骱	jpgl
 乩	jilv
 诳	klyw
 克	keue
@@ -1127,6 +1168,7 @@ use_preset_vocabulary: false
 棵	kemg
 坷	ketk
 刻	kewd
+牁	kepk
 炕	khhj
 馗	kvjz
 会	kkrs
@@ -1138,8 +1180,8 @@ use_preset_vocabulary: false
 咯	kakk
 尻	kcuj
 恪	kexk
-贶	klke
 匡	klkw
+孔	kszv
 刳	kudd
 喾	kuxk
 睽	kvot
@@ -1147,12 +1189,12 @@ use_preset_vocabulary: false
 垲	kdtj
 恳	kfgx
 轲	keik
+瘌	labd
 铑	lcjb
 濑	lddr
 箓	luvu
 氯	lvqu
 吏	lian
-蠃	lowf
 坽	lkts
 棱	lkmw
 滦	lrdm
@@ -1164,7 +1206,6 @@ use_preset_vocabulary: false
 廖	lngp
 尥	lnyu
 聋	lsle
-喇	lakd
 酪	lcyk
 冷	lgds
 牢	lcbn
@@ -1202,7 +1243,6 @@ use_preset_vocabulary: false
 连	lmzi
 疗	lnbl
 洛	lodk
-骡	lomx
 列	lpdd
 咧	lpkd
 流	lqdv
@@ -1342,6 +1382,7 @@ use_preset_vocabulary: false
 妞	nqni
 佴	ndre
 咛	nkkd
+镍	npjm
 狃	nqqi
 怒	nunx
 呕	oukx
@@ -1375,7 +1416,6 @@ use_preset_vocabulary: false
 曝	puou
 淠	pidl
 嫔	pbnb
-匏	pcds
 咆	pcks
 俳	pdrf
 郫	pipe
@@ -1395,6 +1435,8 @@ use_preset_vocabulary: false
 瑔	qrwu
 鼩	qujk
 区	qukx
+囚	qqkr
+鞧	qqgy
 祛	qups
 亲	qblm
 侵	qbry
@@ -1412,6 +1454,7 @@ use_preset_vocabulary: false
 轻	qkig
 清	qkdo
 亲	qklm
+箐	qkvo
 羌	qlyv
 炝	qlhv
 墙	qltk
@@ -1472,6 +1515,7 @@ use_preset_vocabulary: false
 啬	seuk
 嘶	sikj
 司	sivk
+漦	siwu
 竦	sslu
 讼	ssys
 粟	suxm
@@ -1486,7 +1530,6 @@ use_preset_vocabulary: false
 耜	silk
 淞	ssds
 涑	sudu
-觫	sudu
 燧	svhz
 飕	szjy
 沓	tauo
@@ -1497,6 +1540,7 @@ use_preset_vocabulary: false
 讨	tcyc
 跆	tdzk
 趟	thtk
+堂	thxt
 贪	tjrr
 坦	tjta
 摊	tjff
@@ -1524,6 +1568,7 @@ use_preset_vocabulary: false
 途	tuzh
 颓	tvhr
 蜕	tvie
+吞	tytk
 头	tzdd
 涂	tudh
 谈	tjyh
@@ -1557,7 +1602,6 @@ use_preset_vocabulary: false
 隃	uued
 椹	ufmv
 闪	ujmr
-衫	ujpp
 沙	uadu
 杉	uamp
 稍	ucho
@@ -1595,6 +1639,7 @@ use_preset_vocabulary: false
 薯	uuco
 爽	uldx
 烁	uohl
+朔	uobo
 澍	uudc
 输	uuid
 竖	uull
@@ -1626,6 +1671,7 @@ use_preset_vocabulary: false
 潸	ujdo
 舢	ujve
 山	ujlk
+砂	uauu
 摔	ukfu
 蒴	uoco
 束	uuan
@@ -1637,13 +1683,10 @@ use_preset_vocabulary: false
 哂	ufkx
 嵊	ugen
 珅	ufwu
-殳	uujy
 扎	vafv
-楂	vama
 浙	vedj
 蜇	vefi
 砧	vfuk
-祗	vipd
 纸	visu
 奘	vlvd
 窄	vdbv
@@ -1687,6 +1730,7 @@ use_preset_vocabulary: false
 浊	vodi
 灼	vohu
 卓	volu
+种	vshv
 钟	vsjv
 中	vsll
 踵	vszv
@@ -1706,7 +1750,8 @@ use_preset_vocabulary: false
 州	vzdl
 咒	vzkj
 周	vzkk
-执	vifw
+粥	vzgg
+挚	vifu
 棹	vcmu
 笊	vcvv
 诏	vcyk
@@ -1722,7 +1767,6 @@ use_preset_vocabulary: false
 踯	vize
 蘸	vjch
 湛	vjdv
-𫗴	vjua
 禚	voph
 酌	voyu
 颛	vrer
@@ -1769,6 +1813,7 @@ use_preset_vocabulary: false
 胃	wwto
 玮	wwww
 凹	wala
+枉	whmw
 碗	wjuv
 惋	wjxv
 婺	wusn
@@ -1779,7 +1824,6 @@ use_preset_vocabulary: false
 娓	wwnm
 旬	xybo
 炘	xbhj
-烜	xrha
 洗	xide
 舷	xmvy
 䜣	xbyj
@@ -1813,6 +1857,7 @@ use_preset_vocabulary: false
 醒	xkyu
 项	xlgr
 香	xlho
+响	xlkk
 详	xlyy
 衔	xmii
 线	xmsj
@@ -1822,6 +1867,8 @@ use_preset_vocabulary: false
 逍	xnzo
 效	xnww
 蟹	xpdi
+血	xppm
+懈	xpxn
 泄	xpdu
 械	xpmc
 斜	xpru
@@ -1847,6 +1894,7 @@ use_preset_vocabulary: false
 须	xupr
 墟	xuty
 恤	xuxx
+侠	xxrj
 狭	xxqj
 霞	xxyy
 殉	xydo
@@ -1862,7 +1910,6 @@ use_preset_vocabulary: false
 荇	xkci
 相	xlmo
 飨	xlxl
-庠	xlgy
 藓	xmcy
 仙	xmre
 冼	xmde
@@ -1891,7 +1938,6 @@ use_preset_vocabulary: false
 虚	xuhy
 𬊈	xyhc
 孝	xnlz
-懈	xpxn
 珢	ybwg
 银	ybjg
 咬	yckx
@@ -1902,7 +1948,6 @@ use_preset_vocabulary: false
 嬴	ykwf
 橼	yrmu
 瀹	ytdc
-尢	yzuv
 虞	yuht
 馧	yyhm
 韵	yyld
@@ -1913,6 +1958,7 @@ use_preset_vocabulary: false
 衙	yaii
 呀	yaky
 讶	yayy
+氩	yaqy
 引	ybgl
 椅	yimk
 荫	ybco
@@ -1922,6 +1968,7 @@ use_preset_vocabulary: false
 摇	ycff
 约	ycsu
 要	ycxn
+液	yedn
 痒	yhby
 洋	yhdy
 漾	yhdy
@@ -1953,7 +2000,6 @@ use_preset_vocabulary: false
 燕	yjnh
 易	yiow
 严	yjyp
-酽	yjyy
 延	yjzv
 颖	ykbr
 俨	yjry
@@ -1986,6 +2032,7 @@ use_preset_vocabulary: false
 庾	yugy
 鬻	yugl
 屿	yuey
+钰	yujy
 狱	yuqq
 预	yusr
 郁	yuue
@@ -1999,11 +2046,11 @@ use_preset_vocabulary: false
 酝	yyys
 有	yzuo
 由	yzla
+右	yzuk
 屹	yieq
 咦	yiky
 贻	yikk
 以	yivr
-狺	ybqk
 龈	ybvg
 夤	ybxb
 霪	ybyr
@@ -2024,7 +2071,6 @@ use_preset_vocabulary: false
 铅	yjjk
 腌	yjod
 研	yjuk
-鄢	yjve
 筵	yjvz
 琰	yjwh
 恹	yjxq
@@ -2043,7 +2089,6 @@ use_preset_vocabulary: false
 圄	yukk
 禺	yuld
 觎	yure
-鹬	yusn
 聿	yuvl
 谀	yuyy
 殒	yydr
@@ -2059,7 +2104,6 @@ use_preset_vocabulary: false
 飏	yhjp
 祐	yzpk
 验	yjma
-燠	yuhd
 柚	yzmy
 馌	yeum
 杂	zajm
@@ -2092,6 +2136,7 @@ use_preset_vocabulary: false
 梓	zimu
 镞	zuju
 卒	zuwu
+贼	zwku
 诹	zzyy
 偬	zsrx
 阼	zoev

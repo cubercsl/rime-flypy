@@ -1,7 +1,7 @@
 # 全码词 居后
 ---
 name: flypy.full
-version: "10.13.11"
+version: "10.26.1"
 use_preset_vocabulary: false
 ...
 刻意	keyi
@@ -36,7 +36,6 @@ use_preset_vocabulary: false
 束缚	uufu
 征服	vgfu
 歧视	qiui
-为止	wwvi
 瑕疵	xxci
 微信	wwxb
 反悔	fjhv
@@ -82,7 +81,6 @@ use_preset_vocabulary: false
 地痞	dipi
 淡季	djji
 顶住	dkvu
-屌丝	dnsi
 跌价	dpjx
 断点	drdm
 短篇	drpm
@@ -234,7 +232,6 @@ use_preset_vocabulary: false
 权力	qrli
 全套	qrtc
 取笑	quxn
-忍了	rfle
 任职	rfvi
 韧性	rfxk
 若是	roui
@@ -287,6 +284,7 @@ use_preset_vocabulary: false
 闪亮	ujll
 说道	uodc
 书信	uuxb
+谁知	uvvi
 水利	uvli
 收到	uzdc
 收工	uzgs
@@ -370,11 +368,9 @@ use_preset_vocabulary: false
 资深	ziuf
 资讯	zixy
 作假	zojx
-做了	zole
 踪迹	zsji
 宗旨	zsvi
 纵向	zsxl
-纵有	zsyz
 阻止	zuvi
 走近	zzjb
 彩蛋	cddj
@@ -422,7 +418,6 @@ use_preset_vocabulary: false
 座位	zoww
 妥妥当当	ttdd
 博而不精	bebj
-白日飞升	brfu
 不着边际	bvbj
 嘟嘟囔囔	ddnn
 恶言相向	eyxx
@@ -438,7 +433,7 @@ use_preset_vocabulary: false
 迷迷糊糊	mmhh
 美若天仙	mrtx
 破破烂烂	ppll
-千娇百媚	qjbm
+奇经八脉	qjbm
 人欢马叫	rhmj
 扰人清梦	rrqm
 条条框框	ttkk

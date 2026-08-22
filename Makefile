@@ -7,8 +7,9 @@ ifeq ($(RIME_DATA_DIR),)
 endif
 
 dict:
-	rime_deployer --compile flypy.schema.yaml
+	rime_deployer --compile flypyok.schema.yaml
 	rime_deployer --compile flypydz.schema.yaml
+	rime_deployer --compile flypy.schema.yaml
 
 install-lua:
 	install -vDm644 lua/*.lua -t $(DESTDIR)$(RIME_DATA_DIR)/lua

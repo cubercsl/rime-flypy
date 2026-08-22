@@ -4,13 +4,14 @@
 schema:
   schema_id: flypy
   name: 小鹤音形
-  version: "10.13.11"
+  version: "10.26.1"
   author:
     - 方案设计：何海峰 flypy.cc
   description: |
     小鹤音形输入法
   dependencies:
     - flypydz
+    - flypyok
 
 punctuator:
   import_preset: default
@@ -41,12 +42,14 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@ok_mode
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - table_translator
+    - table_translator@ok_mode
     - lua_translator@*flypy_date_translator
     - lua_translator@*flypy_time_translator
     - reverse_lookup_translator
@@ -75,6 +78,16 @@ translator:
   enable_user_dict: false
   disable_user_dict_for_patterns:
     - "^z.*$"
+
+ok_mode:
+  tag: ok_mode
+  dictionary: flypyok
+  prefix: "ok"
+  tips: 〔拼字〕
+  enable_charset_filter: false
+  enable_completion: false
+  enable_sentence: false
+  enable_user_dict: false
 
 history:
    input: ;f
@@ -117,6 +130,7 @@ recognizer:
     #uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     uppercase: "" #中文状态大写锁定直接上屏
     reverse_lookup: "[a-z`]*`+[a-z`]*"
+    ok_mode: "^ok[a-z']*$"
     punct: ""
     expression: "^=.*$"
 

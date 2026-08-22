@@ -1,25 +1,27 @@
-# Rime schema
+# Rime schema settings
 # encoding: utf-8
 
 schema:
   schema_id: flypydz
   name: 小鹤音形反查
-  version: "10.13.11"
+  version: "10.26.1"
   author:
     - 方案设计：何海峰 flypy.cc
   description: |
-    小鹤音形输入法反查词库
+    小鹤音形输入法反查单字词库
 
 switches:
   - name: ascii_mode
     reset: 0
+    states: [ CN, EN ]
 
 engine:
   processors:
     - ascii_composer
+    - recognizer
     - key_binder
     - speller
-    - recognizer
+    - punctuator
     - selector
     - navigator
     - express_editor
@@ -27,43 +29,47 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
+    - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
     - table_translator
+    - reverse_lookup_translator
   filters:
+    - simplifier
     - uniquifier
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyz;'`"
-  finals: "'"
+  alphabet: '/;zyxwvutsrqponmlkjihgfedcba'
+  initials: 'abcdefghijklmnopqrstuvwxyz;'
+  finals: '/'
+  max_code_length: 4
+  auto_select: true
+  auto_select_pattern: ^;.$|^\w{4}$
   algebra:
-    - derive/^[a-z]{4}$/````/                         # ````
-    - derive/^[a-z]{3}([a-z])$/```$1/                 # ```a
-    - derive/^[a-z]{2}([a-z])[a-z]$/``$1`/            # ``a`
-    - derive/^[a-z]{2}([a-z]{2})$/``$1/               # ``aa
-    - derive/^[a-z]([a-z])[a-z]{2}$/`$1``/            # `a``
-    - derive/^[a-z]([a-z])[a-z]([a-z])$/`$1`$2/       # `a`a
-    - derive/^[a-z]([a-z]{2})[a-z]$/`$1`/             # `aa`
-    - derive/^[a-z]([a-z]{3})$/`$1/                   # `aaa
-    - derive/^([a-z])[a-z]{3}$/$1```/                 # a```
-    - derive/^([a-z])[a-z]{2}([a-z])$/$1``$2/         # a``a
-    - derive/^([a-z])[a-z]([a-z])[a-z]$/$1`$2`/       # a`a`
-    - derive/^([a-z])[a-z]([a-z]{2})$/$1`$2/          # a`aa
-    - derive/^([a-z]{2})[a-z]{2}$/$1``/               # aa``
-    - derive/^([a-z]{2})[a-z]([a-z])$/$1`$2/          # aa`a
-    - derive/^([a-z]{3})[a-z]$/$1`/                   # aaa`
+    - derive/^.(.*)$/`$1/
+    - derive/^(.).(.*)$/$1`$2/
+    - derive/^(..).(.*)$/$1`$2/
+    - derive/^(...).$/$1`/
 
 translator:
   dictionary: flypydz
   enable_charset_filter: false
+  enable_completion: false
   enable_sentence: false
-  enable_completion: true
   enable_user_dict: false
-  disable_user_dict_for_patterns:
-    - "^z.*$"
+  inherit: false
+  preedit_format:
+    - xform/^`(.*)/$1/
 
-key_binder:
-  import_preset: default
-
-recognizer:
-  import_preset: default
+reverse_lookup:
+  dictionary: flypydz
+  inherit: false
+  enable_user_dict: false
+  enable_sentence: false
+  enable_completion: false
+  enable_charset_filter: false
+  enable_encoder: false
+  filter: '^(?!.*\bok)'
+  comment_format:
+    - xform/ / /

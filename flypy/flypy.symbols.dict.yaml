@@ -1,7 +1,7 @@
 # 符号
 ---
 name: flypy.symbols
-version: "10.13.11"
+version: "10.26.1"
 use_preset_vocabulary: false
 ...
 一	oba	111
@@ -130,7 +130,7 @@ use_preset_vocabulary: false
 ‖	ofbd	72
 ∶	ofbd	71
 ＂	ofbd	70
-ofbd	69
+＇	ofbd	69
 ｀	ofbd	68
 ｜	ofbd	67
 点数u	ofd	100

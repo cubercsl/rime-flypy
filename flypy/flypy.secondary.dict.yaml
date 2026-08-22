@@ -1,29 +1,23 @@
 # 次选字词
 ---
 name: flypy.secondary
-version: "10.13.11"
+version: "10.26.1"
 use_preset_vocabulary: false
 ...
 簟	dmv
 镞	zuj
-榇	ifmm
 焰	yjhj
 解	xpdn
-湎	mmdm
 辟	biuu
 抚	fufw
-佛	furf
 汲	jidj
 沏	qidd
 骐	qimb
 钎	qmjq
-挚	vifu
 烯	xihj
-奄	yjdd
 魇	yjig
 鸨	bcb
 龅	bcv
-荜	bicu
 璧	biu
 槟	bkm
 煸	bmh
@@ -31,8 +25,6 @@ use_preset_vocabulary: false
 孛	bou
 粢	cid
 𬱖	diy
-箪	djv
-膻	djo
 汾	ffd
 钒	fjj
 梵	fjm
@@ -52,22 +44,17 @@ use_preset_vocabulary: false
 濠	hcd
 涸	hed
 嗬	hek
-𬌗	hey
 恍	hlx
-奂	hrd
 泓	hsd
 斛	hud
-烀	huh
 烩	hvh
 骅	hxm
 焯	ich
-梣	ifm
 氅	ihx
 怅	ihxi
 浐	ijd
 蚩	iiv
 忡	isx
-蜍	iui
 巾	jbl
 矜	jbs
 蓟	jic
@@ -92,17 +79,14 @@ use_preset_vocabulary: false
 僭	jmr
 戬	jmy
 敫	jnb
-醮	jny
 诘	jpy
 疚	jqb
 苣	juc
 飓	juj
 桔	jum
 惧	jux
-遽	juz
 镓	jxj
 咯	kak
-贶	klk
 吏	lia
 荔	lic
 厘	lii
@@ -124,7 +108,6 @@ use_preset_vocabulary: false
 摩	mog
 苜	muc
 媒	mwn
-匏	pcd
 莆	puc
 芑	qic
 漆	qid
@@ -133,7 +116,6 @@ use_preset_vocabulary: false
 憩	qiq
 骞	qmb
 铅	qmj
-觫	sud
 燧	svh
 遢	taz
 溏	thd
@@ -153,12 +135,10 @@ use_preset_vocabulary: false
 拯	vgf
 筝	vgv
 汁	vid
-执	vif
+挚	vif
 枳	vim
-祗	vip
 智	viu
 湛	vjd
-𫗴	vju
 渚	vud
 株	vum
 诬	wuy
@@ -171,7 +151,6 @@ use_preset_vocabulary: false
 奚	xip
 硒	xiu
 惺	xkx
-庠	xlg
 岘	xme
 蚬	xmi
 娴	xmn
@@ -197,9 +176,7 @@ use_preset_vocabulary: false
 衍	yji
 铅	yjj
 檐	yjm
-鄢	yjv
 琰	yjw
-酽	yjy
 莹	ykc
 膺	ykg
 鹦	ykk
@@ -212,25 +189,23 @@ use_preset_vocabulary: false
 萸	yuc
 浴	yud
 鬻	yug
+钰	yuj
 圄	yuk
 觎	yur
-鹬	yus
 谀	yuy
 纭	yys
-尢	yzu
-蚰	yzi
+蝣	yzi
 渍	zid
 蕃	fjct
 麸	fuff
 蝠	fuit
 赙	fukc
-鸱	iid
 矶	jiuj
 蛎	liiw
 栎	liml
-蠃	low
 洌	lpdd
 闾	lvmk
+蟊	mcsi
 暝	mkob
 茉	mocm
 祇	qipu
@@ -239,7 +214,6 @@ use_preset_vocabulary: false
 姝	uun
 蜇	vef
 嵬	wweg
-烜	xrh
 呷	xxkj
 殃	yhdy
 痍	yiby
@@ -251,10 +225,7 @@ use_preset_vocabulary: false
 彧	yua
 淤	yudd
 咨	zidk
-骱	jpg
-燠	yuh
 乩	jil
-殳	uuj
 按键	aj
 背景	bj
 参加	cj
@@ -295,13 +266,14 @@ use_preset_vocabulary: false
 困难	kn
 两边	lb
 链接	lj
+两位	lw
 慢慢	mm
 面前	mq
 每天	mt
 情况	qk
 前面	qm
 恰恰	qq
-前天	qt
+其他	qt
 歧视	qu
 确认	qr
 仍然	rr
@@ -325,7 +297,7 @@ use_preset_vocabulary: false
 征服	vf
 只会	vh
 支持	vi
-整句	vj
+直接	vj
 追求	vq
 只是	vu
 真正	vv
@@ -360,7 +332,6 @@ use_preset_vocabulary: false
 不客气	bkq
 闭门羹	bmg
 保密性	bmx
-不满意	bmy
 不舒服	buf
 大多数	ddu
 打火机	dhj
@@ -369,15 +340,14 @@ use_preset_vocabulary: false
 都江堰	djy
 电视剧	duj
 单引号	dyh
+发际线	fjx
 放射性	fux
 服务器	fwq
-关节炎	gjy
 感兴趣	gxq
 刽子手	gzu
 含金量	hjl
 花架子	hjz
 出发点	ifd
-基本功	jbg
 几百年	jbn
 记不住	jbv
 警察局	jij
@@ -390,7 +360,6 @@ use_preset_vocabulary: false
 局限性	jxx
 局域网	jyw
 跨时代	kud
-轮不到	lbd
 里程碑	lib
 龙卷风	ljf
 两句话	ljh
@@ -405,6 +374,7 @@ use_preset_vocabulary: false
 敲门砖	qmv
 起跑线	qpx
 情人节	qrj
+腆着脸	tvl
 说服力	ufl
 石家庄	ujv
 势利眼	uly
@@ -442,6 +412,7 @@ use_preset_vocabulary: false
 暗器	anqi
 芭蕉	bajn
 不谙世事	bauu
+斑斑点点	bbdd
 本本分分	bbff
 变本加厉	bbjl
 边边角角	bbjj
@@ -505,7 +476,6 @@ use_preset_vocabulary: false
 不明所以	bmsy
 贬值	bmvi
 拔苗助长	bmvv
-便携	bmxp
 编译	bmyi
 闭门造车	bmzi
 百年大计	bndj
@@ -515,6 +485,7 @@ use_preset_vocabulary: false
 不求上进	bquj
 毕其功于一役	bqgy
 笨手笨脚	bubj
+半生不熟	bubu
 板上钉钉	budd
 部队	budv
 不施粉黛	bufd
@@ -531,6 +502,7 @@ use_preset_vocabulary: false
 百无聊赖	bwll
 背弃	bwqi
 不外如是	bwru
+不识抬举	butj
 百无一用	bwyy
 报喜不报忧	bxby
 百依百顺	bybu
@@ -543,6 +515,7 @@ use_preset_vocabulary: false
 大涨	davh
 独霸一方	dbyf
 捣蛋	dcdj
+大操大办	dcdb
 打草惊蛇	dcju
 多此一举	dcyj
 单打独斗	dddd
@@ -555,6 +528,7 @@ use_preset_vocabulary: false
 胆大妄为	ddww
 大跌眼镜	ddyj
 多多益善	ddyu
+吊儿郎当	deld
 达官贵人	dggr
 电光石火	dguh
 担纲	djgh
@@ -596,7 +570,6 @@ use_preset_vocabulary: false
 丢卒保车	dzbj
 斗笠	dzli
 恩恩怨怨	eeyy
-发愣	falg
 愤愤不平	ffbp
 反反复复	ffff
 分分合合	ffhh
@@ -634,6 +607,7 @@ use_preset_vocabulary: false
 光打雷不下雨	gdly
 古道热肠	gdri
 功到自然成	gdzi
+呱呱叫	ggjn
 狗改不了吃屎	ggbu
 归根到底	ggdd
 公共场合	ggih
@@ -730,7 +704,6 @@ use_preset_vocabulary: false
 好说歹说	hudu
 呼唤	huhr
 胡椒	hujn
-后生可畏	hukw
 欢声雷动	huld
 护理	huli
 华山论剑	hulj
@@ -744,7 +717,6 @@ use_preset_vocabulary: false
 哗众取宠	hvqi
 晦涩	hvse
 会晤	hvwu
-话中有话	hvyh
 毫无用处	hwyi
 毫无怨言	hwyy
 横行霸道	hxbd
@@ -770,10 +742,8 @@ use_preset_vocabulary: false
 超凡脱俗	ifts
 冲锋陷阵	ifxv
 城墙	igql
-春寒料峭	ihlq
 承建	igjm
 出乖露丑	igli
-橙汁	igvi
 承销	igxn
 冲冠一怒为红颜	igyy
 晨昏颠倒	ihdd
@@ -882,6 +852,7 @@ use_preset_vocabulary: false
 解禁	jpjb
 洁净	jpjk
 节俭	jpjm
+揭秘	jpmi
 阶梯	jpti
 结实	jpui
 戒指	jpvi
@@ -980,6 +951,7 @@ use_preset_vocabulary: false
 令人齿冷	lril
 令人胆寒	lrdh
 令人感动	lrgd
+令人震惊	lrvj
 理所当然	lsdr
 牢骚满腹	lsmf
 掠过	ltgo
@@ -1039,7 +1011,7 @@ use_preset_vocabulary: false
 美化	mwhx
 面无人色	mwrs
 美貌	mwmc
-梅雨	mwyu
+目无尊长	mwzv
 名言警句	myjj
 鸟尽弓藏	njgc
 南海	njhd
@@ -1060,7 +1032,6 @@ use_preset_vocabulary: false
 攀折	pjve
 破口大骂	pkdm
 拍马难及	pmnj
-破位	poww
 岂不快哉	qbkz
 曲不离口	qblk
 禽兽	qbuz
@@ -1109,7 +1080,6 @@ use_preset_vocabulary: false
 青面獠牙	qmly
 前年	qmnm
 牵手	qmuz
-千兆	qmvc
 牵着	qmve
 潜质	qmvi
 亲密无间	qmwj
@@ -1123,7 +1093,7 @@ use_preset_vocabulary: false
 齐齐哈尔	qqhe
 清清爽爽	qquu
 卿卿我我	qqww
-芊芊玉手	qqyu
+穷其一生	qqyu
 求人不如求己	qrbj
 全称	qrig
 诠释	qrui
@@ -1140,12 +1110,10 @@ use_preset_vocabulary: false
 气势汹汹	quxx
 趋于	quyu
 牵一发而动全身	qyfu
-轻言细语	qyxy
 人不人鬼不鬼	rbrg
 妊娠	rfuf
 日复一日	rfyr
 如诗如画	rurh
-软硬不吃	rybi
 所到之处	sdvi
 死而不僵	sebj
 私房	sifh
@@ -1166,6 +1134,7 @@ use_preset_vocabulary: false
 天寒地冻	thdd
 谈虎色变	thsb
 同吃同住	titv
+替身	tiuf
 条件反射	tjfu
 囤积居奇	tjjq
 弹琴	tjqb
@@ -1276,6 +1245,7 @@ use_preset_vocabulary: false
 熟视无睹	uuwd
 上上下下	uuxx
 稍胜一筹	uuyi
+恕罪	uuzv
 时势造英雄	uuzx
 胜之不武	uvbw
 身正不怕影子斜	uvbx
@@ -1314,7 +1284,6 @@ use_preset_vocabulary: false
 中规中矩	vgvj
 至高无上	vgwu
 这个月	vgy
-正义	vgyi
 涨幅	vhfu
 追悔莫及	vhmj
 致辞	vici
@@ -1344,7 +1313,6 @@ use_preset_vocabulary: false
 战友	vjyz
 直来直去	vlvq
 珍禽异兽	vqyu
-众人拾柴火焰高	vrug
 终端	vsdr
 终极	vsji
 终结	vsjp
@@ -1353,7 +1321,6 @@ use_preset_vocabulary: false
 嘱咐	vufu
 主观	vugr
 著称	vuig
-主见	vujm
 驻留	vulq
 著书立说	vulu
 著名	vumk
@@ -1486,6 +1453,7 @@ use_preset_vocabulary: false
 血浓于水	xnyu
 懈怠	xpdd
 血盆大口	xpdk
+胁迫	xppo
 亵玩	xpwj
 写字	xpzi
 贤妻良母	xqlm
@@ -1500,7 +1468,6 @@ use_preset_vocabulary: false
 喜上眉梢	xumu
 修身养性	xuyx
 修修补补	xxbb
-心绪不宁	xxbn
 絮絮叨叨	xxdd
 险象环生	xxhu
 瞎扯	xxie
@@ -1516,12 +1483,12 @@ use_preset_vocabulary: false
 遐想	xxxl
 下限	xxxm
 先下一城	xxyi
+纤纤玉手	xxyu
 心心相印	xxxy
 小心眼	xxy
 香消玉殒	xxyy
 咸鱼翻身	xyfu
 宵衣旰食	xygu
-匈牙利	xyli
 悬崖勒马	xylm
 学有所成	xysi
 心有所属	xysu
@@ -1535,6 +1502,7 @@ use_preset_vocabulary: false
 欲罢不能	ybbn
 摇摆不定	ybbd
 引渡	ybdu
+一般见识	ybju
 愚不可及	ybkj
 眼波流转	yblv
 一笔抹杀	ybmu
@@ -1577,6 +1545,7 @@ use_preset_vocabulary: false
 阴差阳错	yiyc
 越扯越远	yiyy
 一击毙命	yjbm
+一家独大	yjdd
 油尽灯枯	yjdk
 衣锦还乡	yjhx
 演唱	yjih
@@ -1593,7 +1562,6 @@ use_preset_vocabulary: false
 一技之长	yjvi
 一己之私	yjvs
 远见卓识	yjvu
-欲加之罪	yjvz
 厌恶	yjwu
 以儆效尤	yjxy
 言尽于此	yjyc
@@ -1609,7 +1577,7 @@ use_preset_vocabulary: false
 于情于理	yqyl
 阴晴圆缺	yqyq
 有权有势	yqyu
-用人不疑，疑人不用	yrby
+疑人不用	yrby
 一人得道	yrdd
 一荣俱荣	yrjr
 冤家	yrjx
@@ -1644,6 +1612,7 @@ use_preset_vocabulary: false
 移山填海	yuth
 一身是胆	yuud
 一试身手	yuuu
+预制	yuvi
 有识之士	yuvu
 衣食无忧	yuwy
 以身相许	yuxx
@@ -1659,6 +1628,7 @@ use_preset_vocabulary: false
 莺声燕语	yuyy
 怨声载道	yuzd
 咬舌自尽	yuzj
+一争高下	yvgx
 言之有理	yvyl
 以战养战	yvyv
 言之有物	yvyw

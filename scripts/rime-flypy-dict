@@ -1,4 +1,6 @@
-#!/bin/bash -e
+#!/bin/bash
+set -euo pipefail
+
 #            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 #                    Version 2, December 2004
 #
@@ -7,25 +9,22 @@
 # Everyone is permitted to copy and distribute verbatim or modified
 # copies of this license document, and changing it is allowed as long
 # as the name is changed.
-# 
+#
 #            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 #   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 #
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
 
-### This script is used to decompile flypy dict from binary to a yaml file.
-### The 'rime_table_decompiler' should be installed from librime >=1.9.0.
+### Decompile the upstream Flypy main table into the repository's primary dictionary.
+### Requires rime_table_decompiler from librime >= 1.9.0.
 ###
-### License: WTFPL v2
-###
-### Usage: rime-flypy-dict <options> -- [version]
+### Usage: rime-flypy-dict --assets DIR --output DIR --version VERSION
 ###
 ### Options:
-###   -h, --help            show this help message and exit
-###   -a ASSETS, --assets=ASSETS
-###                         assets directory
-###   -o OUTPUT, --output=OUTPUT
-###                         output directory
+###   -h, --help             Show this help message and exit
+###   -a, --assets DIR       Directory containing flypy.table.bin
+###   -o, --output DIR       Repository output directory
+###   -v, --version VERSION  Dictionary version
 
 print_help() {
     sed -rn 's/^### ?//;T;p' "$0" >&2
@@ -35,8 +34,9 @@ script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
 root_dir=$(dirname "$script_dir")
 assets_dir=$root_dir/assets
 output_dir=$root_dir
+version=
 
-options=$(getopt -o ha:o: -l help,assets:,output: -n flypy-dict -- "$@") || {
+options=$(getopt -o ha:o:v: -l help,assets:,output:,version: -n rime-flypy-dict -- "$@") || {
     print_help
     exit 1
 }
@@ -55,38 +55,38 @@ while true; do
             output_dir=$2
             shift 2
             ;;
+        -v|--version)
+            version=$2
+            shift 2
+            ;;
         --)
             shift
             break
             ;;
-        *)
-            echo "Invalid option: $1" >&2
-            print_help
-            exit 1
-            ;;
     esac
 done
 
-version=${1:-1.0}
-
-echo "assets_dir: $assets_dir"
-echo "output_dir: $output_dir"
-echo "version: $version"
+if [[ $# -ne 0 || -z $version ]]; then
+    print_help
+    exit 1
+fi
 
 command -v rime_table_decompiler &> /dev/null || {
     echo "rime_table_decompiler not found" >&2
-    print_help
     exit 1
 }
 
-for schema in flypy{,dz}; do
-    echo "Generating $schema dict"
-    [ -f "$assets_dir/$schema.table.bin" ] || {
-        echo "File not found: $assets_dir/$schema.table.bin" >&2
-        exit 1
-    }
-    rime_table_decompiler "$assets_dir/$schema.table.bin" "$output_dir/$schema.dict.yaml"
+source_file=$assets_dir/flypy.table.bin
+output_file=$output_dir/flypy/flypy.primary.dict.yaml
 
-    # Change version
-    sed -i "s/version: .*/version: \"$version\"/" "$output_dir/$schema.dict.yaml"
-done
+[[ -f $source_file ]] || {
+    echo "File not found: $source_file" >&2
+    exit 1
+}
+
+mkdir -p "$(dirname "$output_file")"
+rime_table_decompiler "$source_file" "$output_file"
+sed -i \
+    -e "s/^name: .*/name: flypy.primary/" \
+    -e "s/^version: .*/version: \"$version\"/" \
+    "$output_file"

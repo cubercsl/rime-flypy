@@ -1,9 +1,13 @@
-# 随心   自定编码规则，零星调节重码或别扭码
+# 随心
 ---
 name: flypy.whimsicality
-version: "10.13.11"
+version: "10.26.1"
 use_preset_vocabulary: false
 ...
+智	viud
+计	jiyd
+辨	bmld
+辫	bmls
 单元	dye
 回忆	hyx
 简洁	jjd
@@ -22,7 +26,7 @@ use_preset_vocabulary: false
 音形	yxk
 觉得	jdi
 刻意	kys
-智	viud
-计	jiyd
-辨	bmld
-辫	bmls
+整句	vjb
+便宜	pyb
+回改	hgj
+词频	cpv
