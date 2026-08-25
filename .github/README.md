@@ -69,7 +69,31 @@ rime_deployer --build "$(pwd)" /usr/share/rime-data
 
 ### 用户词库
 
-用户词库位于 `flypy/flypy.user.dict.yaml` 和 `flypy/flypy.user.top.dict.yaml`，仓库版本保持为空。如需定制，请将文件复制到 Rime 用户资料夹后编辑。
+用户词库使用 Rime 用户资料夹中的两个本地文本码表：
+
+- `flypy.user.top.txt`：置顶词条，候选顺序高于主码表。
+- `flypy.user.txt`：普通词条，候选顺序低于主码表。
+
+仓库不会提供或安装这两个文件，因此 Plum 和系统包升级不会覆盖用户内容。文件无需 YAML 头，每行格式为 `词条<Tab>编码[<Tab>整数权重]`：
+
+```text
+自定义词条	zdydu	100
+按	a	99
+吧	b
+```
+
+保存文件后重新部署 Rime 即可生效。
+
+#### 从旧版 YAML 用户词库迁移
+
+升级到使用 TXT 用户词库的版本时，Plum 会保留用户资料夹中已有的 `flypy/flypy.user.dict.yaml` 和 `flypy/flypy.user.top.dict.yaml`，但新配置不再读取它们。迁移方法如下：
+
+1. 新建 `flypy.user.txt` 和 `flypy.user.top.txt`。
+2. 将对应旧 YAML 文件中 `...` 之后的词条复制到新 TXT 文件，不复制 YAML 头。
+3. 重新部署并确认用户词条正常显示。
+4. 确认迁移完成后删除旧 YAML 文件。
+
+两个 TXT 文件必须使用制表符分隔字段。普通空格不能代替制表符。
 
 ### 补充简码与模式切换
 

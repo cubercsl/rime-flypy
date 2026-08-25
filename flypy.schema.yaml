@@ -48,7 +48,9 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@user_top
     - table_translator
+    - table_translator@user_phrase
     - table_translator@ok_mode
     - lua_translator@*flypy_date_translator
     - lua_translator@*flypy_time_translator
@@ -76,8 +78,22 @@ translator:
   enable_sentence: false
   enable_completion: false # 编码提示开关
   enable_user_dict: false
-  disable_user_dict_for_patterns:
-    - "^z.*$"
+
+user_top:
+  dictionary: ""
+  user_dict: flypy.user.top
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+user_phrase:
+  dictionary: ""
+  user_dict: flypy.user
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: -1
 
 ok_mode:
   tag: ok_mode

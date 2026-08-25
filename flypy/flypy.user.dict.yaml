@@ -1,6 +1,0 @@
-# 用户词库
----
-name: flypy.user
-version: "10.26.1"
-use_preset_vocabulary: false
-...

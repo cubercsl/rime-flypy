@@ -68,8 +68,6 @@ DICTIONARY_COMMENTS = {
     "full": "全码词 居后",
     "full.char": "全码字",
     "ok": "ok拼字",
-    "user.top": "用户置顶词库",
-    "user": "用户词库",
 }
 
 # The upstream text omits U+FF07 from the fullwidth punctuation sequence.
@@ -295,9 +293,6 @@ def convert(source_dir: Path, output_dir: Path, version: str) -> None:
     dictionaries["ok"] = strip_code_prefix(
         parse_rime_dictionary(ok_source), "ok", ok_source
     )
-    dictionaries["user.top"] = []
-    dictionaries["user"] = []
-
     reverse_lookup_entries = normalize_reverse_lookup_dictionary(
         source_dir / "flypydz.dict.yaml"
     )

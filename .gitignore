@@ -5,3 +5,9 @@ punctuation.yaml
 symbols.yaml
 
 build/
+
+# User-owned dictionaries
+/flypy.user.txt
+/flypy.user.top.txt
+/flypy/flypy.user.dict.yaml
+/flypy/flypy.user.top.dict.yaml

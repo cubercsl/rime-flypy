@@ -52,7 +52,6 @@ def main() -> None:
         print(f"^{code[:2]} {word}")
 
     dictionaries = (
-        "flypy.user.top",
         "flypy.fast.symbols",
         "flypy.primary",
         "flypy.secondary",
@@ -63,7 +62,6 @@ def main() -> None:
         "flypy.wechat",
         "flypy.primary.short.word",
         "flypy.whimsicality",
-        "flypy.user",
     )
     for dictionary in dictionaries:
         for code, word in yaml_entries(ROOT / "flypy" / f"{dictionary}.dict.yaml"):
